@@ -1,0 +1,200 @@
+.com-header,
+.com-header * {
+  box-sizing: border-box;
+}
+.com-header {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 1668px;
+  height: 104px;
+  position: relative;
+  overflow: hidden;
+}
+.group-706 {
+  position: absolute;
+  inset: 0;
+}
+.btn-profile {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1442px;
+  top: 26px;
+}
+.frame-691 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.img-profile {
+  flex-shrink: 0;
+  width: 52px;
+  height: 52px;
+  position: relative;
+}
+.etc-profile {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 50%;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.ab-admin {
+  color: var(--grayscale-600, #333333);
+  text-align: left;
+  font: 700 16px/16px "Pretendard", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon-24-24-arrow-down-off {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.frame-3182 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1350px;
+  top: 40px;
+}
+.icon-24-24-setting-off {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.frame {
+  position: absolute;
+  left: 4px;
+  top: 3px;
+  overflow: visible;
+}
+.btn-input-category-search {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 338px;
+  top: 32px;
+}
+.btn-input-category {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.button-sub-2-dapth {
+  background: var(--black-white-white, #ffffff);
+  border-radius: 50px;
+  border-style: solid;
+  border-color: var(--grayscale-300, #e3e3e3);
+  border-width: 1px;
+  padding: 10px 26px 10px 35px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-909 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.patient {
+  color: var(--grayscale-600, #333333);
+  text-align: left;
+  font: var(--subtitle-subtlitle-3-medium, 500 16px/24px "Poppins", sans-serif);
+  position: relative;
+  width: 63px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icn {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-24px, -24px);
+  overflow: visible;
+}
+.input-box-search {
+  background: var(--black-white-white, #ffffff);
+  border-radius: 50px;
+  border-style: solid;
+  border-color: var(--grayscale-300, #e3e3e3);
+  border-width: 1px;
+  padding: 10px 32px 10px 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+/* . {
+  color: var(--grayscale-500, #8c8c8c);
+  text-align: left;
+  font: var(--body-body-2-light, 300 16px/26px "Poppins", sans-serif);
+  position: relative;
+  width: 249px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+} */
+.icn2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-2 {
+  position: absolute;
+  left: 2px;
+  top: 1.7px;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}

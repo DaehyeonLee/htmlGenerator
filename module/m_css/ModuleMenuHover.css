@@ -1,0 +1,103 @@
+.module-menu-hover,
+.module-menu-hover * {
+  box-sizing: border-box;
+}
+.module-menu-hover {
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 2393px;
+  position: relative;
+}
+.frame-1131 {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 251px;
+  height: 1080px;
+  position: relative;
+}
+.group-742 {
+  position: absolute;
+  inset: 0;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 104px;
+}
+.etc-logo {
+  width: 106px;
+  height: 36px;
+  position: absolute;
+  left: 40px;
+  top: 32px;
+  overflow: hidden;
+}
+.group-686 {
+  position: absolute;
+  inset: 0;
+}
+.group {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: 48.97px;
+  top: 0px;
+  overflow: visible;
+}
+.group2 {
+  position: absolute;
+  left: 14.24px;
+  top: 13.22px;
+  overflow: visible;
+}
+.vector8 {
+  position: absolute;
+  left: 73.32px;
+  top: 13.24px;
+  overflow: visible;
+}
+.vector9 {
+  position: absolute;
+  left: 53.66px;
+  top: 13.23px;
+  overflow: visible;
+}
+.vector10 {
+  position: absolute;
+  left: 63.76px;
+  top: 13.23px;
+  overflow: visible;
+}
+.vector11 {
+  position: absolute;
+  left: 83.57px;
+  top: 13.24px;
+  overflow: visible;
+}
+.frame-742 {
+  background: #e3e3e3;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 1px;
+  position: relative;
+}

@@ -7,31 +7,31 @@ export const Sub01PatientManageDetail = ({
   ...props
 }: ISub01PatientManageDetailProps): JSX.Element => {
   return (
-    <div className="sub-01-patient-manage-detail">
-      <div className="module-menu-status">
-        <div className="module-menu-hover">
-          <div className="frame-7"></div>
+    <div className="D_sub-01-patient-manage-detail">
+      <div className="D_module-menu-status">
+        <div className="D_module-menu-hover">
+          <div className="D_frame-7"></div>
         </div>
 
-        <div className="frame-705"></div>
+        <div className="D_frame-705"></div>
       </div>
 
-      <div className="patient-detail-contents">
-        <div className="com-header">
-          <div className="group-706">
-            <div className="btn-profile">
-              <div className="frame-691">
-                <div className="img-profile">
-                  <img className="etc-profile" src="etc-profile.png" />
+      <div className="D_patient-detail-contents">
+        <div className="D_com-header">
+          <div className="D_group-706">
+            <div className="D_btn-profile">
+              <div className="D_frame-691">
+                <div className="D_img-profile">
+                  <img className="D_etc-profile" src="etc-profile.png" />
                 </div>
 
-                <div className="frame-2">
-                  <div className="ab-admin">AB Admin</div>
+                <div className="D_frame-2">
+                  <div className="D_ab-admin">AB Admin</div>
                 </div>
               </div>
 
               <svg
-                className="icon-24-24-arrow-down-off"
+                className="D_icon-24-24-arrow-down-off"
                 width="24"
                 height="24"
                 viewBox="0 0 24 24"
@@ -48,10 +48,10 @@ export const Sub01PatientManageDetail = ({
               </svg>
             </div>
 
-            <div className="frame-3182">
-              <div className="icon-24-24-setting-off">
+            <div className="D_frame-3182">
+              <div className="D_icon-24-24-setting-off">
                 <svg
-                  className="frame-setting"
+                  className="D_frame-setting"
                   width="17"
                   height="18"
                   viewBox="0 0 17 18"
@@ -83,14 +83,14 @@ export const Sub01PatientManageDetail = ({
               </div>
             </div>
 
-            <div className="btn-input-category-search">
-              <div className="btn-input-category">
-                <div className="button-sub-2-dapth">
-                  <div className="frame-909">
-                    <div className="patient">Patient</div>
+            <div className="D_btn-input-category-search">
+              <div className="D_btn-input-category">
+                <div className="D_button-sub-2-dapth">
+                  <div className="D_frame-909">
+                    <div className="D_patient">Patient</div>
 
                     <svg
-                      className="icn-ul-arrow"
+                      className="D_icn-ul-arrow"
                       width="24"
                       height="24"
                       viewBox="0 0 24 24"
@@ -109,13 +109,13 @@ export const Sub01PatientManageDetail = ({
                 </div>
               </div>
 
-              <div className="input-box-search">
-                <div className="frame-909">
-                  <div className="">검색어를 입력해 주세요.</div>
+              <div className="D_input-box-search">
+                <div className="D_frame-909">
+                  <div className="D_">검색어를 입력해 주세요.</div>
 
-                  <div className="icn-search">
+                  <div className="D_icn-search">
                     <svg
-                      className="group-2"
+                      className="D_group-2"
                       width="18"
                       height="19"
                       viewBox="0 0 18 19"
@@ -142,23 +142,23 @@ export const Sub01PatientManageDetail = ({
           </div>
         </div>
 
-        <div className="patient-information">
-          <div className="frame-2237">
-            <div className="patient-info">
-              <div className="frame-1119">
-                <div className="D2">환자정보</div>
+        <div className="D_patient-information">
+          <div className="D_frame-2237">
+            <div className="D_patient-info">
+              <div className="D_frame-1119">
+                <div className="D_D2">환자정보</div>
               </div>
 
-              <div className="rectangle-568"></div>
+              <div className="D_rectangle-568"></div>
             </div>
 
-            <div className="personal-info">
-              <div className="frame-1232">
-                <div className="frame-1231">
-                  <div className="frame-780">
-                    <div className="icn-human">
+            <div className="D_personal-info">
+              <div className="D_frame-1232">
+                <div className="D_frame-1231">
+                  <div className="D_frame-780">
+                    <div className="D_icn-human">
                       <svg
-                        className="frame"
+                        className="D_frame"
                         width="22"
                         height="25"
                         viewBox="0 0 22 25"
@@ -182,14 +182,14 @@ export const Sub01PatientManageDetail = ({
                       </svg>
                     </div>
 
-                    <div className="D3">오지명(남)</div>
+                    <div className="D_D3">오지명(남)</div>
                   </div>
 
-                  <div className="frame-1209">
-                    <div className="frame-762">
-                      <div className="frame-calander">
+                  <div className="D_frame-1209">
+                    <div className="D_frame-762">
+                      <div className="D_frame-calander">
                         <svg
-                          className="group-780"
+                          className="D_group-780"
                           width="12"
                           height="12"
                           viewBox="0 0 12 12"
@@ -211,21 +211,21 @@ export const Sub01PatientManageDetail = ({
                         </svg>
                       </div>
 
-                      <div className="D4">등록일</div>
+                      <div className="D_D4">등록일</div>
                     </div>
 
-                    <div className="_2022-08-04-15-04-23">
+                    <div className="D__2022-08-04-15-04-23">
                       2022-08-04 15:04:23
                     </div>
                   </div>
                 </div>
 
-                <div className="frame-1210">
-                  <div className="frame-1206">
-                    <div className="icn-calander-1">
-                      <div className="frame-calander-1">
+                <div className="D_frame-1210">
+                  <div className="D_frame-1206">
+                    <div className="D_icn-calander-1">
+                      <div className="D_frame-calander-1">
                         <svg
-                          className="vector7"
+                          className="D_vector7"
                           width="16"
                           height="14"
                           viewBox="0 0 16 14"
@@ -242,7 +242,7 @@ export const Sub01PatientManageDetail = ({
                         </svg>
 
                         <svg
-                          className="vector8"
+                          className="D_vector8"
                           width="15"
                           viewBox="0 0 15 0"
                           fill="none"
@@ -258,7 +258,7 @@ export const Sub01PatientManageDetail = ({
                         </svg>
 
                         <svg
-                          className="group"
+                          className="D_group"
                           width="8"
                           height="4"
                           viewBox="0 0 8 4"
@@ -283,15 +283,15 @@ export const Sub01PatientManageDetail = ({
                       </div>
                     </div>
 
-                    <div className="_1984-09-05">1984-09-05</div>
+                    <div className="D__1984-09-05">1984-09-05</div>
                   </div>
 
-                  <div className="rectangle-588"></div>
+                  <div className="D_rectangle-588"></div>
 
-                  <div className="frame-1208">
-                    <div className="icn-call">
+                  <div className="D_frame-1208">
+                    <div className="D_icn-call">
                       <svg
-                        className="frame-call"
+                        className="D_frame-call"
                         width="17"
                         height="17"
                         viewBox="0 0 17 17"
@@ -314,33 +314,33 @@ export const Sub01PatientManageDetail = ({
                       </svg>
                     </div>
 
-                    <div className="_010-7468-0068">010-7468-0068</div>
+                    <div className="D__010-7468-0068">010-7468-0068</div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
 
-          <div className="frame-1211">
-            <div className="rectangle-448"></div>
+          <div className="D_frame-1211">
+            <div className="D_rectangle-448"></div>
 
-            <div className="frame-694">
-              <div className="frame-1006">
-                <div className="D5">담당의사</div>
+            <div className="D_frame-694">
+              <div className="D_frame-1006">
+                <div className="D_D5">담당의사</div>
 
-                <div className="D6">홍길동</div>
+                <div className="D_D6">홍길동</div>
               </div>
 
-              <div className="rectangle-4482"></div>
+              <div className="D_rectangle-4482"></div>
 
-              <div className="frame-1007">
-                <div className="D5">예약일</div>
+              <div className="D_frame-1007">
+                <div className="D_D5">예약일</div>
 
-                <div className="frame-793">
-                  <div className="icn-calander">
-                    <div className="frame-calander2">
+                <div className="D_frame-793">
+                  <div className="D_icn-calander">
+                    <div className="D_frame-calander2">
                       <svg
-                        className="vector12"
+                        className="D_vector12"
                         width="16"
                         height="14"
                         viewBox="0 0 16 14"
@@ -357,7 +357,7 @@ export const Sub01PatientManageDetail = ({
                       </svg>
 
                       <svg
-                        className="vector13"
+                        className="D_vector13"
                         width="15"
                         viewBox="0 0 15 0"
                         fill="none"
@@ -373,7 +373,7 @@ export const Sub01PatientManageDetail = ({
                       </svg>
 
                       <svg
-                        className="group2"
+                        className="D_group2"
                         width="8"
                         height="4"
                         viewBox="0 0 8 4"
@@ -398,251 +398,251 @@ export const Sub01PatientManageDetail = ({
                     </div>
                   </div>
 
-                  <div className="_2022-08-10">2022-08-10</div>
+                  <div className="D__2022-08-10">2022-08-10</div>
                 </div>
               </div>
 
-              <div className="rectangle-447"></div>
+              <div className="D_rectangle-447"></div>
 
-              <div className="frame-1008">
-                <div className="D5">질병종합 위험도</div>
+              <div className="D_frame-1008">
+                <div className="D_D5">질병종합 위험도</div>
 
-                <div className="_6">6</div>
+                <div className="D__6">6</div>
               </div>
 
-              <div className="rectangle-446"></div>
+              <div className="D_rectangle-446"></div>
 
-              <div className="frame-1009">
-                <div className="D5">관리도</div>
+              <div className="D_frame-1009">
+                <div className="D_D5">관리도</div>
 
-                <div className="_2">2</div>
+                <div className="D__2">2</div>
               </div>
 
-              <div className="rectangle-445"></div>
+              <div className="D_rectangle-445"></div>
 
-              <div className="frame-1010">
-                <div className="D5">추정향후 치료비</div>
+              <div className="D_frame-1010">
+                <div className="D_D5">추정향후 치료비</div>
 
-                <div className="_4-500-000">₩ 4,500,000 원</div>
+                <div className="D__4-500-000">₩ 4,500,000 원</div>
               </div>
             </div>
 
-            <div className="rectangle-451"></div>
+            <div className="D_rectangle-451"></div>
           </div>
         </div>
 
-        <div className="patient-detail-table">
-          <div className="frame-1341">
-            <div className="frame-832">
-              <div className="D7">치아 선택</div>
+        <div className="D_patient-detail-table">
+          <div className="D_frame-1341">
+            <div className="D_frame-832">
+              <div className="D_D7">치아 선택</div>
 
-              <div className="D8">전체 해제</div>
+              <div className="D_D8">전체 해제</div>
             </div>
 
-            <div className="rectangle-616"></div>
+            <div className="D_rectangle-616"></div>
           </div>
 
-          <div className="frame-2664">
-            <div className="frame-2663">
-              <div className="D9">영구치</div>
+          <div className="D_frame-2664">
+            <div className="D_frame-2663">
+              <div className="D_D9">영구치</div>
 
-              <div className="D9">유아치</div>
+              <div className="D_D9">유아치</div>
             </div>
 
-            <div className="frame-2994">
-              <div className="frame-1285">
-                <div className="frame-1283">
-                  <div className="frame-12312">
-                    <div className="frame-696">
-                      <div className="upper-right">Upper Right</div>
+            <div className="D_frame-2994">
+              <div className="D_frame-1285">
+                <div className="D_frame-1283">
+                  <div className="D_frame-12312">
+                    <div className="D_frame-696">
+                      <div className="D_upper-right">Upper Right</div>
                     </div>
 
-                    <div className="rectangle-434"></div>
+                    <div className="D_rectangle-434"></div>
 
-                    <div className="frame-6942">
-                      <div className="tooth-number">
-                        <div className="frame-699">
-                          <div className="_18">18</div>
+                    <div className="D_frame-6942">
+                      <div className="D_tooth-number">
+                        <div className="D_frame-699">
+                          <div className="D__18">18</div>
                         </div>
 
-                        <div className="rectangle-436"></div>
+                        <div className="D_rectangle-436"></div>
 
-                        <div className="frame-700">
-                          <div className="_17">17</div>
+                        <div className="D_frame-700">
+                          <div className="D__17">17</div>
                         </div>
 
-                        <div className="rectangle-439"></div>
+                        <div className="D_rectangle-439"></div>
 
-                        <div className="frame-701">
-                          <div className="_16">16</div>
+                        <div className="D_frame-701">
+                          <div className="D__16">16</div>
                         </div>
 
-                        <div className="rectangle-437"></div>
+                        <div className="D_rectangle-437"></div>
 
-                        <div className="frame-702">
-                          <div className="_15">15</div>
+                        <div className="D_frame-702">
+                          <div className="D__15">15</div>
                         </div>
 
-                        <div className="rectangle-435"></div>
+                        <div className="D_rectangle-435"></div>
 
-                        <div className="frame-703">
-                          <div className="_14">14</div>
+                        <div className="D_frame-703">
+                          <div className="D__14">14</div>
                         </div>
 
-                        <div className="rectangle-440"></div>
+                        <div className="D_rectangle-440"></div>
 
-                        <div className="frame-704">
-                          <div className="_13">13</div>
+                        <div className="D_frame-704">
+                          <div className="D__13">13</div>
                         </div>
 
-                        <div className="rectangle-438"></div>
+                        <div className="D_rectangle-438"></div>
 
-                        <div className="frame-7052">
-                          <div className="_12">12</div>
+                        <div className="D_frame-7052">
+                          <div className="D__12">12</div>
                         </div>
 
-                        <div className="rectangle-4342"></div>
+                        <div className="D_rectangle-4342"></div>
 
-                        <div className="frame-706">
-                          <div className="_11">11</div>
+                        <div className="D_frame-706">
+                          <div className="D__11">11</div>
                         </div>
                       </div>
                     </div>
                   </div>
 
-                  <div className="frame-1239">
-                    <div className="frame-696">
-                      <div className="lower-left">Lower Left</div>
+                  <div className="D_frame-1239">
+                    <div className="D_frame-696">
+                      <div className="D_lower-left">Lower Left</div>
                     </div>
 
-                    <div className="frame-697">
-                      <div className="tooth-number">
-                        <div className="frame-699">
-                          <div className="_21">21</div>
+                    <div className="D_frame-697">
+                      <div className="D_tooth-number">
+                        <div className="D_frame-699">
+                          <div className="D__21">21</div>
                         </div>
 
-                        <div className="rectangle-436"></div>
+                        <div className="D_rectangle-436"></div>
 
-                        <div className="frame-700">
-                          <div className="_22">22</div>
+                        <div className="D_frame-700">
+                          <div className="D__22">22</div>
                         </div>
 
-                        <div className="rectangle-439"></div>
+                        <div className="D_rectangle-439"></div>
 
-                        <div className="frame-701">
-                          <div className="_23">23</div>
+                        <div className="D_frame-701">
+                          <div className="D__23">23</div>
                         </div>
 
-                        <div className="rectangle-437"></div>
+                        <div className="D_rectangle-437"></div>
 
-                        <div className="frame-702">
-                          <div className="_24">24</div>
+                        <div className="D_frame-702">
+                          <div className="D__24">24</div>
                         </div>
 
-                        <div className="rectangle-435"></div>
+                        <div className="D_rectangle-435"></div>
 
-                        <div className="frame-703">
-                          <div className="_25">25</div>
+                        <div className="D_frame-703">
+                          <div className="D__25">25</div>
                         </div>
 
-                        <div className="rectangle-440"></div>
+                        <div className="D_rectangle-440"></div>
 
-                        <div className="frame-704">
-                          <div className="_26">26</div>
+                        <div className="D_frame-704">
+                          <div className="D__26">26</div>
                         </div>
 
-                        <div className="rectangle-438"></div>
+                        <div className="D_rectangle-438"></div>
 
-                        <div className="frame-7052">
-                          <div className="_27">27</div>
+                        <div className="D_frame-7052">
+                          <div className="D__27">27</div>
                         </div>
 
-                        <div className="rectangle-4342"></div>
+                        <div className="D_rectangle-4342"></div>
 
-                        <div className="frame-706">
-                          <div className="_28">28</div>
+                        <div className="D_frame-706">
+                          <div className="D__28">28</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
 
-                <div className="frame-1287">
-                  <div className="frame-12322">
-                    <div className="frame-696">
-                      <div className="upper-right">Upper Right</div>
+                <div className="D_frame-1287">
+                  <div className="D_frame-12322">
+                    <div className="D_frame-696">
+                      <div className="D_upper-right">Upper Right</div>
                     </div>
 
-                    <div className="rectangle-434"></div>
+                    <div className="D_rectangle-434"></div>
 
-                    <div className="frame-6942">
-                      <div className="tooth-number">
-                        <div className="frame-699">
-                          <div className="_55">55</div>
+                    <div className="D_frame-6942">
+                      <div className="D_tooth-number">
+                        <div className="D_frame-699">
+                          <div className="D__55">55</div>
                         </div>
 
-                        <div className="rectangle-436"></div>
+                        <div className="D_rectangle-436"></div>
 
-                        <div className="frame-700">
-                          <div className="_54">54</div>
+                        <div className="D_frame-700">
+                          <div className="D__54">54</div>
                         </div>
 
-                        <div className="rectangle-439"></div>
+                        <div className="D_rectangle-439"></div>
 
-                        <div className="frame-701">
-                          <div className="_53">53</div>
+                        <div className="D_frame-701">
+                          <div className="D__53">53</div>
                         </div>
 
-                        <div className="rectangle-437"></div>
+                        <div className="D_rectangle-437"></div>
 
-                        <div className="frame-702">
-                          <div className="_52">52</div>
+                        <div className="D_frame-702">
+                          <div className="D__52">52</div>
                         </div>
 
-                        <div className="rectangle-435"></div>
+                        <div className="D_rectangle-435"></div>
 
-                        <div className="frame-703">
-                          <div className="_51">51</div>
+                        <div className="D_frame-703">
+                          <div className="D__51">51</div>
                         </div>
                       </div>
                     </div>
                   </div>
 
-                  <div className="frame-1236">
-                    <div className="frame-696">
-                      <div className="lower-left">Lower Left</div>
+                  <div className="D_frame-1236">
+                    <div className="D_frame-696">
+                      <div className="D_lower-left">Lower Left</div>
                     </div>
 
-                    <div className="rectangle-434"></div>
+                    <div className="D_rectangle-434"></div>
 
-                    <div className="frame-6942">
-                      <div className="tooth-number">
-                        <div className="frame-699">
-                          <div className="_61">61</div>
+                    <div className="D_frame-6942">
+                      <div className="D_tooth-number">
+                        <div className="D_frame-699">
+                          <div className="D__61">61</div>
                         </div>
 
-                        <div className="rectangle-436"></div>
+                        <div className="D_rectangle-436"></div>
 
-                        <div className="frame-700">
-                          <div className="_62">62</div>
+                        <div className="D_frame-700">
+                          <div className="D__62">62</div>
                         </div>
 
-                        <div className="rectangle-439"></div>
+                        <div className="D_rectangle-439"></div>
 
-                        <div className="frame-701">
-                          <div className="_63">63</div>
+                        <div className="D_frame-701">
+                          <div className="D__63">63</div>
                         </div>
 
-                        <div className="rectangle-437"></div>
+                        <div className="D_rectangle-437"></div>
 
-                        <div className="frame-702">
-                          <div className="_64">64</div>
+                        <div className="D_frame-702">
+                          <div className="D__64">64</div>
                         </div>
 
-                        <div className="rectangle-435"></div>
+                        <div className="D_rectangle-435"></div>
 
-                        <div className="frame-703">
-                          <div className="_65">65</div>
+                        <div className="D_frame-703">
+                          <div className="D__65">65</div>
                         </div>
                       </div>
                     </div>
@@ -650,199 +650,199 @@ export const Sub01PatientManageDetail = ({
                 </div>
               </div>
 
-              <div className="frame-1289">
-                <div className="frame-1287">
-                  <div className="frame-12322">
-                    <div className="frame-696">
-                      <div className="upper-right">Upper Right</div>
+              <div className="D_frame-1289">
+                <div className="D_frame-1287">
+                  <div className="D_frame-12322">
+                    <div className="D_frame-696">
+                      <div className="D_upper-right">Upper Right</div>
                     </div>
 
-                    <div className="rectangle-434"></div>
+                    <div className="D_rectangle-434"></div>
 
-                    <div className="frame-6942">
-                      <div className="tooth-number">
-                        <div className="frame-699">
-                          <div className="_48">48</div>
+                    <div className="D_frame-6942">
+                      <div className="D_tooth-number">
+                        <div className="D_frame-699">
+                          <div className="D__48">48</div>
                         </div>
 
-                        <div className="rectangle-436"></div>
+                        <div className="D_rectangle-436"></div>
 
-                        <div className="frame-700">
-                          <div className="_47">47</div>
+                        <div className="D_frame-700">
+                          <div className="D__47">47</div>
                         </div>
 
-                        <div className="rectangle-439"></div>
+                        <div className="D_rectangle-439"></div>
 
-                        <div className="frame-701">
-                          <div className="_46">46</div>
+                        <div className="D_frame-701">
+                          <div className="D__46">46</div>
                         </div>
 
-                        <div className="rectangle-437"></div>
+                        <div className="D_rectangle-437"></div>
 
-                        <div className="frame-702">
-                          <div className="_45">45</div>
+                        <div className="D_frame-702">
+                          <div className="D__45">45</div>
                         </div>
 
-                        <div className="rectangle-435"></div>
+                        <div className="D_rectangle-435"></div>
 
-                        <div className="frame-703">
-                          <div className="_44">44</div>
+                        <div className="D_frame-703">
+                          <div className="D__44">44</div>
                         </div>
 
-                        <div className="rectangle-440"></div>
+                        <div className="D_rectangle-440"></div>
 
-                        <div className="frame-704">
-                          <div className="_43">43</div>
+                        <div className="D_frame-704">
+                          <div className="D__43">43</div>
                         </div>
 
-                        <div className="rectangle-438"></div>
+                        <div className="D_rectangle-438"></div>
 
-                        <div className="frame-7052">
-                          <div className="_42">42</div>
+                        <div className="D_frame-7052">
+                          <div className="D__42">42</div>
                         </div>
 
-                        <div className="rectangle-4342"></div>
+                        <div className="D_rectangle-4342"></div>
 
-                        <div className="frame-706">
-                          <div className="_41">41</div>
+                        <div className="D_frame-706">
+                          <div className="D__41">41</div>
                         </div>
                       </div>
                     </div>
                   </div>
 
-                  <div className="frame-1235">
-                    <div className="frame-696">
-                      <div className="lower-left">Lower Left</div>
+                  <div className="D_frame-1235">
+                    <div className="D_frame-696">
+                      <div className="D_lower-left">Lower Left</div>
                     </div>
 
-                    <div className="frame-697">
-                      <div className="tooth-number">
-                        <div className="frame-699">
-                          <div className="_31">31</div>
+                    <div className="D_frame-697">
+                      <div className="D_tooth-number">
+                        <div className="D_frame-699">
+                          <div className="D__31">31</div>
                         </div>
 
-                        <div className="rectangle-436"></div>
+                        <div className="D_rectangle-436"></div>
 
-                        <div className="frame-700">
-                          <div className="_32">32</div>
+                        <div className="D_frame-700">
+                          <div className="D__32">32</div>
                         </div>
 
-                        <div className="rectangle-439"></div>
+                        <div className="D_rectangle-439"></div>
 
-                        <div className="frame-701">
-                          <div className="_33">33</div>
+                        <div className="D_frame-701">
+                          <div className="D__33">33</div>
                         </div>
 
-                        <div className="rectangle-437"></div>
+                        <div className="D_rectangle-437"></div>
 
-                        <div className="frame-702">
-                          <div className="_34">34</div>
+                        <div className="D_frame-702">
+                          <div className="D__34">34</div>
                         </div>
 
-                        <div className="rectangle-435"></div>
+                        <div className="D_rectangle-435"></div>
 
-                        <div className="frame-703">
-                          <div className="_35">35</div>
+                        <div className="D_frame-703">
+                          <div className="D__35">35</div>
                         </div>
 
-                        <div className="rectangle-440"></div>
+                        <div className="D_rectangle-440"></div>
 
-                        <div className="frame-704">
-                          <div className="_36">36</div>
+                        <div className="D_frame-704">
+                          <div className="D__36">36</div>
                         </div>
 
-                        <div className="rectangle-438"></div>
+                        <div className="D_rectangle-438"></div>
 
-                        <div className="frame-7052">
-                          <div className="_37">37</div>
+                        <div className="D_frame-7052">
+                          <div className="D__37">37</div>
                         </div>
 
-                        <div className="rectangle-4342"></div>
+                        <div className="D_rectangle-4342"></div>
 
-                        <div className="frame-706">
-                          <div className="_38">38</div>
+                        <div className="D_frame-706">
+                          <div className="D__38">38</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
 
-                <div className="frame-1287">
-                  <div className="frame-12322">
-                    <div className="frame-696">
-                      <div className="upper-right">Upper Right</div>
+                <div className="D_frame-1287">
+                  <div className="D_frame-12322">
+                    <div className="D_frame-696">
+                      <div className="D_upper-right">Upper Right</div>
                     </div>
 
-                    <div className="rectangle-434"></div>
+                    <div className="D_rectangle-434"></div>
 
-                    <div className="frame-6942">
-                      <div className="tooth-number">
-                        <div className="frame-699">
-                          <div className="_45">45</div>
+                    <div className="D_frame-6942">
+                      <div className="D_tooth-number">
+                        <div className="D_frame-699">
+                          <div className="D__45">45</div>
                         </div>
 
-                        <div className="rectangle-436"></div>
+                        <div className="D_rectangle-436"></div>
 
-                        <div className="frame-700">
-                          <div className="_44">44</div>
+                        <div className="D_frame-700">
+                          <div className="D__44">44</div>
                         </div>
 
-                        <div className="rectangle-439"></div>
+                        <div className="D_rectangle-439"></div>
 
-                        <div className="frame-701">
-                          <div className="_43">43</div>
+                        <div className="D_frame-701">
+                          <div className="D__43">43</div>
                         </div>
 
-                        <div className="rectangle-437"></div>
+                        <div className="D_rectangle-437"></div>
 
-                        <div className="frame-702">
-                          <div className="_42">42</div>
+                        <div className="D_frame-702">
+                          <div className="D__42">42</div>
                         </div>
 
-                        <div className="rectangle-435"></div>
+                        <div className="D_rectangle-435"></div>
 
-                        <div className="frame-703">
-                          <div className="_41">41</div>
+                        <div className="D_frame-703">
+                          <div className="D__41">41</div>
                         </div>
                       </div>
                     </div>
                   </div>
 
-                  <div className="frame-1236">
-                    <div className="frame-696">
-                      <div className="lower-left">Lower Left</div>
+                  <div className="D_frame-1236">
+                    <div className="D_frame-696">
+                      <div className="D_lower-left">Lower Left</div>
                     </div>
 
-                    <div className="rectangle-434"></div>
+                    <div className="D_rectangle-434"></div>
 
-                    <div className="frame-6942">
-                      <div className="tooth-number">
-                        <div className="frame-699">
-                          <div className="_45">45</div>
+                    <div className="D_frame-6942">
+                      <div className="D_tooth-number">
+                        <div className="D_frame-699">
+                          <div className="D__45">45</div>
                         </div>
 
-                        <div className="rectangle-436"></div>
+                        <div className="D_rectangle-436"></div>
 
-                        <div className="frame-700">
-                          <div className="_44">44</div>
+                        <div className="D_frame-700">
+                          <div className="D__44">44</div>
                         </div>
 
-                        <div className="rectangle-439"></div>
+                        <div className="D_rectangle-439"></div>
 
-                        <div className="frame-701">
-                          <div className="_43">43</div>
+                        <div className="D_frame-701">
+                          <div className="D__43">43</div>
                         </div>
 
-                        <div className="rectangle-437"></div>
+                        <div className="D_rectangle-437"></div>
 
-                        <div className="frame-702">
-                          <div className="_42">42</div>
+                        <div className="D_frame-702">
+                          <div className="D__42">42</div>
                         </div>
 
-                        <div className="rectangle-435"></div>
+                        <div className="D_rectangle-435"></div>
 
-                        <div className="frame-703">
-                          <div className="_41">41</div>
+                        <div className="D_frame-703">
+                          <div className="D__41">41</div>
                         </div>
                       </div>
                     </div>
@@ -853,23 +853,23 @@ export const Sub01PatientManageDetail = ({
           </div>
         </div>
 
-        <div className="frame-1910">
-          <div className="frame-1202">
-            <div className="frame-1201">
-              <div className="D10">검사결과</div>
+        <div className="D_frame-1910">
+          <div className="D_frame-1202">
+            <div className="D_frame-1201">
+              <div className="D_D10">검사결과</div>
 
-              <div className="frame-1194">
-                <div className="button-sub-2-dapth2">
-                  <div className="frame-9092">
-                    <div className="D11">검사결과 등록</div>
+              <div className="D_frame-1194">
+                <div className="D_button-sub-2-dapth2">
+                  <div className="D_frame-9092">
+                    <div className="D_D11">검사결과 등록</div>
                   </div>
                 </div>
 
-                <div className="group-753">
-                  <div className="ellipse-37"></div>
+                <div className="D_group-753">
+                  <div className="D_ellipse-37"></div>
 
                   <svg
-                    className="icn-plus"
+                    className="D_icn-plus"
                     width="24"
                     height="25"
                     viewBox="0 0 24 25"
@@ -893,380 +893,380 @@ export const Sub01PatientManageDetail = ({
               </div>
             </div>
 
-            <div className="frame-1175">
-              <div className="module-list">
-                <div className="frame-750">
-                  <div className="frame-7502">
-                    <div className="D12">검사일시</div>
+            <div className="D_frame-1175">
+              <div className="D_module-list">
+                <div className="D_frame-750">
+                  <div className="D_frame-7502">
+                    <div className="D_D12">검사일시</div>
                   </div>
                 </div>
 
-                <div className="D13">구강 위험도</div>
+                <div className="D_D13">구강 위험도</div>
 
-                <div className="D13">결손기능 치아 수</div>
+                <div className="D_D13">결손기능 치아 수</div>
 
-                <div className="D14">관리도</div>
+                <div className="D_D14">관리도</div>
 
-                <div className="D15">필수 관리 치아</div>
+                <div className="D_D15">필수 관리 치아</div>
 
-                <div className="D16">최대 치아 위험도</div>
+                <div className="D_D16">최대 치아 위험도</div>
 
-                <div className="D17">질병 종합위험도</div>
+                <div className="D_D17">질병 종합위험도</div>
 
-                <div className="D14">치아 우식</div>
+                <div className="D_D14">치아 우식</div>
 
-                <div className="D14">치아 파절</div>
+                <div className="D_D14">치아 파절</div>
 
-                <div className="D14">치주 질환</div>
+                <div className="D_D14">치주 질환</div>
 
-                <div className="frame-749">
-                  <div className="D18">치경부 마모</div>
+                <div className="D_frame-749">
+                  <div className="D_D18">치경부 마모</div>
                 </div>
               </div>
 
-              <div className="module-list2">
-                <div className="frame-767">
-                  <div className="frame-7503">
-                    <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
+              <div className="D_module-list2">
+                <div className="D_frame-767">
+                  <div className="D_frame-7503">
+                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
                   </div>
 
-                  <div className="_70">70%</div>
+                  <div className="D__70">70%</div>
                 </div>
 
-                <div className="_8">8</div>
+                <div className="D__8">8</div>
 
-                <div className="_3">3</div>
+                <div className="D__3">3</div>
 
-                <div className="_39">3</div>
+                <div className="D__39">3</div>
 
-                <div className="_29">2</div>
+                <div className="D__29">2</div>
 
-                <div className="_66">6</div>
+                <div className="D__66">6</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="D19">-</div>
+                <div className="D_D19">-</div>
 
-                <div className="frame-749">
-                  <div className="D20">-</div>
+                <div className="D_frame-749">
+                  <div className="D_D20">-</div>
                 </div>
               </div>
 
-              <div className="rectangle-498"></div>
+              <div className="D_rectangle-498"></div>
 
-              <div className="module-list2">
-                <div className="frame-767">
-                  <div className="frame-7504">
-                    <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
+              <div className="D_module-list2">
+                <div className="D_frame-767">
+                  <div className="D_frame-7504">
+                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
                   </div>
 
-                  <div className="_70">70%</div>
+                  <div className="D__70">70%</div>
                 </div>
 
-                <div className="_8">8</div>
+                <div className="D__8">8</div>
 
-                <div className="_3">3</div>
+                <div className="D__3">3</div>
 
-                <div className="_39">3</div>
+                <div className="D__39">3</div>
 
-                <div className="_29">2</div>
+                <div className="D__29">2</div>
 
-                <div className="_66">6</div>
+                <div className="D__66">6</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="D19">-</div>
+                <div className="D_D19">-</div>
 
-                <div className="frame-749">
-                  <div className="D20">-</div>
+                <div className="D_frame-749">
+                  <div className="D_D20">-</div>
                 </div>
               </div>
 
-              <div className="rectangle-495"></div>
+              <div className="D_rectangle-495"></div>
 
-              <div className="module-list2">
-                <div className="frame-767">
-                  <div className="frame-7505">
-                    <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
+              <div className="D_module-list2">
+                <div className="D_frame-767">
+                  <div className="D_frame-7505">
+                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
                   </div>
 
-                  <div className="_702">70%</div>
+                  <div className="D__702">70%</div>
                 </div>
 
-                <div className="_82">8</div>
+                <div className="D__82">8</div>
 
-                <div className="_310">3</div>
+                <div className="D__310">3</div>
 
-                <div className="_311">3</div>
+                <div className="D__311">3</div>
 
-                <div className="_210">2</div>
+                <div className="D__210">2</div>
 
-                <div className="_67">-</div>
+                <div className="D__67">-</div>
 
-                <div className="_19">-</div>
+                <div className="D__19">-</div>
 
-                <div className="_19">-</div>
+                <div className="D__19">-</div>
 
-                <div className="D21">-</div>
+                <div className="D_D21">-</div>
 
-                <div className="frame-7492">
-                  <div className="D22">-</div>
+                <div className="D_frame-7492">
+                  <div className="D_D22">-</div>
                 </div>
               </div>
 
-              <div className="rectangle-491"></div>
+              <div className="D_rectangle-491"></div>
 
-              <div className="module-list2">
-                <div className="frame-767">
-                  <div className="frame-7504">
-                    <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
+              <div className="D_module-list2">
+                <div className="D_frame-767">
+                  <div className="D_frame-7504">
+                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
                   </div>
 
-                  <div className="_70">70%</div>
+                  <div className="D__70">70%</div>
                 </div>
 
-                <div className="_8">8</div>
+                <div className="D__8">8</div>
 
-                <div className="_3">3</div>
+                <div className="D__3">3</div>
 
-                <div className="_39">3</div>
+                <div className="D__39">3</div>
 
-                <div className="_29">2</div>
+                <div className="D__29">2</div>
 
-                <div className="_66">6</div>
+                <div className="D__66">6</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="D19">-</div>
+                <div className="D_D19">-</div>
 
-                <div className="frame-749">
-                  <div className="D20">-</div>
+                <div className="D_frame-749">
+                  <div className="D_D20">-</div>
                 </div>
               </div>
 
-              <div className="rectangle-488"></div>
+              <div className="D_rectangle-488"></div>
 
-              <div className="module-list2">
-                <div className="frame-767">
-                  <div className="frame-7504">
-                    <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
+              <div className="D_module-list2">
+                <div className="D_frame-767">
+                  <div className="D_frame-7504">
+                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
                   </div>
 
-                  <div className="_70">70%</div>
+                  <div className="D__70">70%</div>
                 </div>
 
-                <div className="_8">8</div>
+                <div className="D__8">8</div>
 
-                <div className="_3">3</div>
+                <div className="D__3">3</div>
 
-                <div className="_39">3</div>
+                <div className="D__39">3</div>
 
-                <div className="_29">2</div>
+                <div className="D__29">2</div>
 
-                <div className="_66">6</div>
+                <div className="D__66">6</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="D19">-</div>
+                <div className="D_D19">-</div>
 
-                <div className="frame-749">
-                  <div className="D20">-</div>
+                <div className="D_frame-749">
+                  <div className="D_D20">-</div>
                 </div>
               </div>
 
-              <div className="rectangle-492"></div>
+              <div className="D_rectangle-492"></div>
 
-              <div className="moudule">
-                <div className="frame-767">
-                  <div className="frame-7504">
-                    <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
+              <div className="D_moudule">
+                <div className="D_frame-767">
+                  <div className="D_frame-7504">
+                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
                   </div>
 
-                  <div className="_70">70%</div>
+                  <div className="D__70">70%</div>
                 </div>
 
-                <div className="_8">8</div>
+                <div className="D__8">8</div>
 
-                <div className="_3">3</div>
+                <div className="D__3">3</div>
 
-                <div className="_39">3</div>
+                <div className="D__39">3</div>
 
-                <div className="_29">2</div>
+                <div className="D__29">2</div>
 
-                <div className="_66">6</div>
+                <div className="D__66">6</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="D19">-</div>
+                <div className="D_D19">-</div>
 
-                <div className="frame-749">
-                  <div className="D20">-</div>
+                <div className="D_frame-749">
+                  <div className="D_D20">-</div>
                 </div>
               </div>
 
-              <div className="rectangle-490"></div>
+              <div className="D_rectangle-490"></div>
 
-              <div className="moudule">
-                <div className="frame-767">
-                  <div className="frame-7504">
-                    <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
+              <div className="D_moudule">
+                <div className="D_frame-767">
+                  <div className="D_frame-7504">
+                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
                   </div>
 
-                  <div className="_70">70%</div>
+                  <div className="D__70">70%</div>
                 </div>
 
-                <div className="_8">8</div>
+                <div className="D__8">8</div>
 
-                <div className="_3">3</div>
+                <div className="D__3">3</div>
 
-                <div className="_39">3</div>
+                <div className="D__39">3</div>
 
-                <div className="_29">2</div>
+                <div className="D__29">2</div>
 
-                <div className="_66">6</div>
+                <div className="D__66">6</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="D19">-</div>
+                <div className="D_D19">-</div>
 
-                <div className="frame-749">
-                  <div className="D20">-</div>
+                <div className="D_frame-749">
+                  <div className="D_D20">-</div>
                 </div>
               </div>
 
-              <div className="rectangle-496"></div>
+              <div className="D_rectangle-496"></div>
 
-              <div className="moudule">
-                <div className="frame-767">
-                  <div className="frame-7504">
-                    <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
+              <div className="D_moudule">
+                <div className="D_frame-767">
+                  <div className="D_frame-7504">
+                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
                   </div>
 
-                  <div className="_70">70%</div>
+                  <div className="D__70">70%</div>
                 </div>
 
-                <div className="_8">8</div>
+                <div className="D__8">8</div>
 
-                <div className="_3">3</div>
+                <div className="D__3">3</div>
 
-                <div className="_39">3</div>
+                <div className="D__39">3</div>
 
-                <div className="_29">2</div>
+                <div className="D__29">2</div>
 
-                <div className="_66">6</div>
+                <div className="D__66">6</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="D19">-</div>
+                <div className="D_D19">-</div>
 
-                <div className="frame-749">
-                  <div className="D20">-</div>
+                <div className="D_frame-749">
+                  <div className="D_D20">-</div>
                 </div>
               </div>
 
-              <div className="rectangle-487"></div>
+              <div className="D_rectangle-487"></div>
 
-              <div className="moudule">
-                <div className="frame-767">
-                  <div className="frame-7504">
-                    <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
+              <div className="D_moudule">
+                <div className="D_frame-767">
+                  <div className="D_frame-7504">
+                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
                   </div>
 
-                  <div className="_70">70%</div>
+                  <div className="D__70">70%</div>
                 </div>
 
-                <div className="_8">8</div>
+                <div className="D__8">8</div>
 
-                <div className="_3">3</div>
+                <div className="D__3">3</div>
 
-                <div className="_39">3</div>
+                <div className="D__39">3</div>
 
-                <div className="_29">2</div>
+                <div className="D__29">2</div>
 
-                <div className="_66">6</div>
+                <div className="D__66">6</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="D19">-</div>
+                <div className="D_D19">-</div>
 
-                <div className="frame-749">
-                  <div className="D20">-</div>
+                <div className="D_frame-749">
+                  <div className="D_D20">-</div>
                 </div>
               </div>
 
-              <div className="rectangle-497"></div>
+              <div className="D_rectangle-497"></div>
 
-              <div className="moudule">
-                <div className="frame-767">
-                  <div className="frame-7504">
-                    <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
+              <div className="D_moudule">
+                <div className="D_frame-767">
+                  <div className="D_frame-7504">
+                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
                   </div>
 
-                  <div className="_70">70%</div>
+                  <div className="D__70">70%</div>
                 </div>
 
-                <div className="_8">8</div>
+                <div className="D__8">8</div>
 
-                <div className="_3">3</div>
+                <div className="D__3">3</div>
 
-                <div className="_39">3</div>
+                <div className="D__39">3</div>
 
-                <div className="_29">2</div>
+                <div className="D__29">2</div>
 
-                <div className="_66">6</div>
+                <div className="D__66">6</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="_1">1</div>
+                <div className="D__1">1</div>
 
-                <div className="D19">-</div>
+                <div className="D_D19">-</div>
 
-                <div className="frame-749">
-                  <div className="D20">-</div>
+                <div className="D_frame-749">
+                  <div className="D_D20">-</div>
                 </div>
               </div>
 
-              <div className="rectangle-494"></div>
+              <div className="D_rectangle-494"></div>
             </div>
           </div>
 
-          <div className="module-bottom">
-            <div className="btn-linebox-medium">
-              <div className="D23">환자목록</div>
+          <div className="D_module-bottom">
+            <div className="D_btn-linebox-medium">
+              <div className="D_D23">환자목록</div>
             </div>
           </div>
         </div>
 
-        <div className="bottom">
-          <div className="module-floating">
-            <div className="btn-floating-plus">
-              <div className="ellipse-11"></div>
+        <div className="D_bottom">
+          <div className="D_module-floating">
+            <div className="D_btn-floating-plus">
+              <div className="D_ellipse-11"></div>
 
-              <div className="line-2"></div>
+              <div className="D_line-2"></div>
 
-              <div className="line-3"></div>
+              <div className="D_line-3"></div>
 
-              <div className="group-21">
-                <div className="ellipse-112"></div>
+              <div className="D_group-21">
+                <div className="D_ellipse-112"></div>
 
                 <svg
-                  className="group-736"
+                  className="D_group-736"
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"

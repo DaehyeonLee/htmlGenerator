@@ -1,29 +1,36 @@
 /* Code generated with AutoHTML Plugin for Figma */
 import "../css/Sub0101List.css";
-import Menu from "./Menu";
 
 export interface ISub0101ListProps {}
 
 export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
   return (
-    <div className="sub-01-01-list_new">
-      <div className="sub-01-patient-list_new">
-        <div className="patients-list-contents_new">
-          <div className="com-header_new">
-            <div className="group-706_new">
-              <div className="btn-profile_new">
-                <div className="frame-691_new">
-                  <div className="img-profile_new">
-                    <img className="etc-profile_new" src="etc-profile.png" />
+    <div className="L_sub-01-01-list">
+      <div className="L_sub-01-patient-list">
+        <div className="L_module-menu-status">
+          <div className="L_module-menu-hover">
+            <div className="L_frame-7"></div>
+          </div>
+
+          <div className="L_frame-705"></div>
+        </div>
+
+        <div className="L_patients-list-contents">
+          <div className="L_com-header">
+            <div className="L_group-706">
+              <div className="L_btn-profile">
+                <div className="L_frame-691">
+                  <div className="L_img-profile">
+                    <img className="L_etc-profile" src="etc-profile.png" />
                   </div>
 
-                  <div className="frame-2_new">
-                    <div className="ab-admin_new">AB Admin</div>
+                  <div className="L_frame-2">
+                    <div className="L_ab-admin">AB Admin</div>
                   </div>
                 </div>
 
                 <svg
-                  className="icon-24-24-arrow-down-off_new"
+                  className="L_icon-24-24-arrow-down-off"
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
@@ -40,10 +47,10 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                 </svg>
               </div>
 
-              <div className="frame-3182_new">
-                <div className="icon-24-24-setting-off_new">
+              <div className="L_frame-3182">
+                <div className="L_icon-24-24-setting-off">
                   <svg
-                    className="frame-setting_new"
+                    className="L_frame-setting"
                     width="17"
                     height="18"
                     viewBox="0 0 17 18"
@@ -75,14 +82,14 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                 </div>
               </div>
 
-              <div className="btn-input-category-search_new">
-                <div className="btn-input-category_new">
-                  <div className="button-sub-2-dapth_new">
-                    <div className="frame-909_new">
-                      <div className="patient_new">Patient</div>
+              <div className="L_btn-input-category-search">
+                <div className="L_btn-input-category">
+                  <div className="L_button-sub-2-dapth">
+                    <div className="L_frame-909">
+                      <div className="L_patient">Patient</div>
 
                       <svg
-                        className="icn-ul-arrow_new"
+                        className="L_icn-ul-arrow"
                         width="24"
                         height="24"
                         viewBox="0 0 24 24"
@@ -101,13 +108,13 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                   </div>
                 </div>
 
-                <div className="input-box-search_new">
-                  <div className="frame-909_new">
-                    <div className="L1_new">검색어를 입력해 주세요.</div>
+                <div className="L_input-box-search">
+                  <div className="L_frame-909">
+                    <div className="L_L1">검색어를 입력해 주세요.</div>
 
-                    <div className="icn-search">
+                    <div className="L_icn-search">
                       <svg
-                        className="group-2"
+                        className="L_group-2"
                         width="18"
                         height="19"
                         viewBox="0 0 18 19"
@@ -134,27 +141,27 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
             </div>
           </div>
 
-          <div className="module-patient-manage_new">
-            <div className="frame-1241_new">
-              <div className="frame-1119_new">
-                <div className="L2_new">환자관리</div>
+          <div className="L_module-patient-manage">
+            <div className="L_frame-1241">
+              <div className="L_frame-1119">
+                <div className="L_L2">환자관리</div>
               </div>
 
-              <div className="frame-1191_new">
-                <div className="_84-236_new">84,236</div>
+              <div className="L_frame-1191">
+                <div className="L__84-236">84,236</div>
               </div>
             </div>
 
-            <div className="rectangle-568_new"></div>
+            <div className="L_rectangle-568"></div>
 
-            <div className="component-13-search-box-3_new">
-              <div className="btn-input-category_new">
-                <div className="button-sub-2-dapth_new">
-                  <div className="frame-909_new">
-                    <div className="patient_new">Patient</div>
+            <div className="L_component-13-search-box-3">
+              <div className="L_btn-input-category">
+                <div className="L_button-sub-2-dapth">
+                  <div className="L_frame-909">
+                    <div className="L_patient">Patient</div>
 
                     <svg
-                      className="icn_new"
+                      className="L_icn"
                       width="24"
                       height="24"
                       viewBox="0 0 24 24"
@@ -173,13 +180,13 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                 </div>
               </div>
 
-              <div className="input-box-search_new">
-                <div className="frame-909_new">
-                  <div className="L1_new">검색어를 입력해 주세요.</div>
+              <div className="L_input-box-search">
+                <div className="L_frame-909">
+                  <div className="L_L1">검색어를 입력해 주세요.</div>
 
-                  <div className="icn-search">
+                  <div className="L_icn-search">
                     <svg
-                      className="group-22"
+                      className="L_group-22"
                       width="18"
                       height="19"
                       viewBox="0 0 18 19"
@@ -205,38 +212,38 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
             </div>
           </div>
 
-          <div className="patient-list-table_new">
-            <div className="frame-1342_new">
-              <div className="group-750_new">
-                <div className="frame-750_new">
-                  <div className="L3_new">최근 검사일</div>
+          <div className="L_patient-list-table">
+            <div className="L_frame-1342">
+              <div className="L_group-750">
+                <div className="L_frame-750">
+                  <div className="L_L3">최근 검사일</div>
 
-                  <div className="rectangle-569_new"></div>
+                  <div className="L_rectangle-569"></div>
 
-                  <div className="L4_new">환자명</div>
+                  <div className="L_L4">환자명</div>
 
-                  <div className="rectangle-570_new"></div>
+                  <div className="L_rectangle-570"></div>
 
-                  <div className="L4_new">예약일 빠른 순</div>
+                  <div className="L_L4">예약일 빠른 순</div>
 
-                  <div className="rectangle-571_new"></div>
+                  <div className="L_rectangle-571"></div>
 
-                  <div className="L4_new">등록일 순</div>
+                  <div className="L_L4">등록일 순</div>
                 </div>
               </div>
 
-              <div className="frame-1194_new">
-                <div className="button-sub-2-dapth2_new">
-                  <div className="frame-9092_new">
-                    <div className="L5_new">환자등록</div>
+              <div className="L_frame-1194">
+                <div className="L_button-sub-2-dapth2">
+                  <div className="L_frame-9092">
+                    <div className="L_L5">환자등록</div>
                   </div>
                 </div>
 
-                <div className="group-753_new">
-                  <div className="ellipse-37_new"></div>
+                <div className="L_group-753">
+                  <div className="L_ellipse-37"></div>
 
                   <svg
-                    className="icn-plus_new"
+                    className="L_icn-plus"
                     width="24"
                     height="24"
                     viewBox="0 0 24 24"
@@ -260,41 +267,41 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
               </div>
             </div>
 
-            <div className="frame-1339_new">
-              <div className="frame-1175_new">
-                <div className="frame-1175_new">
-                  <div className="module-list_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-713_new">
-                        <div className="frame-7503_new">
-                          <div className="no_new">NO</div>
+            <div className="L_frame-1339">
+              <div className="L_frame-1175">
+                <div className="L_frame-1175">
+                  <div className="L_module-list">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-713">
+                        <div className="L_frame-7503">
+                          <div className="L_no">NO</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L6_new">환자 정보</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L6">환자 정보</div>
                       </div>
                     </div>
 
-                    <div className="L7_new">연락처</div>
+                    <div className="L_L7">연락처</div>
 
-                    <div className="L8_new">등록일</div>
+                    <div className="L_L8">등록일</div>
 
-                    <div className="L9_new">최근 검사일</div>
+                    <div className="L_L9">최근 검사일</div>
 
-                    <div className="frame-1728_new">
-                      <div className="group-884_new">
-                        <div className="L10_new">다음 예약</div>
+                    <div className="L_frame-1728">
+                      <div className="L_group-884">
+                        <div className="L_L10">다음 예약</div>
 
-                        <div className="etc-info_new">
-                          <div className="etc-info-16-px_new">
-                            <div className="etc-info-16-px2_new">
-                              <div className="ellipse-33_new"></div>
+                        <div className="L_etc-info">
+                          <div className="L_etc-info-16-px">
+                            <div className="L_etc-info-16-px2">
+                              <div className="L_ellipse-33"></div>
 
-                              <div className="group-743_new">
-                                <div className="rectangle-541_new"></div>
+                              <div className="L_group-743">
+                                <div className="L_rectangle-541"></div>
 
-                                <div className="rectangle-542_new"></div>
+                                <div className="L_rectangle-542"></div>
                               </div>
                             </div>
                           </div>
@@ -302,41 +309,41 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                       </div>
                     </div>
 
-                    <div className="L11_new">종합 위험도</div>
+                    <div className="L_L11">종합 위험도</div>
 
-                    <div className="L11_new">관리도</div>
+                    <div className="L_L11">관리도</div>
 
-                    <div className="L12_new">추정 향후치료비</div>
+                    <div className="L_L12">추정 향후치료비</div>
 
-                    <div className="L13_new">담당의</div>
+                    <div className="L_L13">담당의</div>
                   </div>
 
-                  <div className="component-15_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7505_new">
-                          <div className="_84236_new">84236</div>
+                  <div className="L_component-111">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-7132">
+                        <div className="L_frame-7505">
+                          <div className="L__84236">84236</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">오지명(남)</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L14">오지명(남)</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
+                        <div className="L__1984-09-05">1984-09-05</div>
                       </div>
                     </div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                    <div className="L__010-1234-5678">010-1234-5678</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                    <div className="L__2022-08-04">2022-08-04</div>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                    <div className="L__2022-08-042">2022-08-04</div>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame-calander_new">
+                    <div className="L_frame-760">
+                      <div className="L_icn-calander">
+                        <div className="L_frame-calander">
                           <svg
-                            className="vector3_new"
+                            className="L_vector3"
                             width="16"
                             height="14"
                             viewBox="0 0 16 14"
@@ -353,7 +360,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector4_new"
+                            className="L_vector4"
                             width="15"
                             viewBox="0 0 15 0"
                             fill="none"
@@ -369,7 +376,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="group_new"
+                            className="L_group"
                             width="8"
                             height="4"
                             viewBox="0 0 8 4"
@@ -394,46 +401,46 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L__2022-10-04">2022-10-04</div>
                     </div>
 
-                    <div className="L15_new">6</div>
+                    <div className="L_L15">6</div>
 
-                    <div className="L15_new">2</div>
+                    <div className="L_L15">2</div>
 
-                    <div className="_4-500-000_new">4,500,000원</div>
+                    <div className="L__4-500-000">4,500,000원</div>
 
-                    <div className="L16_new">김춘삼</div>
+                    <div className="L_L16">김춘삼</div>
                   </div>
 
-                  <div className="rectangle-487_new"></div>
+                  <div className="L_rectangle-487"></div>
 
-                  <div className="component-15_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7505_new">
-                          <div className="_84236_new">84236</div>
+                  <div className="L_component-15">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-7132">
+                        <div className="L_frame-7505">
+                          <div className="L__84236">84236</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">김민지(여)</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L14">김민지(여)</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
+                        <div className="L__1984-09-05">1984-09-05</div>
                       </div>
                     </div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                    <div className="L__010-1234-5678">010-1234-5678</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                    <div className="L__2022-08-04">2022-08-04</div>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                    <div className="L__2022-08-042">2022-08-04</div>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame_new">
+                    <div className="L_frame-760">
+                      <div className="L_icn2">
+                        <div className="L_frame">
                           <svg
-                            className="vector7_new"
+                            className="L_vector7"
                             width="16"
                             height="14"
                             viewBox="0 0 16 14"
@@ -450,7 +457,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector8_new"
+                            className="L_vector8"
                             width="15"
                             viewBox="0 0 15 0"
                             fill="none"
@@ -466,7 +473,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="group2_new"
+                            className="L_group2"
                             width="8"
                             height="4"
                             viewBox="0 0 8 4"
@@ -491,46 +498,46 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L__2022-10-04">2022-10-04</div>
                     </div>
 
-                    <div className="L15_new">6</div>
+                    <div className="L_L15">6</div>
 
-                    <div className="L15_new">2</div>
+                    <div className="L_L15">2</div>
 
-                    <div className="_4-500-000_new">4,500,000원</div>
+                    <div className="L__4-500-000">4,500,000원</div>
 
-                    <div className="L16_new">김춘삼</div>
+                    <div className="L_L16">김춘삼</div>
                   </div>
 
-                  <div className="rectangle-488_new"></div>
+                  <div className="L_rectangle-488"></div>
 
-                  <div className="component-16_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7506_new">
-                          <div className="_84236_new">84236</div>
+                  <div className="L_component-16">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-7132">
+                        <div className="L_frame-7506">
+                          <div className="L__84236">84236</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">오지명(남)</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L14">오지명(남)</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
+                        <div className="L__1984-09-05">1984-09-05</div>
                       </div>
                     </div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                    <div className="L__010-1234-5678">010-1234-5678</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                    <div className="L__2022-08-04">2022-08-04</div>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                    <div className="L__2022-08-042">2022-08-04</div>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame_new">
+                    <div className="L_frame-760">
+                      <div className="L_icn2">
+                        <div className="L_frame">
                           <svg
-                            className="vector11_new"
+                            className="L_vector11"
                             width="16"
                             height="14"
                             viewBox="0 0 16 14"
@@ -547,7 +554,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector12_new"
+                            className="L_vector12"
                             width="15"
                             viewBox="0 0 15 0"
                             fill="none"
@@ -563,7 +570,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="group3_new"
+                            className="L_group3"
                             width="8"
                             height="4"
                             viewBox="0 0 8 4"
@@ -588,46 +595,46 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L__2022-10-04">2022-10-04</div>
                     </div>
 
-                    <div className="L15_new">6</div>
+                    <div className="L_L15">6</div>
 
-                    <div className="L15_new">2</div>
+                    <div className="L_L15">2</div>
 
-                    <div className="_4-500-000_new">4,500,000원</div>
+                    <div className="L__4-500-000">4,500,000원</div>
 
-                    <div className="L16_new">김춘삼</div>
+                    <div className="L_L16">김춘삼</div>
                   </div>
 
-                  <div className="rectangle-490_new"></div>
+                  <div className="L_rectangle-490"></div>
 
-                  <div className="component-17_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7506_new">
-                          <div className="_84236_new">84236</div>
+                  <div className="L_component-17">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-7132">
+                        <div className="L_frame-7506">
+                          <div className="L__84236">84236</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">오지명(남)</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L14">오지명(남)</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
+                        <div className="L__1984-09-05">1984-09-05</div>
                       </div>
                     </div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                    <div className="L__010-1234-5678">010-1234-5678</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                    <div className="L__2022-08-04">2022-08-04</div>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                    <div className="L__2022-08-042">2022-08-04</div>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame_new">
+                    <div className="L_frame-760">
+                      <div className="L_icn2">
+                        <div className="L_frame">
                           <svg
-                            className="vector15_new"
+                            className="L_vector15"
                             width="16"
                             height="14"
                             viewBox="0 0 16 14"
@@ -644,7 +651,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector16_new"
+                            className="L_vector16"
                             width="15"
                             viewBox="0 0 15 0"
                             fill="none"
@@ -660,7 +667,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="group4_new"
+                            className="L_group4"
                             width="8"
                             height="4"
                             viewBox="0 0 8 4"
@@ -685,46 +692,46 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L__2022-10-04">2022-10-04</div>
                     </div>
 
-                    <div className="L15_new">6</div>
+                    <div className="L_L15">6</div>
 
-                    <div className="L15_new">2</div>
+                    <div className="L_L15">2</div>
 
-                    <div className="_4-500-000_new">4,500,000원</div>
+                    <div className="L__4-500-000">4,500,000원</div>
 
-                    <div className="L16_new">김춘삼</div>
+                    <div className="L_L16">김춘삼</div>
                   </div>
 
-                  <div className="rectangle-491_new"></div>
+                  <div className="L_rectangle-491"></div>
 
-                  <div className="component-18_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7506_new">
-                          <div className="_84236_new">84236</div>
+                  <div className="L_component-18">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-7132">
+                        <div className="L_frame-7506">
+                          <div className="L__84236">84236</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">오지명(남)</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L14">오지명(남)</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
+                        <div className="L__1984-09-05">1984-09-05</div>
                       </div>
                     </div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                    <div className="L__010-1234-5678">010-1234-5678</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                    <div className="L__2022-08-04">2022-08-04</div>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                    <div className="L__2022-08-042">2022-08-04</div>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame_new">
+                    <div className="L_frame-760">
+                      <div className="L_icn2">
+                        <div className="L_frame">
                           <svg
-                            className="vector19_new"
+                            className="L_vector19"
                             width="16"
                             height="14"
                             viewBox="0 0 16 14"
@@ -741,7 +748,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector20_new"
+                            className="L_vector20"
                             width="15"
                             viewBox="0 0 15 0"
                             fill="none"
@@ -757,7 +764,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="group5_new"
+                            className="L_group5"
                             width="8"
                             height="4"
                             viewBox="0 0 8 4"
@@ -782,46 +789,46 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L__2022-10-04">2022-10-04</div>
                     </div>
 
-                    <div className="L15_new">6</div>
+                    <div className="L_L15">6</div>
 
-                    <div className="L15_new">2</div>
+                    <div className="L_L15">2</div>
 
-                    <div className="_4-500-000_new">4,500,000원</div>
+                    <div className="L__4-500-000">4,500,000원</div>
 
-                    <div className="L16_new">김춘삼</div>
+                    <div className="L_L16">김춘삼</div>
                   </div>
 
-                  <div className="rectangle-492_new"></div>
+                  <div className="L_rectangle-492"></div>
 
-                  <div className="component-19_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7506_new">
-                          <div className="_84236_new">84236</div>
+                  <div className="L_component-19">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-7132">
+                        <div className="L_frame-7506">
+                          <div className="L__84236">84236</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">오지명(남)</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L14">오지명(남)</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
+                        <div className="L__1984-09-05">1984-09-05</div>
                       </div>
                     </div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                    <div className="L__010-1234-5678">010-1234-5678</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                    <div className="L__2022-08-04">2022-08-04</div>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                    <div className="L__2022-08-042">2022-08-04</div>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame_new">
+                    <div className="L_frame-760">
+                      <div className="L_icn2">
+                        <div className="L_frame">
                           <svg
-                            className="vector23_new"
+                            className="L_vector23"
                             width="16"
                             height="14"
                             viewBox="0 0 16 14"
@@ -838,7 +845,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector24_new"
+                            className="L_vector24"
                             width="15"
                             viewBox="0 0 15 0"
                             fill="none"
@@ -854,7 +861,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="group6_new"
+                            className="L_group6"
                             width="8"
                             height="4"
                             viewBox="0 0 8 4"
@@ -879,46 +886,46 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L__2022-10-04">2022-10-04</div>
                     </div>
 
-                    <div className="L15_new">6</div>
+                    <div className="L_L15">6</div>
 
-                    <div className="L15_new">2</div>
+                    <div className="L_L15">2</div>
 
-                    <div className="_4-500-000_new">4,500,000원</div>
+                    <div className="L__4-500-000">4,500,000원</div>
 
-                    <div className="L16_new">김춘삼</div>
+                    <div className="L_L16">김춘삼</div>
                   </div>
 
-                  <div className="rectangle-494_new"></div>
+                  <div className="L_rectangle-494"></div>
 
-                  <div className="component-20_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7506_new">
-                          <div className="_84236_new">84236</div>
+                  <div className="L_component-20">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-7132">
+                        <div className="L_frame-7506">
+                          <div className="L__84236">84236</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">오지명(남)</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L14">오지명(남)</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
+                        <div className="L__1984-09-05">1984-09-05</div>
                       </div>
                     </div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                    <div className="L__010-1234-5678">010-1234-5678</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                    <div className="L__2022-08-04">2022-08-04</div>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                    <div className="L__2022-08-042">2022-08-04</div>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame_new">
+                    <div className="L_frame-760">
+                      <div className="L_icn2">
+                        <div className="L_frame">
                           <svg
-                            className="vector27_new"
+                            className="L_vector27"
                             width="16"
                             height="14"
                             viewBox="0 0 16 14"
@@ -935,7 +942,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector28_new"
+                            className="L_vector28"
                             width="15"
                             viewBox="0 0 15 0"
                             fill="none"
@@ -951,7 +958,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="group7_new"
+                            className="L_group7"
                             width="8"
                             height="4"
                             viewBox="0 0 8 4"
@@ -976,46 +983,46 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L__2022-10-04">2022-10-04</div>
                     </div>
 
-                    <div className="L15_new">6</div>
+                    <div className="L_L15">6</div>
 
-                    <div className="L15_new">2</div>
+                    <div className="L_L15">2</div>
 
-                    <div className="_4-500-000_new">4,500,000원</div>
+                    <div className="L__4-500-000">4,500,000원</div>
 
-                    <div className="L16_new">김춘삼</div>
+                    <div className="L_L16">김춘삼</div>
                   </div>
 
-                  <div className="rectangle-495_new"></div>
+                  <div className="L_rectangle-495"></div>
 
-                  <div className="component-21_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7506_new">
-                          <div className="_84236_new">84236</div>
+                  <div className="L_component-21">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-7132">
+                        <div className="L_frame-7506">
+                          <div className="L__84236">84236</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">오지명(남)</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L14">오지명(남)</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
+                        <div className="L__1984-09-05">1984-09-05</div>
                       </div>
                     </div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                    <div className="L__010-1234-5678">010-1234-5678</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                    <div className="L__2022-08-04">2022-08-04</div>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                    <div className="L__2022-08-042">2022-08-04</div>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame_new">
+                    <div className="L_frame-760">
+                      <div className="L_icn2">
+                        <div className="L_frame">
                           <svg
-                            className="vector31_new"
+                            className="L_vector31"
                             width="16"
                             height="14"
                             viewBox="0 0 16 14"
@@ -1032,7 +1039,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector32_new"
+                            className="L_vector32"
                             width="15"
                             viewBox="0 0 15 0"
                             fill="none"
@@ -1048,7 +1055,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="group8_new"
+                            className="L_group8"
                             width="8"
                             height="4"
                             viewBox="0 0 8 4"
@@ -1073,46 +1080,46 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L__2022-10-04">2022-10-04</div>
                     </div>
 
-                    <div className="L15_new">6</div>
+                    <div className="L_L15">6</div>
 
-                    <div className="L15_new">2</div>
+                    <div className="L_L15">2</div>
 
-                    <div className="_4-500-000_new">4,500,000원</div>
+                    <div className="L__4-500-000">4,500,000원</div>
 
-                    <div className="L16_new">김춘삼</div>
+                    <div className="L_L16">김춘삼</div>
                   </div>
 
-                  <div className="rectangle-496_new"></div>
+                  <div className="L_rectangle-496"></div>
 
-                  <div className="component-22_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7506_new">
-                          <div className="_84236_new">84236</div>
+                  <div className="L_component-22">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-7132">
+                        <div className="L_frame-7506">
+                          <div className="L__84236">84236</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">오지명(남)</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L14">오지명(남)</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
+                        <div className="L__1984-09-05">1984-09-05</div>
                       </div>
                     </div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                    <div className="L__010-1234-5678">010-1234-5678</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                    <div className="L__2022-08-04">2022-08-04</div>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                    <div className="L__2022-08-042">2022-08-04</div>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame_new">
+                    <div className="L_frame-760">
+                      <div className="L_icn2">
+                        <div className="L_frame">
                           <svg
-                            className="vector35_new"
+                            className="L_vector35"
                             width="16"
                             height="14"
                             viewBox="0 0 16 14"
@@ -1129,7 +1136,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector36_new"
+                            className="L_vector36"
                             width="15"
                             viewBox="0 0 15 0"
                             fill="none"
@@ -1145,7 +1152,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="group9_new"
+                            className="L_group9"
                             width="8"
                             height="4"
                             viewBox="0 0 8 4"
@@ -1170,46 +1177,46 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L__2022-10-04">2022-10-04</div>
                     </div>
 
-                    <div className="L15_new">6</div>
+                    <div className="L_L15">6</div>
 
-                    <div className="L15_new">2</div>
+                    <div className="L_L15">2</div>
 
-                    <div className="_4-500-000_new">4,500,000원</div>
+                    <div className="L__4-500-000">4,500,000원</div>
 
-                    <div className="L16_new">김춘삼</div>
+                    <div className="L_L16">김춘삼</div>
                   </div>
 
-                  <div className="rectangle-497_new"></div>
+                  <div className="L_rectangle-497"></div>
 
-                  <div className="component-23_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7506_new">
-                          <div className="_84236_new">84236</div>
+                  <div className="L_component-23">
+                    <div className="L_frame-7502">
+                      <div className="L_frame-7132">
+                        <div className="L_frame-7506">
+                          <div className="L__84236">84236</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">오지명(남)</div>
+                      <div className="L_frame-7504">
+                        <div className="L_L14">오지명(남)</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
+                        <div className="L__1984-09-05">1984-09-05</div>
                       </div>
                     </div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                    <div className="L__010-1234-5678">010-1234-5678</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                    <div className="L__2022-08-04">2022-08-04</div>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                    <div className="L__2022-08-042">2022-08-04</div>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame_new">
+                    <div className="L_frame-760">
+                      <div className="L_icn2">
+                        <div className="L_frame">
                           <svg
-                            className="vector39_new"
+                            className="L_vector39"
                             width="16"
                             height="14"
                             viewBox="0 0 16 14"
@@ -1226,7 +1233,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector40_new"
+                            className="L_vector40"
                             width="15"
                             viewBox="0 0 15 0"
                             fill="none"
@@ -1242,7 +1249,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="group10_new"
+                            className="L_group10"
                             width="8"
                             height="4"
                             viewBox="0 0 8 4"
@@ -1267,27 +1274,27 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L__2022-10-04">2022-10-04</div>
                     </div>
 
-                    <div className="L15_new">6</div>
+                    <div className="L_L15">6</div>
 
-                    <div className="L15_new">2</div>
+                    <div className="L_L15">2</div>
 
-                    <div className="_4-500-000_new">4,500,000원</div>
+                    <div className="L__4-500-000">4,500,000원</div>
 
-                    <div className="L16_new">김춘삼</div>
+                    <div className="L_L16">김춘삼</div>
                   </div>
 
-                  <div className="rectangle-498_new"></div>
+                  <div className="L_rectangle-498"></div>
                 </div>
               </div>
 
-              <div className="btn-indicator_new">
-                <div className="frame-752_new">
-                  <div className="icn-ll-arrow_new">
+              <div className="L_btn-indicator">
+                <div className="L_frame-752">
+                  <div className="L_icn-ll-arrow">
                     <svg
-                      className="group-748_new"
+                      className="L_group-748"
                       width="9"
                       height="7"
                       viewBox="0 0 9 7"
@@ -1312,7 +1319,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                   </div>
 
                   <svg
-                    className="icn-rl-arrow_new"
+                    className="L_icn-rl-arrow"
                     width="25"
                     height="24"
                     viewBox="0 0 25 24"
@@ -1329,31 +1336,31 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                   </svg>
                 </div>
 
-                <div className="frame-751_new">
-                  <div className="_1_new">1</div>
+                <div className="L_frame-751">
+                  <div className="L__1">1</div>
 
-                  <div className="_2_new">2</div>
+                  <div className="L__2">2</div>
 
-                  <div className="_3_new">3</div>
+                  <div className="L__3">3</div>
 
-                  <div className="_4_new">4</div>
+                  <div className="L__4">4</div>
 
-                  <div className="_5_new">5</div>
+                  <div className="L__5">5</div>
 
-                  <div className="_6_new">6</div>
+                  <div className="L__6">6</div>
 
-                  <div className="_7_new">7</div>
+                  <div className="L__7">7</div>
 
-                  <div className="_8_new">8</div>
+                  <div className="L__8">8</div>
 
-                  <div className="_9_new">9</div>
+                  <div className="L__9">9</div>
 
-                  <div className="_10_new">10</div>
+                  <div className="L__10">10</div>
                 </div>
 
-                <div className="frame-752_new">
+                <div className="L_frame-752">
                   <svg
-                    className="icn-lr-arrow_new"
+                    className="L_icn-lr-arrow"
                     width="25"
                     height="24"
                     viewBox="0 0 25 24"
@@ -1369,9 +1376,9 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                     />
                   </svg>
 
-                  <div className="icn-rr-arrow_new">
+                  <div className="L_icn-rr-arrow">
                     <svg
-                      className="group-7482_new"
+                      className="L_group-7482"
                       width="9"
                       height="7"
                       viewBox="0 0 9 7"
@@ -1399,14 +1406,14 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
             </div>
           </div>
 
-          <div className="bottom_new">
-            <div className="module-floating_new">
-              <div className="user-profile-box_new">
-                <div className="frame-740_new">
-                  <div className="frame-7402_new">
-                    <div className="icn-24-24-patientlist-24-px-off_new">
+          <div className="L_bottom">
+            <div className="L_module-floating">
+              <div className="L_user-profile-box">
+                <div className="L_frame-740">
+                  <div className="L_frame-7402">
+                    <div className="L_icn-24-24-patientlist-24-px-off">
                       <svg
-                        className="frame2_new"
+                        className="L_frame2"
                         width="21"
                         height="20"
                         viewBox="0 0 21 20"
@@ -1458,10 +1465,10 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                       </svg>
                     </div>
 
-                    <div className="L17_new">환자 관리</div>
+                    <div className="L_L17">환자 관리</div>
 
                     <svg
-                      className="icon-24-24-arrow-right-off_new"
+                      className="L_icon-24-24-arrow-right-off"
                       width="24"
                       height="24"
                       viewBox="0 0 24 24"
@@ -1479,13 +1486,13 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                   </div>
                 </div>
 
-                <div className="frame-1127_new">
-                  <div className="frame-7403_new">
-                    <div className="icn-heart_new">
-                      <div className="frame-heart_new">
-                        <div className="group-737_new">
+                <div className="L_frame-1127">
+                  <div className="L_frame-7403">
+                    <div className="L_icn-heart">
+                      <div className="L_frame-heart">
+                        <div className="L_group-737">
                           <svg
-                            className="group11_new"
+                            className="L_group11"
                             width="8"
                             height="8"
                             viewBox="0 0 8 8"
@@ -1509,7 +1516,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector50_new"
+                            className="L_vector50"
                             width="17"
                             height="15"
                             viewBox="0 0 17 15"
@@ -1526,7 +1533,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                           </svg>
 
                           <svg
-                            className="vector51_new"
+                            className="L_vector51"
                             width="2"
                             height="5"
                             viewBox="0 0 2 5"
@@ -1545,10 +1552,10 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                       </div>
                     </div>
 
-                    <div className="L18_new">등록된 치아 수</div>
+                    <div className="L_L18">등록된 치아 수</div>
 
                     <svg
-                      className="icon-24-24-arrow-right-off2_new"
+                      className="L_icon-24-24-arrow-right-off2"
                       width="24"
                       height="24"
                       viewBox="0 0 24 24"
@@ -1566,12 +1573,12 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                   </div>
                 </div>
 
-                <div className="frame-1128_new">
-                  <div className="frame-7403_new">
-                    <div className="icn-graph_new">
-                      <div className="fram-graph">
+                <div className="L_frame-1128">
+                  <div className="L_frame-7403">
+                    <div className="L_icn-graph">
+                      <div className="L_fram-graph">
                         <svg
-                          className="vector52_new"
+                          className="L_vector52"
                           width="16"
                           height="16"
                           viewBox="0 0 16 16"
@@ -1588,7 +1595,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                         </svg>
 
                         <svg
-                          className="group12_new"
+                          className="L_group12"
                           width="8"
                           height="9"
                           viewBox="0 0 8 9"
@@ -1620,10 +1627,10 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                       </div>
                     </div>
 
-                    <div className="L18_new">진료 환자 평균</div>
+                    <div className="L_L18">진료 환자 평균</div>
 
                     <svg
-                      className="icon-24-24-arrow-right-off3_new"
+                      className="L_icon-24-24-arrow-right-off3"
                       width="24"
                       height="24"
                       viewBox="0 0 24 24"
@@ -1642,18 +1649,18 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                 </div>
               </div>
 
-              <div className="btn-floating-close_new">
-                <div className="ellipse-11_new"></div>
+              <div className="L_btn-floating-close">
+                <div className="L_ellipse-11"></div>
 
-                <div className="line-2_new"></div>
+                <div className="L_line-2"></div>
 
-                <div className="line-3_new"></div>
+                <div className="L_line-3"></div>
 
-                <div className="group-21_new">
-                  <div className="ellipse-112_new"></div>
+                <div className="L_group-21">
+                  <div className="L_ellipse-112"></div>
 
                   <svg
-                    className="group-736_new"
+                    className="L_group-736"
                     width="34"
                     height="34"
                     viewBox="0 0 34 34"
@@ -1685,23 +1692,223 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
           </div>
         </div>
 
-        <Menu></Menu>
+        <div className="L_moudle-menu-status">
+          <div className="L_module-menu-hover2">
+            <div className="L_frame-1131">
+              <div className="L_group-742">
+                <div className="L_frame-72"></div>
+
+                <div className="L_etc-logo">
+                  <div className="L_group-686">
+                    <svg
+                      className="L_group13"
+                      width="50"
+                      height="36"
+                      viewBox="0 0 50 36"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M17.9117 0C8.0165 0 0 8.05604 0 18C0 27.944 8.0165 36 17.9117 36H49.8128V0H17.9117Z"
+                        fill="white"
+                      />
+                      <path
+                        d="M48.6583 1.16013V34.8399H17.9117C8.66901 34.8399 1.15443 27.2882 1.15443 18C1.15443 8.71177 8.66901 1.16013 17.9117 1.16013H48.6583ZM49.8128 0H17.9117C8.0165 0 0 8.05604 0 18C0 27.944 8.0165 36 17.9117 36H49.8128V0Z"
+                        fill="#2DBDEF"
+                      />
+                    </svg>
+
+                    <svg
+                      className="L_vector58"
+                      width="58"
+                      height="36"
+                      viewBox="0 0 58 36"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M40.0881 0C49.9833 0 57.9998 8.05604 57.9998 18C57.9998 27.944 49.9833 36 40.0881 36H0.973633V0H40.0881V0Z"
+                        fill="url(#paint0_linear_2110_145474)"
+                      />
+                      <defs>
+                        <linearGradient
+                          id="paint0_linear_2110_145474"
+                          x1="0.973633"
+                          y1="18"
+                          x2="57.9998"
+                          y2="18"
+                          gradientUnits="userSpaceOnUse"
+                        >
+                          <stop stopColor="#2DBDEF" />
+                          <stop offset="1" stopColor="#1F3B75" />
+                        </linearGradient>
+                      </defs>
+                    </svg>
+
+                    <svg
+                      className="L_group14"
+                      width="32"
+                      height="10"
+                      viewBox="0 0 32 10"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M3.33067 9.76955C2.74987 9.76955 2.26229 9.7047 1.86074 9.5822C1.4592 9.4525 1.1437 9.26515 0.907081 9.00574C0.670458 8.74634 0.498368 8.42208 0.390812 8.03297C0.290426 7.64385 0.240234 7.18989 0.240234 6.67107V0.236328H2.79289V6.43328C2.79289 6.77916 2.85026 7.01695 2.97215 7.14666C3.08688 7.27636 3.30916 7.33401 3.639 7.33401H6.55018V9.77676H3.33067V9.76955Z"
+                        fill="#2DBDEF"
+                      />
+                      <path
+                        d="M21.0916 1.97292C20.9912 1.58381 20.8191 1.25955 20.5753 1.00014C20.3315 0.740731 20.016 0.546175 19.6216 0.423677C19.2273 0.293973 18.7325 0.236328 18.1517 0.236328H15.09C14.5092 0.236328 14.0216 0.301179 13.62 0.423677C13.2185 0.553381 12.903 0.740731 12.6664 1.00014C12.4297 1.25955 12.2576 1.58381 12.1501 1.97292C12.0497 2.36203 11.9995 2.81599 11.9995 3.33481V9.76956H14.5522V3.5726C14.5522 3.22672 14.6095 2.98893 14.7314 2.85923C14.8462 2.72952 15.0684 2.67188 15.3983 2.67188H17.8434C18.1732 2.67188 18.3955 2.73673 18.5102 2.85923C18.625 2.98893 18.6895 3.22672 18.6895 3.5726V9.76956H21.2422V3.33481C21.2422 2.81599 21.192 2.36203 21.0916 1.97292V1.97292Z"
+                        fill="#2DBDEF"
+                      />
+                      <path
+                        d="M10.3862 0.228516V9.76895H7.8335V0.228516H10.3862Z"
+                        fill="#2DBDEF"
+                      />
+                      <path
+                        d="M31.0084 9.58954C30.9653 9.5319 30.9223 9.47425 30.8793 9.41661L27.0288 4.85536C26.9929 4.81212 26.9714 4.75448 26.9714 4.69683C26.9714 4.63918 26.9929 4.58874 27.0288 4.5383L30.614 0.474252C30.6427 0.438223 30.6785 0.394988 30.7072 0.351754C30.7359 0.308519 30.7646 0.265284 30.7861 0.214844H27.5666C27.4877 0.358959 27.4016 0.488662 27.2941 0.61116L25.0282 3.29171V0.214844H22.4756V9.75528H25.0282V6.39739L27.4447 9.35896C27.5737 9.51028 27.667 9.63998 27.7315 9.75528H31.1159C31.0801 9.69042 31.037 9.62557 30.994 9.57513L31.0084 9.58954Z"
+                        fill="#2DBDEF"
+                      />
+                    </svg>
+
+                    <svg
+                      className="L_vector63"
+                      width="10"
+                      height="10"
+                      viewBox="0 0 10 10"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M9.41677 1.97292C9.31638 1.58381 9.14429 1.25955 8.9005 1.00014C8.6567 0.740731 8.34121 0.546175 7.94683 0.423677C7.55246 0.293973 7.0577 0.236328 6.4769 0.236328H3.41515C2.83434 0.236328 2.34675 0.301179 1.94521 0.423677C1.54367 0.553381 1.22818 0.740731 0.991554 1.00014C0.754931 1.25955 0.582841 1.58381 0.475285 1.97292C0.374899 2.36203 0.324707 2.81599 0.324707 3.33481V9.76955H2.87737V3.5726C2.87737 3.22672 2.93473 2.98893 3.05663 2.85923C3.17135 2.72952 3.39363 2.67188 3.72347 2.67188H6.16858C6.49842 2.67188 6.72069 2.73673 6.83542 2.85923C6.95015 2.98893 7.01468 3.22672 7.01468 3.5726V9.76955H9.56734V3.33481C9.56734 2.81599 9.51715 2.36203 9.41677 1.97292V1.97292Z"
+                        fill="white"
+                      />
+                    </svg>
+
+                    <svg
+                      className="L_vector64"
+                      width="10"
+                      height="10"
+                      viewBox="0 0 10 10"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M4.82909 0.230469C5.59632 0.230469 6.27034 0.338555 6.84397 0.561933C7.4176 0.785312 7.91953 1.08795 8.34259 1.48427C8.823 1.92382 9.19586 2.44984 9.46834 3.04792C9.74081 3.65321 9.87705 4.30173 9.87705 4.99348C9.87705 5.62038 9.76949 6.21125 9.55438 6.75889C9.33927 7.30653 9.03811 7.78932 8.65808 8.21446C8.22069 8.69724 7.68291 9.07194 7.05909 9.35297C6.43526 9.63399 5.68954 9.7709 4.84343 9.7709H1.27974C0.871028 9.7709 0.663086 9.56914 0.663086 9.16562V0.828547C0.663086 0.43223 0.871028 0.237675 1.27974 0.237675H4.84343L4.82909 0.230469ZM3.3735 2.75969C3.2516 2.75969 3.19424 2.82454 3.19424 2.95425V7.06153C3.19424 7.19124 3.2516 7.25609 3.3735 7.25609H4.82909C5.28083 7.25609 5.66085 7.19124 5.96918 7.06153C6.27751 6.93183 6.53564 6.75169 6.74359 6.52831C6.93002 6.33375 7.07342 6.10317 7.18098 5.84376C7.28137 5.58435 7.33873 5.31053 7.33873 5.0151C7.33873 4.69804 7.2742 4.3954 7.1523 4.11438C7.02323 3.83335 6.85831 3.58835 6.63603 3.37939C6.42809 3.19204 6.1843 3.04072 5.90465 2.92542C5.62501 2.81013 5.26649 2.75969 4.83626 2.75969H3.38067H3.3735Z"
+                        fill="white"
+                      />
+                    </svg>
+
+                    <svg
+                      className="L_vector65"
+                      width="10"
+                      height="10"
+                      viewBox="0 0 10 10"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M9.08411 0.230469V2.75969H3.52705C3.37647 2.75969 3.30477 2.83896 3.30477 2.99748V4.08555H9.04826V6.00949H3.30477V7.07595C3.30477 7.24168 3.37647 7.32815 3.52705 7.32815H9.08411V9.7709H2.09297C1.20384 9.7709 0.759277 9.33135 0.759277 8.44504V1.51309C0.759277 0.655608 1.21102 0.230469 2.10732 0.230469H9.08411Z"
+                        fill="white"
+                      />
+                    </svg>
+
+                    <svg
+                      className="L_vector66"
+                      width="10"
+                      height="10"
+                      viewBox="0 0 10 10"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M9.39039 2.75835H4.00542C3.84767 2.75835 3.7186 2.77276 3.63256 2.80879C3.54651 2.84481 3.46764 2.88805 3.41744 2.94569C3.28838 3.0754 3.22385 3.24113 3.22385 3.44289C3.22385 3.64465 3.30272 3.81759 3.46047 3.9473C3.51783 3.99774 3.58237 4.02656 3.66124 4.05538C3.74011 4.08421 3.85484 4.09141 4.00542 4.09141H6.73734C7.26795 4.09141 7.71969 4.17068 8.09255 4.322C8.46541 4.48052 8.77373 4.68949 9.02469 4.9489C9.27566 5.21551 9.47643 5.51095 9.61984 5.84962C9.76325 6.18829 9.83495 6.54858 9.83495 6.92328C9.83495 7.26915 9.77042 7.60783 9.64853 7.92488C9.51946 8.24193 9.35454 8.53016 9.13226 8.78236C8.86695 9.08501 8.54428 9.3228 8.15708 9.50294C7.76988 9.68308 7.29663 9.76955 6.73017 9.76955H0.814592V7.3268H6.27844C6.47204 7.3268 6.62979 7.30518 6.73734 7.26195C6.8449 7.21871 6.93094 7.16107 6.99548 7.08901C7.09586 6.96651 7.15323 6.8224 7.15323 6.64946C7.15323 6.44049 7.08869 6.27476 6.95962 6.14505C6.89509 6.073 6.80905 6.01535 6.71583 5.97932C6.61545 5.94329 6.47203 5.92888 6.2856 5.92888H3.86918C3.23102 5.92888 2.72192 5.84962 2.32755 5.6983C1.94034 5.53977 1.61768 5.3308 1.36672 5.0714C1.11575 4.81199 0.914975 4.50935 0.778737 4.17788C0.63533 3.84642 0.570801 3.47892 0.570801 3.0826C0.570801 2.68629 0.642501 2.3332 0.785909 1.99453C0.929317 1.65586 1.13009 1.35322 1.38105 1.09381C1.63202 0.834406 1.95469 0.618233 2.33472 0.466912C2.72192 0.308386 3.23102 0.236328 3.86918 0.236328H9.39039V2.76555V2.75835Z"
+                        fill="white"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="L_frame-742"></div>
+          </div>
+
+          <div className="L_frame-1145"></div>
+        </div>
+
+        <div className="L_component-13-search-box-32">
+          <div className="L_btn-input-category">
+            <div className="L_button-sub-2-dapth">
+              <div className="L_frame-909">
+                <div className="L_patient">Patient</div>
+
+                <svg
+                  className="L_icn-ul-arrow2"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M9 10L12.375 13L15.75 10"
+                    stroke="#333333"
+                    strokeWidth="1.5"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+
+          <div className="L_input-box-search">
+            <div className="L_frame-909">
+              <div className="L_L1">검색어를 입력해 주세요.</div>
+
+              <div className="L_icn-box">
+                <svg
+                  className="L_group-23"
+                  width="18"
+                  height="19"
+                  viewBox="0 0 18 19"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="8.48528"
+                    cy="9.18359"
+                    r="5.25"
+                    transform="rotate(-45 8.48528 9.18359)"
+                    stroke="#333333"
+                    strokeWidth="1.5"
+                  />
+                  <path
+                    d="M16.8149 18.5738C17.1078 18.8667 17.5827 18.8667 17.8756 18.5738C18.1685 18.2809 18.1685 17.8061 17.8756 17.5132L16.8149 18.5738ZM11.8652 13.6241L16.8149 18.5738L17.8756 17.5132L12.9258 12.5634L11.8652 13.6241Z"
+                    fill="#333333"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
 
-      <div className="etc-info2_new">
-        <div className="etc-info-16-px_new">
-          <div className="etc-info-16-px2_new">
-            <div className="ellipse-33_new"></div>
+      <div className="L_etc-info2">
+        <div className="L_etc-info-16-px">
+          <div className="L_etc-info-16-px2">
+            <div className="L_ellipse-33"></div>
 
-            <div className="group-743_new">
-              <div className="rectangle-541_new"></div>
+            <div className="L_group-743">
+              <div className="L_rectangle-541"></div>
 
-              <div className="rectangle-542_new"></div>
+              <div className="L_rectangle-542"></div>
             </div>
           </div>
         </div>
 
-        <div className="frame-819_new"></div>
+        <div className="L_frame-819"></div>
       </div>
     </div>
   );

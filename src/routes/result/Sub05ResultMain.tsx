@@ -6,33 +6,33 @@ export const Sub05ResultMain = ({
   ...props
 }: ISub05ResultMainProps): JSX.Element => {
   return (
-    <div className="sub-05-result-main">
-      <div className="module-menu-status-1">
-        <div className="module-menu-hover">
-          <div className="frame-7"></div>
+    <div className="R_sub-05-result-main">
+      <div className="R_module-menu-status-1">
+        <div className="R_module-menu-hover">
+          <div className="R_frame-7"></div>
 
-          <div className="frame-705"></div>
+          <div className="R_frame-705"></div>
         </div>
 
-        <div className="frame-705"></div>
+        <div className="R_frame-705"></div>
       </div>
 
-      <div className="result-contents">
-        <div className="com-header">
-          <div className="group-706">
-            <div className="btn-profile">
-              <div className="frame-691">
-                <div className="img-profile">
-                  <img className="etc-profile" src="etc-profile.png" />
+      <div className="R_result-contents">
+        <div className="R_com-header">
+          <div className="R_group-706">
+            <div className="R_btn-profile">
+              <div className="R_frame-691">
+                <div className="R_img-profile">
+                  <img className="R_etc-profile" src="etc-profile.png" />
                 </div>
 
-                <div className="frame-2">
-                  <div className="ab-admin">AB Admin</div>
+                <div className="R_frame-2">
+                  <div className="R_ab-admin">AB Admin</div>
                 </div>
               </div>
 
               <svg
-                className="icon-24-24-arrow-down-off"
+                className="R_icon-24-24-arrow-down-off"
                 width="24"
                 height="24"
                 viewBox="0 0 24 24"
@@ -49,10 +49,10 @@ export const Sub05ResultMain = ({
               </svg>
             </div>
 
-            <div className="frame-3182">
-              <div className="icon-24-24-setting-off">
+            <div className="R_frame-3182">
+              <div className="R_icon-24-24-setting-off">
                 <svg
-                  className="frame-setting"
+                  className="R_frame-setting"
                   width="17"
                   height="18"
                   viewBox="0 0 17 18"
@@ -84,14 +84,14 @@ export const Sub05ResultMain = ({
               </div>
             </div>
 
-            <div className="btn-input-category-search">
-              <div className="btn-input-category">
-                <div className="button-sub-2-dapth">
-                  <div className="frame-909">
-                    <div className="patient">Patient</div>
+            <div className="R_btn-input-category-search">
+              <div className="R_btn-input-category">
+                <div className="R_button-sub-2-dapth">
+                  <div className="R_frame-909">
+                    <div className="R_patient">Patient</div>
 
                     <svg
-                      className="icn"
+                      className="R_icn"
                       width="24"
                       height="24"
                       viewBox="0 0 24 24"
@@ -110,13 +110,13 @@ export const Sub05ResultMain = ({
                 </div>
               </div>
 
-              <div className="input-box-search">
-                <div className="frame-909">
-                  <div className="">검색어를 입력해 주세요.</div>
+              <div className="R_input-box-search">
+                <div className="R_frame-909">
+                  <div className="R_">검색어를 입력해 주세요.</div>
 
-                  <div className="icn-search">
+                  <div className="R_icn-search">
                     <svg
-                      className="group-2"
+                      className="R_group-2"
                       width="18"
                       height="19"
                       viewBox="0 0 18 19"
@@ -143,21 +143,21 @@ export const Sub05ResultMain = ({
           </div>
         </div>
 
-        <div className="module-see-resultstitle">
-          <div className="frame-1119">
-            <div className="R2">결과보기</div>
+        <div className="R_module-see-resultstitle">
+          <div className="R_frame-1119">
+            <div className="R_R2">결과보기</div>
           </div>
 
-          <div className="rectangle-568"></div>
+          <div className="R_rectangle-568"></div>
 
-          <div className="component-13-search-box-3">
-            <div className="btn-input-category">
-              <div className="button-sub-2-dapth">
-                <div className="frame-909">
-                  <div className="patient">Patient</div>
+          <div className="R_component-13-search-box-3">
+            <div className="R_btn-input-category">
+              <div className="R_button-sub-2-dapth">
+                <div className="R_frame-909">
+                  <div className="R_patient">Patient</div>
 
                   <svg
-                    className="icn2"
+                    className="R_icn2"
                     width="24"
                     height="24"
                     viewBox="0 0 24 24"
@@ -176,13 +176,13 @@ export const Sub05ResultMain = ({
               </div>
             </div>
 
-            <div className="input-box-search">
-              <div className="frame-909">
-                <div className="">검색어를 입력해 주세요.</div>
+            <div className="R_input-box-search">
+              <div className="R_frame-909">
+                <div className="R_">검색어를 입력해 주세요.</div>
 
-                <div className="icn3">
+                <div className="R_icn3">
                   <svg
-                    className="group-22"
+                    className="R_group-22"
                     width="18"
                     height="19"
                     viewBox="0 0 18 19"
@@ -208,494 +208,494 @@ export const Sub05ResultMain = ({
           </div>
         </div>
 
-        <div className="result-table">
-          <div className="frame-1342">
-            <div className="group-750">
-              <div className="frame-750">
-                <div className="R3">최근 검사일</div>
+        <div className="R_result-table">
+          <div className="R_frame-1342">
+            <div className="R_group-750">
+              <div className="R_frame-750">
+                <div className="R_R3">최근 검사일</div>
 
-                <div className="rectangle-569"></div>
+                <div className="R_rectangle-569"></div>
 
-                <div className="R4">환자명</div>
+                <div className="R_R4">환자명</div>
 
-                <div className="rectangle-570"></div>
+                <div className="R_rectangle-570"></div>
 
-                <div className="R4">예약일 빠른 순</div>
+                <div className="R_R4">예약일 빠른 순</div>
 
-                <div className="rectangle-571"></div>
+                <div className="R_rectangle-571"></div>
 
-                <div className="R4">등록일 순</div>
+                <div className="R_R4">등록일 순</div>
               </div>
             </div>
           </div>
 
-          <div className="missing-risk-list">
-            <div className="module-list">
-              <div className="frame-7502">
-                <div className="frame-713">
-                  <div className="frame-7503">
-                    <div className="no">NO</div>
+          <div className="R_missing-risk-list">
+            <div className="R_module-list">
+              <div className="R_frame-7502">
+                <div className="R_frame-713">
+                  <div className="R_frame-7503">
+                    <div className="R_no">NO</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R5">환자 정보</div>
+                <div className="R_frame-7504">
+                  <div className="R_R5">환자 정보</div>
                 </div>
               </div>
 
-              <div className="R6">연락처</div>
+              <div className="R_R6">연락처</div>
 
-              <div className="R7">등록일</div>
+              <div className="R_R7">등록일</div>
 
-              <div className="R8">검사일</div>
+              <div className="R_R8">검사일</div>
 
-              <div className="R9">예약</div>
+              <div className="R_R9">예약</div>
 
-              <div className="R10">종합 위험도</div>
+              <div className="R_R10">종합 위험도</div>
 
-              <div className="R10">관리도</div>
+              <div className="R_R10">관리도</div>
 
-              <div className="R11">추정 향후치료비</div>
+              <div className="R_R11">추정 향후치료비</div>
 
-              <div className="R12">담당의</div>
+              <div className="R_R12">담당의</div>
             </div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="R_module-list2">
+              <div className="R_frame-7502">
+                <div className="R_frame-7132">
+                  <div className="R_frame-7505">
+                    <div className="R__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R13">오지명(남)</div>
+                <div className="R_frame-7504">
+                  <div className="R_R13">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="R__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-7468">
+              <div className="R__010-7468">
                 <span>
-                  <span className="_010-7468-span">010-7468-</span>
-                  <span className="_010-7468-span2">
+                  <span className="R__010-7468-span">010-7468-</span>
+                  <span className="R__010-7468-span2">
                     ****
                     <br />
                   </span>
                 </span>
               </div>
 
-              <div className="_2022-08-22">2022-08-22</div>
+              <div className="R__2022-08-22">2022-08-22</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="R__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="R__2022-10-04">2022-10-04</div>
 
-              <div className="R14">6</div>
+              <div className="R_R14">6</div>
 
-              <div className="R14">2</div>
+              <div className="R_R14">2</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="R__4-500-000">4,500,000원</div>
 
-              <div className="R15">김춘삼</div>
+              <div className="R_R15">김춘삼</div>
             </div>
 
-            <div className="rectangle-496"></div>
+            <div className="R_rectangle-496"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="R_module-list2">
+              <div className="R_frame-7502">
+                <div className="R_frame-7132">
+                  <div className="R_frame-7505">
+                    <div className="R__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R13">오지명(남)</div>
+                <div className="R_frame-7504">
+                  <div className="R_R13">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="R__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-7468">
+              <div className="R__010-7468">
                 <span>
-                  <span className="_010-7468-span3">010-7468-</span>
-                  <span className="_010-7468-span4">
+                  <span className="R__010-7468-span3">010-7468-</span>
+                  <span className="R__010-7468-span4">
                     ****
                     <br />
                   </span>
                 </span>
               </div>
 
-              <div className="_2022-08-22">2022-08-22</div>
+              <div className="R__2022-08-22">2022-08-22</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="R__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="R__2022-10-04">2022-10-04</div>
 
-              <div className="R14">6</div>
+              <div className="R_R14">6</div>
 
-              <div className="R14">2</div>
+              <div className="R_R14">2</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="R__4-500-000">4,500,000원</div>
 
-              <div className="R15">김춘삼</div>
+              <div className="R_R15">김춘삼</div>
             </div>
 
-            <div className="rectangle-488"></div>
+            <div className="R_rectangle-488"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="R_module-list2">
+              <div className="R_frame-7502">
+                <div className="R_frame-7132">
+                  <div className="R_frame-7505">
+                    <div className="R__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R13">오지명(남)</div>
+                <div className="R_frame-7504">
+                  <div className="R_R13">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="R__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-7468">
+              <div className="R__010-7468">
                 <span>
-                  <span className="_010-7468-span5">010-7468-</span>
-                  <span className="_010-7468-span6">
+                  <span className="R__010-7468-span5">010-7468-</span>
+                  <span className="R__010-7468-span6">
                     ****
                     <br />
                   </span>
                 </span>
               </div>
 
-              <div className="_2022-08-22">2022-08-22</div>
+              <div className="R__2022-08-22">2022-08-22</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="R__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="R__2022-10-04">2022-10-04</div>
 
-              <div className="R14">6</div>
+              <div className="R_R14">6</div>
 
-              <div className="R14">2</div>
+              <div className="R_R14">2</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="R__4-500-000">4,500,000원</div>
 
-              <div className="R15">김춘삼</div>
+              <div className="R_R15">김춘삼</div>
             </div>
 
-            <div className="rectangle-489"></div>
+            <div className="R_rectangle-489"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="R_module-list2">
+              <div className="R_frame-7502">
+                <div className="R_frame-7132">
+                  <div className="R_frame-7505">
+                    <div className="R__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R13">오지명(남)</div>
+                <div className="R_frame-7504">
+                  <div className="R_R13">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="R__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-7468">
+              <div className="R__010-7468">
                 <span>
-                  <span className="_010-7468-span7">010-7468-</span>
-                  <span className="_010-7468-span8">
+                  <span className="R__010-7468-span7">010-7468-</span>
+                  <span className="R__010-7468-span8">
                     ****
                     <br />
                   </span>
                 </span>
               </div>
 
-              <div className="_2022-08-22">2022-08-22</div>
+              <div className="R__2022-08-22">2022-08-22</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="R__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="R__2022-10-04">2022-10-04</div>
 
-              <div className="R14">6</div>
+              <div className="R_R14">6</div>
 
-              <div className="R14">2</div>
+              <div className="R_R14">2</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="R__4-500-000">4,500,000원</div>
 
-              <div className="R15">김춘삼</div>
+              <div className="R_R15">김춘삼</div>
             </div>
 
-            <div className="rectangle-490"></div>
+            <div className="R_rectangle-490"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="R_module-list2">
+              <div className="R_frame-7502">
+                <div className="R_frame-7132">
+                  <div className="R_frame-7505">
+                    <div className="R__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R13">오지명(남)</div>
+                <div className="R_frame-7504">
+                  <div className="R_R13">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="R__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-7468">
+              <div className="R__010-7468">
                 <span>
-                  <span className="_010-7468-span9">010-7468-</span>
-                  <span className="_010-7468-span10">
+                  <span className="R__010-7468-span9">010-7468-</span>
+                  <span className="R__010-7468-span10">
                     ****
                     <br />
                   </span>
                 </span>
               </div>
 
-              <div className="_2022-08-22">2022-08-22</div>
+              <div className="R__2022-08-22">2022-08-22</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="R__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="R__2022-10-04">2022-10-04</div>
 
-              <div className="R14">6</div>
+              <div className="R_R14">6</div>
 
-              <div className="R14">2</div>
+              <div className="R_R14">2</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="R__4-500-000">4,500,000원</div>
 
-              <div className="R15">김춘삼</div>
+              <div className="R_R15">김춘삼</div>
             </div>
 
-            <div className="rectangle-491"></div>
+            <div className="R_rectangle-491"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="R_module-list2">
+              <div className="R_frame-7502">
+                <div className="R_frame-7132">
+                  <div className="R_frame-7505">
+                    <div className="R__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R13">오지명(남)</div>
+                <div className="R_frame-7504">
+                  <div className="R_R13">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="R__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-7468">
+              <div className="R__010-7468">
                 <span>
-                  <span className="_010-7468-span11">010-7468-</span>
-                  <span className="_010-7468-span12">
+                  <span className="R__010-7468-span11">010-7468-</span>
+                  <span className="R__010-7468-span12">
                     ****
                     <br />
                   </span>
                 </span>
               </div>
 
-              <div className="_2022-08-22">2022-08-22</div>
+              <div className="R__2022-08-22">2022-08-22</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="R__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="R__2022-10-04">2022-10-04</div>
 
-              <div className="R14">6</div>
+              <div className="R_R14">6</div>
 
-              <div className="R14">2</div>
+              <div className="R_R14">2</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="R__4-500-000">4,500,000원</div>
 
-              <div className="R15">김춘삼</div>
+              <div className="R_R15">김춘삼</div>
             </div>
 
-            <div className="rectangle-492"></div>
+            <div className="R_rectangle-492"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="R_module-list2">
+              <div className="R_frame-7502">
+                <div className="R_frame-7132">
+                  <div className="R_frame-7505">
+                    <div className="R__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R13">오지명(남)</div>
+                <div className="R_frame-7504">
+                  <div className="R_R13">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="R__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-7468">
+              <div className="R__010-7468">
                 <span>
-                  <span className="_010-7468-span13">010-7468-</span>
-                  <span className="_010-7468-span14">
+                  <span className="R__010-7468-span13">010-7468-</span>
+                  <span className="R__010-7468-span14">
                     ****
                     <br />
                   </span>
                 </span>
               </div>
 
-              <div className="_2022-08-22">2022-08-22</div>
+              <div className="R__2022-08-22">2022-08-22</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="R__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="R__2022-10-04">2022-10-04</div>
 
-              <div className="R14">6</div>
+              <div className="R_R14">6</div>
 
-              <div className="R14">2</div>
+              <div className="R_R14">2</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="R__4-500-000">4,500,000원</div>
 
-              <div className="R15">김춘삼</div>
+              <div className="R_R15">김춘삼</div>
             </div>
 
-            <div className="rectangle-493"></div>
+            <div className="R_rectangle-493"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="R_module-list2">
+              <div className="R_frame-7502">
+                <div className="R_frame-7132">
+                  <div className="R_frame-7505">
+                    <div className="R__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R13">오지명(남)</div>
+                <div className="R_frame-7504">
+                  <div className="R_R13">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="R__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-7468">
+              <div className="R__010-7468">
                 <span>
-                  <span className="_010-7468-span15">010-7468-</span>
-                  <span className="_010-7468-span16">
+                  <span className="R__010-7468-span15">010-7468-</span>
+                  <span className="R__010-7468-span16">
                     ****
                     <br />
                   </span>
                 </span>
               </div>
 
-              <div className="_2022-08-22">2022-08-22</div>
+              <div className="R__2022-08-22">2022-08-22</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="R__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="R__2022-10-04">2022-10-04</div>
 
-              <div className="R14">6</div>
+              <div className="R_R14">6</div>
 
-              <div className="R14">2</div>
+              <div className="R_R14">2</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="R__4-500-000">4,500,000원</div>
 
-              <div className="R15">김춘삼</div>
+              <div className="R_R15">김춘삼</div>
             </div>
 
-            <div className="rectangle-494"></div>
+            <div className="R_rectangle-494"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="R_module-list2">
+              <div className="R_frame-7502">
+                <div className="R_frame-7132">
+                  <div className="R_frame-7505">
+                    <div className="R__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R13">오지명(남)</div>
+                <div className="R_frame-7504">
+                  <div className="R_R13">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="R__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-7468">
+              <div className="R__010-7468">
                 <span>
-                  <span className="_010-7468-span17">010-7468-</span>
-                  <span className="_010-7468-span18">
+                  <span className="R__010-7468-span17">010-7468-</span>
+                  <span className="R__010-7468-span18">
                     ****
                     <br />
                   </span>
                 </span>
               </div>
 
-              <div className="_2022-08-22">2022-08-22</div>
+              <div className="R__2022-08-22">2022-08-22</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="R__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="R__2022-10-04">2022-10-04</div>
 
-              <div className="R14">6</div>
+              <div className="R_R14">6</div>
 
-              <div className="R14">2</div>
+              <div className="R_R14">2</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="R__4-500-000">4,500,000원</div>
 
-              <div className="R15">김춘삼</div>
+              <div className="R_R15">김춘삼</div>
             </div>
 
-            <div className="rectangle-495"></div>
+            <div className="R_rectangle-495"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="R_module-list2">
+              <div className="R_frame-7502">
+                <div className="R_frame-7132">
+                  <div className="R_frame-7505">
+                    <div className="R__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="R13">오지명(남)</div>
+                <div className="R_frame-7504">
+                  <div className="R_R13">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="R__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-7468">
+              <div className="R__010-7468">
                 <span>
-                  <span className="_010-7468-span19">010-7468-</span>
-                  <span className="_010-7468-span20">
+                  <span className="R__010-7468-span19">010-7468-</span>
+                  <span className="R__010-7468-span20">
                     ****
                     <br />
                   </span>
                 </span>
               </div>
 
-              <div className="_2022-08-22">2022-08-22</div>
+              <div className="R__2022-08-22">2022-08-22</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="R__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="R__2022-10-04">2022-10-04</div>
 
-              <div className="R14">6</div>
+              <div className="R_R14">6</div>
 
-              <div className="R14">2</div>
+              <div className="R_R14">2</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="R__4-500-000">4,500,000원</div>
 
-              <div className="R15">김춘삼</div>
+              <div className="R_R15">김춘삼</div>
             </div>
 
-            <div className="rectangle-487"></div>
+            <div className="R_rectangle-487"></div>
           </div>
         </div>
 
-        <div className="bottom">
-          <div className="module-floating">
-            <div className="btn-floating-plus">
-              <div className="ellipse-11"></div>
+        <div className="R_bottom">
+          <div className="R_module-floating">
+            <div className="R_btn-floating-plus">
+              <div className="R_ellipse-11"></div>
 
-              <div className="line-2"></div>
+              <div className="R_line-2"></div>
 
-              <div className="line-3"></div>
+              <div className="R_line-3"></div>
 
-              <div className="group-21">
-                <div className="ellipse-112"></div>
+              <div className="R_group-21">
+                <div className="R_ellipse-112"></div>
 
                 <svg
-                  className="group-736"
+                  className="R_group-736"
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"

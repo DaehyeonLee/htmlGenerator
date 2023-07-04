@@ -1,4 +1,3 @@
-/* Code generated with AutoHTML Plugin for Figma */
 import "../css/Main01Default.css";
 import ApexCharts from "apexcharts";
 
@@ -8,33 +7,33 @@ export const Main01Default = ({
   ...props
 }: IMain01DefaultProps): JSX.Element => {
   return (
-    <div className="main-01-default">
-      <div className="module-menu-status">
-        <div className="module-menu-hover">
-          <div className="sidebar">
+    <div className="M_main-01-default">
+      <div className="M_module-menu-status">
+        <div className="M_module-menu-hover">
+          <div className="M_sidebar">
             <h1>ddddddddd</h1>
           </div>
         </div>
 
-        <div className="frame-705"></div>
+        <div className="M_frame-705"></div>
       </div>
 
-      <div className="contents">
-        <div className="com-header">
-          <div className="group-706">
-            <div className="btn-profile">
-              <div className="frame-691">
-                <div className="img-profile">
-                  <img className="etc-profile" src="./etc-profile.png" />
+      <div className="M_contents">
+        <div className="M_com-header">
+          <div className="M_group-706">
+            <div className="M_btn-profile">
+              <div className="M_frame-691">
+                <div className="M_img-profile">
+                  <img className="M_etc-profile" src="./etc-profile.png" />
                 </div>
 
-                <div className="frame-2">
-                  <div className="ab-admin">AB Admin</div>
+                <div className="M_frame-2">
+                  <div className="M_ab-admin">AB Admin</div>
                 </div>
               </div>
 
               <svg
-                className="icon-24-24-arrow-down-off"
+                className="M_icon-24-24-arrow-down-off"
                 width="24"
                 height="24"
                 viewBox="0 0 24 24"
@@ -51,10 +50,10 @@ export const Main01Default = ({
               </svg>
             </div>
 
-            <div className="frame-3182">
-              <div className="icon-24-24-setting-off">
+            <div className="M_frame-3182">
+              <div className="M_icon-24-24-setting-off">
                 <svg
-                  className="frame"
+                  className="M_frame"
                   width="17"
                   height="18"
                   viewBox="0 0 17 18"
@@ -86,14 +85,14 @@ export const Main01Default = ({
               </div>
             </div>
 
-            <div className="btn-input-category-search">
-              <div className="btn-input-category">
-                <div className="button-sub-2-dapth">
-                  <div className="frame-909">
-                    <div className="patient">Patient</div>
+            <div className="M_btn-input-category-search">
+              <div className="M_btn-input-category">
+                <div className="M_button-sub-2-dapth">
+                  <div className="M_frame-909">
+                    <div className="M_patient">Patient</div>
 
                     <svg
-                      className="icn"
+                      className="M_icn"
                       width="24"
                       height="24"
                       viewBox="0 0 24 24"
@@ -112,13 +111,13 @@ export const Main01Default = ({
                 </div>
               </div>
 
-              <div className="input-box-search">
-                <div className="frame-909">
-                  <div className="M1">검색어를 입력해 주세요.</div>
+              <div className="M_input-box-search">
+                <div className="M_frame-909">
+                  <div className="M_M1">검색어를 입력해 주세요.</div>
 
-                  <div className="icn2">
+                  <div className="M_icn2">
                     <svg
-                      className="group-2"
+                      className="M_group-2"
                       width="18"
                       height="19"
                       viewBox="0 0 18 19"
@@ -145,26 +144,26 @@ export const Main01Default = ({
           </div>
         </div>
 
-        <div className="admin">
-          <div className="group-796">
-            <div className="reservation-rate">
-              <div className="frame-1344">
-                <div className="frame-1119">
-                  <div className="_2022-8-11-1-10-pm">
+        <div className="M_admin">
+          <div className="M_group-796">
+            <div className="M_reservation-rate">
+              <div className="M_frame-1344">
+                <div className="M_frame-1119">
+                  <div className="M__2022-8-11-1-10-pm">
                     2022년 8월 11일 (목) 1:10PM
                   </div>
 
-                  <div className="ab-admin2">안녕하세요! AB Admin님</div>
+                  <div className="M_ab-admin2">안녕하세요! AB Admin님</div>
                 </div>
 
-                <div className="component-13-search-box-3">
-                  <div className="btn-input-category">
-                    <div className="button-sub-2-dapth">
-                      <div className="frame-909">
-                        <div className="patient">Patient</div>
+                <div className="M_component-13-search-box-3">
+                  <div className="M_btn-input-category">
+                    <div className="M_button-sub-2-dapth">
+                      <div className="M_frame-909">
+                        <div className="M_patient">Patient</div>
 
                         <svg
-                          className="icn3"
+                          className="M_icn3"
                           width="24"
                           height="24"
                           viewBox="0 0 24 24"
@@ -183,12 +182,12 @@ export const Main01Default = ({
                     </div>
                   </div>
 
-                  <div className="input-box-search">
-                    <div className="frame-909">
-                      <div className="M1">검색어를 입력해 주세요.</div>
-                      <div className="icn2">
+                  <div className="M_input-box-search">
+                    <div className="M_frame-909">
+                      <div className="M_M1">검색어를 입력해 주세요.</div>
+                      <div className="M_icn2">
                         <svg
-                          className="group-22"
+                          className="M_group-22"
                           width="18"
                           height="19"
                           viewBox="0 0 18 19"
@@ -214,17 +213,17 @@ export const Main01Default = ({
                 </div>
               </div>
 
-              <div className="frame-1341">
-                <div className="mod-rate"></div>
+              <div className="M_frame-1341">
+                <div className="M_mod-rate"></div>
 
-                <div className="frame-1138">
-                  <div className="frame-1158">
-                    <div className="frame-7052">
-                      <div className="frame-750">
-                        <div className="2">관리대상 환자 대비 예약 비율</div>
+                <div className="M_frame-1138">
+                  <div className="M_frame-1158">
+                    <div className="M_frame-7052">
+                      <div className="M_frame-750">
+                        <div className="M_2">관리대상 환자 대비 예약 비율</div>
 
                         <svg
-                          className="vector-24"
+                          className="M_vector-24"
                           width="6"
                           height="14"
                           viewBox="0 0 6 14"
@@ -241,67 +240,67 @@ export const Main01Default = ({
                     </div>
                   </div>
 
-                  <div className="3">
+                  <div className="M_3">
                     전체환자 수 및 관리대상 대비 예약된 환자의 비율을
                     나타냅니다.
                   </div>
                 </div>
 
-                <div className="rectangle-560"></div>
+                <div className="M_rectangle-560"></div>
 
-                <div className="group-749">
-                  <div className="rectangle-546"></div>
+                <div className="M_group-749">
+                  <div className="M_rectangle-546"></div>
 
-                  <div className="rectangle-549"></div>
+                  <div className="M_rectangle-549"></div>
 
-                  <div className="rectangle-550"></div>
+                  <div className="M_rectangle-550"></div>
 
-                  <div className="rectangle-557"></div>
+                  <div className="M_rectangle-557"></div>
 
-                  <div className="rectangle-551"></div>
+                  <div className="M_rectangle-551"></div>
 
-                  <div className="rectangle-558"></div>
+                  <div className="M_rectangle-558"></div>
 
-                  <div className="rectangle-552"></div>
+                  <div className="M_rectangle-552"></div>
 
-                  <div className="rectangle-553"></div>
+                  <div className="M_rectangle-553"></div>
 
-                  <div className="rectangle-559"></div>
+                  <div className="M_rectangle-559"></div>
 
-                  <div className="rectangle-554"></div>
+                  <div className="M_rectangle-554"></div>
 
-                  <div className="rectangle-555"></div>
+                  <div className="M_rectangle-555"></div>
 
-                  <div className="rectangle-556"></div>
+                  <div className="M_rectangle-556"></div>
 
-                  <div className="rectangle-548"></div>
+                  <div className="M_rectangle-548"></div>
 
-                  <div className="_0">0</div>
+                  <div className="M__0">0</div>
 
-                  <div className="_1">1</div>
+                  <div className="M__1">1</div>
 
-                  <div className="_2">2</div>
+                  <div className="M__2">2</div>
 
-                  <div className="_3">3</div>
+                  <div className="M__3">3</div>
 
-                  <div className="_4">4</div>
+                  <div className="M__4">4</div>
 
-                  <div className="_5">5</div>
+                  <div className="M__5">5</div>
 
-                  <div className="_6">6</div>
+                  <div className="M__6">6</div>
 
-                  <div className="_7">7</div>
+                  <div className="M__7">7</div>
 
-                  <div className="_8">8</div>
+                  <div className="M__8">8</div>
 
-                  <div className="_9">9</div>
+                  <div className="M__9">9</div>
 
-                  <div className="_10">10</div>
+                  <div className="M__10">10</div>
                 </div>
 
-                <div className="manage-patients">
+                <div className="M_manage-patients">
                   <svg
-                    className="group-726"
+                    className="M_group-726"
                     width="16"
                     height="16"
                     viewBox="0 0 16 16"
@@ -319,9 +318,9 @@ export const Main01Default = ({
                   </svg>
                 </div>
 
-                <div className="reresv-patients">
+                <div className="M_reresv-patients">
                   <svg
-                    className="group-725"
+                    className="M_group-725"
                     width="16"
                     height="16"
                     viewBox="0 0 16 16"
@@ -339,10 +338,10 @@ export const Main01Default = ({
                   </svg>
                 </div>
 
-                <div className="etc-text-box-2">
-                  <div className="frame-1168">
+                <div className="M_etc-text-box-2">
+                  <div className="M_frame-1168">
                     <svg
-                      className="polygon-1"
+                      className="M_polygon-1"
                       width="27"
                       height="27"
                       viewBox="0 0 27 27"
@@ -355,23 +354,23 @@ export const Main01Default = ({
                       />
                     </svg>
 
-                    <div className="frame-1167">
-                      <div className="_40">
+                    <div className="M_frame-1167">
+                      <div className="M__40">
                         <span>
-                          <span className="_40-span">40</span>
-                          <span className="_40-span2">%</span>
+                          <span className="M__40-span">40</span>
+                          <span className="M__40-span2">%</span>
                         </span>
                       </div>
 
-                      <div className="4">예약 환자 수</div>
+                      <div className="M_4">예약 환자 수</div>
                     </div>
                   </div>
                 </div>
 
-                <div className="etc-text-box-1">
-                  <div className="frame-1168">
+                <div className="M_etc-text-box-1">
+                  <div className="M_frame-1168">
                     <svg
-                      className="polygon-12"
+                      className="M_polygon-12"
                       width="28"
                       height="27"
                       viewBox="0 0 28 27"
@@ -384,26 +383,26 @@ export const Main01Default = ({
                       />
                     </svg>
 
-                    <div className="frame-1167">
-                      <div className="_40">
+                    <div className="M_frame-1167">
+                      <div className="M__40">
                         <span>
-                          <span className="_40-span3">63</span>
-                          <span className="_40-span4">%</span>
+                          <span className="M__40-span3">63</span>
+                          <span className="M__40-span4">%</span>
                         </span>
                       </div>
 
-                      <div className="4">관리대상 환자</div>
+                      <div className="M_4">관리대상 환자</div>
                     </div>
                   </div>
                 </div>
 
-                <div className="frame-1171">
-                  <div className="5">전체 환자 수</div>
+                <div className="M_frame-1171">
+                  <div className="M_5">전체 환자 수</div>
 
-                  <div className="_578-657">
+                  <div className="M__578-657">
                     <span>
-                      <span className="_578-657-span">578,657</span>
-                      <span className="_578-657-span2">명</span>
+                      <span className="M__578-657-span">578,657</span>
+                      <span className="M__578-657-span2">명</span>
                     </span>
                   </div>
                 </div>
@@ -411,13 +410,13 @@ export const Main01Default = ({
             </div>
           </div>
 
-          <div className="frame-1173">
-            <div className="frame-1145">
-              <div className="group-741">
-                <div className="rectangle-533"></div>
+          <div className="M_frame-1173">
+            <div className="M_frame-1145">
+              <div className="M_group-741">
+                <div className="M_rectangle-533"></div>
 
                 <svg
-                  className="icon"
+                  className="M_icon"
                   width="32"
                   height="32"
                   viewBox="0 0 32 32"
@@ -436,189 +435,189 @@ export const Main01Default = ({
             </div>
           </div>
         </div>
-        <div className="performance-manage-detail-graph">
-          <div className="frame-1158">
-            <div className="frame-750">
-              <div className="2">질병위험도별 환자 수</div>
+        <div className="M_performance-manage-detail-graph">
+          <div className="M_frame-1158">
+            <div className="M_frame-750">
+              <div className="M_2">질병위험도별 환자 수</div>
             </div>
           </div>
 
-          <div className="frame-2936">
-            <div className="module-risk-status-patient-graph">
-              <div className="risk-status-patients-graph">
-                <div className="graph-background">
-                  <div className="graph-background-1">
-                    <div className="graph-1">
-                      <div className="group-13">
-                        <div className="_700">700</div>
+          <div className="M_frame-2936">
+            <div className="M_module-risk-status-patient-graph">
+              <div className="M_risk-status-patients-graph">
+                <div className="M_graph-background">
+                  <div className="M_graph-background-1">
+                    <div className="M_graph-1">
+                      <div className="M_group-13">
+                        <div className="M__700">700</div>
                       </div>
 
-                      <div className="group-19">
-                        <div className="rectangle-19"></div>
+                      <div className="M_group-19">
+                        <div className="M_rectangle-19"></div>
 
-                        <div className="_600">600</div>
+                        <div className="M__600">600</div>
                       </div>
 
-                      <div className="group-20">
-                        <div className="rectangle-192"></div>
+                      <div className="M_group-20">
+                        <div className="M_rectangle-192"></div>
 
-                        <div className="_500">500</div>
+                        <div className="M__500">500</div>
                       </div>
 
-                      <div className="group-14">
-                        <div className="rectangle-193"></div>
+                      <div className="M_group-14">
+                        <div className="M_rectangle-193"></div>
 
-                        <div className="_400">400</div>
+                        <div className="M__400">400</div>
                       </div>
 
-                      <div className="group-17">
-                        <div className="rectangle-194"></div>
+                      <div className="M_group-17">
+                        <div className="M_rectangle-194"></div>
 
-                        <div className="_300">300</div>
+                        <div className="M__300">300</div>
                       </div>
 
-                      <div className="group-15">
-                        <div className="rectangle-195"></div>
+                      <div className="M_group-15">
+                        <div className="M_rectangle-195"></div>
 
-                        <div className="_200">200</div>
+                        <div className="M__200">200</div>
                       </div>
 
-                      <div className="group-18">
-                        <div className="rectangle-196"></div>
+                      <div className="M_group-18">
+                        <div className="M_rectangle-196"></div>
 
-                        <div className="_100">100</div>
+                        <div className="M__100">100</div>
                       </div>
 
-                      <div className="rectangle-700"></div>
+                      <div className="M_rectangle-700"></div>
                     </div>
                   </div>
 
-                  <div className="lower-contents">
-                    <div className="frame-1523">
-                      <div className="_02">0</div>
+                  <div className="M_lower-contents">
+                    <div className="M_frame-1523">
+                      <div className="M__02">0</div>
                     </div>
 
-                    <div className="frame-1521">
-                      <div className="_12">1</div>
+                    <div className="M_frame-1521">
+                      <div className="M__12">1</div>
 
-                      <div className="_22">2</div>
+                      <div className="M__22">2</div>
 
-                      <div className="_32">3</div>
+                      <div className="M__32">3</div>
                     </div>
                   </div>
                 </div>
 
-                <div className="stick-graph">
-                  <div className="frame-933">
-                    <div className="frame-18">
-                      <div className="_642">642</div>
-                      <div className="rectangle-20"></div>
+                <div className="M_stick-graph">
+                  <div className="M_frame-933">
+                    <div className="M_frame-18">
+                      <div className="M__642">642</div>
+                      <div className="M_rectangle-20"></div>
                     </div>
-                    <div className="frame-17">
-                      <div className="_650">650</div>
-                      <div className="rectangle-21"></div>
+                    <div className="M_frame-17">
+                      <div className="M__650">650</div>
+                      <div className="M_rectangle-21"></div>
                     </div>
-                    <div className="frame-19">
-                      <div className="_368">368</div>
-                      <div className="rectangle-212"></div>
+                    <div className="M_frame-19">
+                      <div className="M__368">368</div>
+                      <div className="M_rectangle-212"></div>
                     </div>
-                    <div className="frame-20">
-                      <div className="_630">630</div>
-                      <div className="rectangle-202"></div>
-                    </div>
-                  </div>
-
-                  <div className="frame-934">
-                    <div className="frame-18">
-                      <div className="_67">67</div>
-
-                      <div className="rectangle-203"></div>
-                    </div>
-
-                    <div className="frame-17">
-                      <div className="_60">60</div>
-
-                      <div className="rectangle-213"></div>
-                    </div>
-
-                    <div className="frame-19">
-                      <div className="_266">266</div>
-
-                      <div className="rectangle-214"></div>
-                    </div>
-
-                    <div className="frame-20">
-                      <div className="_68">68</div>
-
-                      <div className="rectangle-204"></div>
+                    <div className="M_frame-20">
+                      <div className="M__630">630</div>
+                      <div className="M_rectangle-202"></div>
                     </div>
                   </div>
 
-                  <div className="frame-937">
-                    <div className="frame-18">
-                      <div className="_42">42</div>
+                  <div className="M_frame-934">
+                    <div className="M_frame-18">
+                      <div className="M__67">67</div>
 
-                      <div className="rectangle-205"></div>
+                      <div className="M_rectangle-203"></div>
                     </div>
 
-                    <div className="frame-17">
-                      <div className="_43">43</div>
+                    <div className="M_frame-17">
+                      <div className="M__60">60</div>
 
-                      <div className="rectangle-215"></div>
+                      <div className="M_rectangle-213"></div>
                     </div>
 
-                    <div className="frame-19">
-                      <div className="_322">32</div>
+                    <div className="M_frame-19">
+                      <div className="M__266">266</div>
 
-                      <div className="rectangle-216"></div>
+                      <div className="M_rectangle-214"></div>
                     </div>
 
-                    <div className="frame-20">
-                      <div className="_35">35</div>
+                    <div className="M_frame-20">
+                      <div className="M__68">68</div>
 
-                      <div className="rectangle-206"></div>
+                      <div className="M_rectangle-204"></div>
+                    </div>
+                  </div>
+
+                  <div className="M_frame-937">
+                    <div className="M_frame-18">
+                      <div className="M__42">42</div>
+
+                      <div className="M_rectangle-205"></div>
+                    </div>
+
+                    <div className="M_frame-17">
+                      <div className="M__43">43</div>
+
+                      <div className="M_rectangle-215"></div>
+                    </div>
+
+                    <div className="M_frame-19">
+                      <div className="M__322">32</div>
+
+                      <div className="M_rectangle-216"></div>
+                    </div>
+
+                    <div className="M_frame-20">
+                      <div className="M__35">35</div>
+
+                      <div className="M_rectangle-206"></div>
                     </div>
                   </div>
                 </div>
               </div>
 
-              <div className="list">
-                <div className="frame-1414">
-                  <div className="ellipse-38"></div>
+              <div className="M_list">
+                <div className="M_frame-1414">
+                  <div className="M_ellipse-38"></div>
 
-                  <div className="6">치아우식</div>
+                  <div className="M_6">치아우식</div>
                 </div>
 
-                <div className="frame-1416">
-                  <div className="ellipse-382"></div>
+                <div className="M_frame-1416">
+                  <div className="M_ellipse-382"></div>
 
-                  <div className="6">치주질환</div>
+                  <div className="M_6">치주질환</div>
                 </div>
 
-                <div className="frame-1415">
-                  <div className="ellipse-383"></div>
+                <div className="M_frame-1415">
+                  <div className="M_ellipse-383"></div>
 
-                  <div className="6">치아파절</div>
+                  <div className="M_6">치아파절</div>
                 </div>
 
-                <div className="frame-1417">
-                  <div className="ellipse-384"></div>
+                <div className="M_frame-1417">
+                  <div className="M_ellipse-384"></div>
 
-                  <div className="6">치경부마모</div>
+                  <div className="M_6">치경부마모</div>
                 </div>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="reservation-rate-circle">
-          <div className="frame-1157">
-            <div className="frame-7052">
-              <div className="frame-750">
-                <div className="2">관리중요도별 환자 비율</div>
+        <div className="M_reservation-rate-circle">
+          <div className="M_frame-1157">
+            <div className="M_frame-7052">
+              <div className="M_frame-750">
+                <div className="M_2">관리중요도별 환자 비율</div>
 
                 <svg
-                  className="vector-26"
+                  className="M_vector-26"
                   width="6"
                   height="14"
                   viewBox="0 0 6 14"
@@ -635,11 +634,11 @@ export const Main01Default = ({
             </div>
           </div>
 
-          <div className="frame-1133">
-            <div className="img-graph">
-              <div className="group">
+          <div className="M_frame-1133">
+            <div className="M_img-graph">
+              <div className="M_group">
                 <svg
-                  className="7"
+                  className="M_7"
                   width="300"
                   height="300"
                   viewBox="0 0 300 300"
@@ -668,7 +667,7 @@ export const Main01Default = ({
                 </svg>
 
                 <svg
-                  className="_23"
+                  className="M__23"
                   width="300"
                   height="300"
                   viewBox="0 0 300 300"
@@ -700,7 +699,7 @@ export const Main01Default = ({
                 </svg>
 
                 <svg
-                  className="_33"
+                  className="M__33"
                   width="289"
                   height="289"
                   viewBox="0 0 289 289"
@@ -730,7 +729,7 @@ export const Main01Default = ({
               </div>
 
               <svg
-                className="group-740"
+                className="M_group-740"
                 width="241"
                 height="241"
                 viewBox="0 0 241 241"
@@ -756,7 +755,7 @@ export const Main01Default = ({
               </svg>
 
               <svg
-                className="vector8"
+                className="M_vector8"
                 width="121"
                 height="181"
                 viewBox="0 0 121 181"
@@ -770,7 +769,7 @@ export const Main01Default = ({
               </svg>
 
               <svg
-                className="vector9"
+                className="M_vector9"
                 width="131"
                 height="197"
                 viewBox="0 0 131 197"
@@ -856,72 +855,72 @@ export const Main01Default = ({
                 </defs>
               </svg>
 
-              <div className="ellipse-32"></div>
+              <div className="M_ellipse-32"></div>
 
-              <div className="frame-1130">
-                <div className="8">보통</div>
+              <div className="M_frame-1130">
+                <div className="M_8">보통</div>
 
-                <div className="_42-4">
+                <div className="M__42-4">
                   <span>
-                    <span className="_42-4-span">42.4</span>
-                    <span className="_42-4-span2">%</span>
+                    <span className="M__42-4-span">42.4</span>
+                    <span className="M__42-4-span2">%</span>
                   </span>
                 </div>
               </div>
             </div>
 
-            <div className="frame-1131">
-              <div className="frame-21">
-                <div className="frame-927">
-                  <div className="ellipse-3"></div>
+            <div className="M_frame-1131">
+              <div className="M_frame-21">
+                <div className="M_frame-927">
+                  <div className="M_ellipse-3"></div>
 
-                  <div className="9">보통</div>
+                  <div className="M_9">보통</div>
                 </div>
 
-                <div className="_41-9-361">41.9% / 361명</div>
+                <div className="M__41-9-361">41.9% / 361명</div>
               </div>
 
-              <div className="frame-25">
-                <div className="frame-927">
-                  <div className="ellipse-33"></div>
+              <div className="M_frame-25">
+                <div className="M_frame-927">
+                  <div className="M_ellipse-33"></div>
 
-                  <div className="10">중요</div>
+                  <div className="M_10">중요</div>
                 </div>
 
-                <div className="_25-8-222">25.8% / 222명</div>
+                <div className="M__25-8-222">25.8% / 222명</div>
               </div>
 
-              <div className="frame-26">
-                <div className="frame-927">
-                  <div className="ellipse-34"></div>
+              <div className="M_frame-26">
+                <div className="M_frame-927">
+                  <div className="M_ellipse-34"></div>
 
-                  <div className="10">매우 중요</div>
+                  <div className="M_10">매우 중요</div>
                 </div>
 
-                <div className="_10-7-92">10.7% / 92명</div>
+                <div className="M__10-7-92">10.7% / 92명</div>
               </div>
 
-              <div className="frame-27">
-                <div className="frame-927">
-                  <div className="ellipse-35"></div>
+              <div className="M_frame-27">
+                <div className="M_frame-927">
+                  <div className="M_ellipse-35"></div>
 
-                  <div className="10">미정</div>
+                  <div className="M_10">미정</div>
                 </div>
 
-                <div className="_21-6-189">21.6% / 189명</div>
+                <div className="M__21-6-189">21.6% / 189명</div>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="recent-check-in-patient">
-          <div className="frame-1158">
-            <div className="frame-7052">
-              <div className="frame-750">
-                <div className="2">최근 등록(진료) 환자</div>
+        <div className="M_recent-check-in-patient">
+          <div className="M_frame-1158">
+            <div className="M_frame-7052">
+              <div className="M_frame-750">
+                <div className="M_2">최근 등록(진료) 환자</div>
 
                 <svg
-                  className="vector-27"
+                  className="M_vector-27"
                   width="6"
                   height="14"
                   viewBox="0 0 6 14"
@@ -938,223 +937,223 @@ export const Main01Default = ({
             </div>
           </div>
 
-          <div className="frame-11712">
-            <div className="module-list">
-              <div className="frame-7502">
-                <div className="frame-713">
-                  <div className="frame-7503">
-                    <div className="no">NO</div>
+          <div className="M_frame-11712">
+            <div className="M_module-list">
+              <div className="M_frame-7502">
+                <div className="M_frame-713">
+                  <div className="M_frame-7503">
+                    <div className="M_no">NO</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="11">환자 정보</div>
+                <div className="M_frame-7504">
+                  <div className="M_11">환자 정보</div>
                 </div>
               </div>
 
-              <div className="12">연락처</div>
+              <div className="M_12">연락처</div>
 
-              <div className="13">등록일</div>
+              <div className="M_13">등록일</div>
 
-              <div className="13">최근 검사일</div>
+              <div className="M_13">최근 검사일</div>
 
-              <div className="14">다음 예약</div>
+              <div className="M_14">다음 예약</div>
 
-              <div className="15">종합 위험도</div>
+              <div className="M_15">종합 위험도</div>
 
-              <div className="15">관리도</div>
+              <div className="M_15">관리도</div>
 
-              <div className="16">추정 향후치료비</div>
+              <div className="M_16">추정 향후치료비</div>
 
-              <div className="17">담당의</div>
+              <div className="M_17">담당의</div>
             </div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="M_module-list2">
+              <div className="M_frame-7502">
+                <div className="M_frame-7132">
+                  <div className="M_frame-7505">
+                    <div className="M__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="18">오지명(남)</div>
+                <div className="M_frame-7504">
+                  <div className="M_18">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="M__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-1234-5678">010-1234-5678</div>
+              <div className="M__010-1234-5678">010-1234-5678</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="M__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="M__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="M__2022-10-04">2022-10-04</div>
 
-              <div className="19">-</div>
+              <div className="M_19">-</div>
 
-              <div className="19">-</div>
+              <div className="M_19">-</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="M__4-500-000">4,500,000원</div>
 
-              <div className="20">김춘삼</div>
+              <div className="M_20">김춘삼</div>
             </div>
 
-            <div className="rectangle-487"></div>
+            <div className="M_rectangle-487"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="M_module-list2">
+              <div className="M_frame-7502">
+                <div className="M_frame-7132">
+                  <div className="M_frame-7505">
+                    <div className="M__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="18">오지명(남)</div>
+                <div className="M_frame-7504">
+                  <div className="M_18">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="M__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-1234-5678">010-1234-5678</div>
+              <div className="M__010-1234-5678">010-1234-5678</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="M__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="M__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="M__2022-10-04">2022-10-04</div>
 
-              <div className="19">-</div>
+              <div className="M_19">-</div>
 
-              <div className="19">-</div>
+              <div className="M_19">-</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="M__4-500-000">4,500,000원</div>
 
-              <div className="20">김춘삼</div>
+              <div className="M_20">김춘삼</div>
             </div>
 
-            <div className="rectangle-488"></div>
+            <div className="M_rectangle-488"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="M_module-list2">
+              <div className="M_frame-7502">
+                <div className="M_frame-7132">
+                  <div className="M_frame-7505">
+                    <div className="M__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="18">오지명(남)</div>
+                <div className="M_frame-7504">
+                  <div className="M_18">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="M__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-1234-5678">010-1234-5678</div>
+              <div className="M__010-1234-5678">010-1234-5678</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="M__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="M__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="M__2022-10-04">2022-10-04</div>
 
-              <div className="19">-</div>
+              <div className="M_19">-</div>
 
-              <div className="19">-</div>
+              <div className="M_19">-</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="M__4-500-000">4,500,000원</div>
 
-              <div className="20">김춘삼</div>
+              <div className="M_20">김춘삼</div>
             </div>
 
-            <div className="rectangle-490"></div>
+            <div className="M_rectangle-490"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="M_module-list2">
+              <div className="M_frame-7502">
+                <div className="M_frame-7132">
+                  <div className="M_frame-7505">
+                    <div className="M__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="18">오지명(남)</div>
+                <div className="M_frame-7504">
+                  <div className="M_18">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="M__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-1234-5678">010-1234-5678</div>
+              <div className="M__010-1234-5678">010-1234-5678</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="M__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="M__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="M__2022-10-04">2022-10-04</div>
 
-              <div className="19">-</div>
+              <div className="M_19">-</div>
 
-              <div className="19">-</div>
+              <div className="M_19">-</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="M__4-500-000">4,500,000원</div>
 
-              <div className="20">김춘삼</div>
+              <div className="M_20">김춘삼</div>
             </div>
 
-            <div className="rectangle-491"></div>
+            <div className="M_rectangle-491"></div>
 
-            <div className="module-list2">
-              <div className="frame-7502">
-                <div className="frame-7132">
-                  <div className="frame-7505">
-                    <div className="_84236">84236</div>
+            <div className="M_module-list2">
+              <div className="M_frame-7502">
+                <div className="M_frame-7132">
+                  <div className="M_frame-7505">
+                    <div className="M__84236">84236</div>
                   </div>
                 </div>
 
-                <div className="frame-7504">
-                  <div className="18">오지명(남)</div>
+                <div className="M_frame-7504">
+                  <div className="M_18">오지명(남)</div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="M__1984-09-05">1984-09-05</div>
                 </div>
               </div>
 
-              <div className="_010-1234-5678">010-1234-5678</div>
+              <div className="M__010-1234-5678">010-1234-5678</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="M__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-08-04">2022-08-04</div>
+              <div className="M__2022-08-04">2022-08-04</div>
 
-              <div className="_2022-10-04">2022-10-04</div>
+              <div className="M__2022-10-04">2022-10-04</div>
 
-              <div className="19">-</div>
+              <div className="M_19">-</div>
 
-              <div className="19">-</div>
+              <div className="M_19">-</div>
 
-              <div className="_4-500-000">4,500,000원</div>
+              <div className="M__4-500-000">4,500,000원</div>
 
-              <div className="20">김춘삼</div>
+              <div className="M_20">김춘삼</div>
             </div>
 
-            <div className="rectangle-492"></div>
+            <div className="M_rectangle-492"></div>
           </div>
         </div>
 
-        <div className="bottom">
-          <div className="module-floating">
-            <div className="btn-floating-plus">
-              <div className="ellipse-11"></div>
+        <div className="M_bottom">
+          <div className="M_module-floating">
+            <div className="M_btn-floating-plus">
+              <div className="M_ellipse-11"></div>
 
-              <div className="line-2"></div>
+              <div className="M_line-2"></div>
 
-              <div className="line-3"></div>
+              <div className="M_line-3"></div>
 
-              <div className="group-21">
-                <div className="ellipse-112"></div>
+              <div className="M_group-21">
+                <div className="M_ellipse-112"></div>
 
                 <svg
-                  className="group-736"
+                  className="M_group-736"
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"

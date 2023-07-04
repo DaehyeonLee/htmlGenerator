@@ -5,31 +5,31 @@ export interface ISub0503PcProps {}
 
 export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
   return (
-    <div className="sub-05-03-pc">
-      <div className="module-menu">
-        <div className="module-menu-hover">
-          <div className="frame-7"></div>
+    <div className="P_sub-05-03-pc">
+      <div className="P_module-menu">
+        <div className="P_module-menu-hover">
+          <div className="P_frame-7"></div>
         </div>
 
-        <div className="frame-705"></div>
+        <div className="P_frame-705"></div>
       </div>
 
-      <div className="contents">
-        <div className="com-header">
-          <div className="group-706">
-            <div className="btn-profile">
-              <div className="frame-691">
-                <div className="img-profile">
-                  <img className="etc-profile" src="etc-profile.png" />
+      <div className="P_contents">
+        <div className="P_com-header">
+          <div className="P_group-706">
+            <div className="P_btn-profile">
+              <div className="P_frame-691">
+                <div className="P_img-profile">
+                  <img className="P_etc-profile" src="etc-profile.png" />
                 </div>
 
-                <div className="frame-2">
-                  <div className="ab-admin">AB Admin</div>
+                <div className="P_frame-2">
+                  <div className="P_ab-admin">AB Admin</div>
                 </div>
               </div>
 
               <svg
-                className="icon-24-24-arrow-down-off"
+                className="P_icon-24-24-arrow-down-off"
                 width="24"
                 height="24"
                 viewBox="0 0 24 24"
@@ -46,10 +46,10 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
               </svg>
             </div>
 
-            <div className="frame-3182">
-              <div className="icon-24-24-setting-off">
+            <div className="P_frame-3182">
+              <div className="P_icon-24-24-setting-off">
                 <svg
-                  className="frame"
+                  className="P_frame"
                   width="17"
                   height="18"
                   viewBox="0 0 17 18"
@@ -81,14 +81,14 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
               </div>
             </div>
 
-            <div className="btn-input-category-search">
-              <div className="btn-input-category">
-                <div className="button-sub-2-dapth">
-                  <div className="frame-909">
-                    <div className="patient">Patient</div>
+            <div className="P_btn-input-category-search">
+              <div className="P_btn-input-category">
+                <div className="P_button-sub-2-dapth">
+                  <div className="P_frame-909">
+                    <div className="P_patient">Patient</div>
 
                     <svg
-                      className="icn"
+                      className="P_icn"
                       width="24"
                       height="24"
                       viewBox="0 0 24 24"
@@ -107,13 +107,13 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                 </div>
               </div>
 
-              <div className="input-box-search">
-                <div className="frame-909">
-                  <div className="S1">검색어를 입력해 주세요.</div>
+              <div className="P_input-box-search">
+                <div className="P_frame-909">
+                  <div className="P_S1">검색어를 입력해 주세요.</div>
 
-                  <div className="icn2">
+                  <div className="P_icn2">
                     <svg
-                      className="group-2"
+                      className="P_group-2"
                       width="18"
                       height="19"
                       viewBox="0 0 18 19"
@@ -140,24 +140,24 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
           </div>
         </div>
 
-        <div className="module-result-detail">
-          <div className="title">
-            <div className="frame-1282">
-              <div className="frame-1119">
-                <div className="S2">결과보기</div>
+        <div className="P_module-result-detail">
+          <div className="P_title">
+            <div className="P_frame-1282">
+              <div className="P_frame-1119">
+                <div className="P_S2">결과보기</div>
               </div>
             </div>
 
-            <div className="rectangle-568"></div>
+            <div className="P_rectangle-568"></div>
           </div>
 
-          <div className="S3">
-            <div className="frame-1232">
-              <div className="frame-1231">
-                <div className="frame-780">
-                  <div className="icn3">
+          <div className="P_S3">
+            <div className="P_frame-1232">
+              <div className="P_frame-1231">
+                <div className="P_frame-780">
+                  <div className="P_icn3">
                     <svg
-                      className="frame2"
+                      className="P_frame2"
                       width="22"
                       height="25"
                       viewBox="0 0 22 25"
@@ -181,14 +181,14 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </svg>
                   </div>
 
-                  <div className="S4">오지명(남)</div>
+                  <div className="P_S4">오지명(남)</div>
                 </div>
 
-                <div className="frame-1209">
-                  <div className="frame-762">
-                    <div className="frame3">
+                <div className="P_frame-1209">
+                  <div className="P_frame-762">
+                    <div className="P_frame3">
                       <svg
-                        className="group-780"
+                        className="P_group-780"
                         width="12"
                         height="12"
                         viewBox="0 0 12 12"
@@ -210,21 +210,21 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
                     </div>
 
-                    <div className="S5">등록일</div>
+                    <div className="P_S5">등록일</div>
                   </div>
 
-                  <div className="_2022-08-04-15-04-23">
+                  <div className="P__2022-08-04-15-04-23">
                     2022-08-04 15:04:23
                   </div>
                 </div>
               </div>
 
-              <div className="frame-1210">
-                <div className="frame-1206">
-                  <div className="icn4">
-                    <div className="frame4">
+              <div className="P_frame-1210">
+                <div className="P_frame-1206">
+                  <div className="P_icn4">
+                    <div className="P_frame4">
                       <svg
-                        className="vector7"
+                        className="P_vector7"
                         width="16"
                         height="14"
                         viewBox="0 0 16 14"
@@ -241,7 +241,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="vector8"
+                        className="P_vector8"
                         width="15"
                         viewBox="0 0 15 0"
                         fill="none"
@@ -257,7 +257,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group"
+                        className="P_group"
                         width="8"
                         height="4"
                         viewBox="0 0 8 4"
@@ -282,15 +282,15 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </div>
                   </div>
 
-                  <div className="_1984-09-05">1984-09-05</div>
+                  <div className="P__1984-09-05">1984-09-05</div>
                 </div>
 
-                <div className="rectangle-588"></div>
+                <div className="P_rectangle-588"></div>
 
-                <div className="frame-1208">
-                  <div className="icn4">
+                <div className="P_frame-1208">
+                  <div className="P_icn4">
                     <svg
-                      className="frame5"
+                      className="P_frame5"
                       width="17"
                       height="17"
                       viewBox="0 0 17 17"
@@ -313,16 +313,16 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </svg>
                   </div>
 
-                  <div className="_010-7468-0068">010-7468-0068</div>
+                  <div className="P__010-7468-0068">010-7468-0068</div>
                 </div>
 
-                <div className="rectangle-589"></div>
+                <div className="P_rectangle-589"></div>
 
-                <div className="frame-12092">
-                  <div className="icn4">
-                    <div className="frame6">
+                <div className="P_frame-12092">
+                  <div className="P_icn4">
+                    <div className="P_frame6">
                       <svg
-                        className="group2"
+                        className="P_group2"
                         width="14"
                         height="17"
                         viewBox="0 0 14 17"
@@ -346,7 +346,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="vector14"
+                        className="P_vector14"
                         width="20"
                         height="8"
                         viewBox="0 0 20 8"
@@ -364,7 +364,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </div>
                   </div>
 
-                  <div className="_4-38-8">
+                  <div className="P__4-38-8">
                     서울시 강남구 테헤란로 4길 38 태영빌딩 8층
                   </div>
                 </div>
@@ -372,26 +372,26 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
             </div>
           </div>
 
-          <div className="frame-1211">
-            <div className="rectangle-448"></div>
+          <div className="P_frame-1211">
+            <div className="P_rectangle-448"></div>
 
-            <div className="frame-694">
-              <div className="frame-1006">
-                <div className="S6">담당의사</div>
+            <div className="P_frame-694">
+              <div className="P_frame-1006">
+                <div className="P_S6">담당의사</div>
 
-                <div className="S7">홍길동</div>
+                <div className="P_S7">홍길동</div>
               </div>
 
-              <div className="rectangle-4482"></div>
+              <div className="P_rectangle-4482"></div>
 
-              <div className="frame-1007">
-                <div className="S6">예약일</div>
+              <div className="P_frame-1007">
+                <div className="P_S6">예약일</div>
 
-                <div className="frame-793">
-                  <div className="icn4">
-                    <div className="frame4">
+                <div className="P_frame-793">
+                  <div className="P_icn4">
+                    <div className="P_frame4">
                       <svg
-                        className="vector15"
+                        className="P_vector15"
                         width="16"
                         height="14"
                         viewBox="0 0 16 14"
@@ -408,7 +408,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="vector16"
+                        className="P_vector16"
                         width="15"
                         viewBox="0 0 15 0"
                         fill="none"
@@ -424,7 +424,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group3"
+                        className="P_group3"
                         width="8"
                         height="4"
                         viewBox="0 0 8 4"
@@ -449,1643 +449,1645 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </div>
                   </div>
 
-                  <div className="_2022-08-10">2022-08-10</div>
+                  <div className="P__2022-08-10">2022-08-10</div>
                 </div>
               </div>
 
-              <div className="rectangle-447"></div>
+              <div className="P_rectangle-447"></div>
 
-              <div className="frame-1008">
-                <div className="S6">질병종합 위험도</div>
+              <div className="P_frame-1008">
+                <div className="P_S6">질병종합 위험도</div>
 
-                <div className="_6">6</div>
+                <div className="P__6">6</div>
               </div>
 
-              <div className="rectangle-446"></div>
+              <div className="P_rectangle-446"></div>
 
-              <div className="frame-1009">
-                <div className="S6">관리도</div>
+              <div className="P_frame-1009">
+                <div className="P_S6">관리도</div>
 
-                <div className="_2">2</div>
+                <div className="P__2">2</div>
               </div>
 
-              <div className="rectangle-445"></div>
+              <div className="P_rectangle-445"></div>
 
-              <div className="frame-1010">
-                <div className="S6">추정향후 치료비</div>
+              <div className="P_frame-1010">
+                <div className="P_S6">추정향후 치료비</div>
 
-                <div className="_4-500-000">4,500,000원</div>
+                <div className="P__4-500-000">4,500,000원</div>
               </div>
             </div>
 
-            <div className="rectangle-451"></div>
+            <div className="P_rectangle-451"></div>
           </div>
         </div>
 
-        <div className="inspect-result">
-          <div className="frame-837">
-            <div className="frame-1202">
-              <div className="frame-1201">
-                <div className="S8">검사결과</div>
+        <div className="P_inspect-result">
+          <div className="P_frame-837">
+            <div className="P_frame-1202">
+              <div className="P_frame-1201">
+                <div className="P_S8">검사결과</div>
               </div>
 
-              <div className="frame-1175">
-                <div className="module-list">
-                  <div className="frame-750">
-                    <div className="frame-7502">
-                      <div className="S9">검사일시</div>
+              <div className="P_frame-1175">
+                <div className="P_module-list">
+                  <div className="P_frame-750">
+                    <div className="P_frame-7502">
+                      <div className="P_S9">검사일시</div>
                     </div>
                   </div>
 
-                  <div className="S10">구강 위험도</div>
+                  <div className="P_S10">구강 위험도</div>
 
-                  <div className="S10">결손기능 치아 수</div>
+                  <div className="P_S10">결손기능 치아 수</div>
 
-                  <div className="S11">관리도</div>
+                  <div className="P_S11">관리도</div>
 
-                  <div className="S12">필수 관리 치아</div>
+                  <div className="P_S12">필수 관리 치아</div>
 
-                  <div className="S13">최대 치아 위험도</div>
+                  <div className="P_S13">최대 치아 위험도</div>
 
-                  <div className="S14">질병 종합위험도</div>
+                  <div className="P_S14">질병 종합위험도</div>
 
-                  <div className="S11">치아 우식</div>
+                  <div className="P_S11">치아 우식</div>
 
-                  <div className="S11">치아 파절</div>
+                  <div className="P_S11">치아 파절</div>
 
-                  <div className="S11">치주 질환</div>
+                  <div className="P_S11">치주 질환</div>
 
-                  <div className="frame-749">
-                    <div className="S15">치경부 마모</div>
-                  </div>
-                </div>
-
-                <div className="module-list2">
-                  <div className="frame-767">
-                    <div className="frame-7503">
-                      <div className="_2021-12-01-15-30">2021-12-01 15:30</div>
-                    </div>
-
-                    <div className="_70">70%</div>
-                  </div>
-
-                  <div className="_8">8</div>
-
-                  <div className="_3">3</div>
-
-                  <div className="_32">3</div>
-
-                  <div className="_22">2</div>
-
-                  <div className="_62">6</div>
-
-                  <div className="_1">1</div>
-
-                  <div className="_1">1</div>
-
-                  <div className="S16">-</div>
-
-                  <div className="frame-749">
-                    <div className="S17">-</div>
+                  <div className="P_frame-749">
+                    <div className="P_S15">치경부 마모</div>
                   </div>
                 </div>
 
-                <div className="rectangle-498"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="tooth-number-table">
-          <div className="tooth-status-table-1">
-            <div className="title2">
-              <div className="text">
-                <div className="S18">치아번호</div>
-              </div>
-
-              <div className="text2">
-                <div className="S18">치주질환</div>
-              </div>
-
-              <div className="text3">
-                <div className="S18">치경부마모</div>
-              </div>
-
-              <div className="text4">
-                <div className="S18">치아우식</div>
-              </div>
-
-              <div className="text5">
-                <div className="S18">치아파절</div>
-              </div>
-
-              <div className="text6">
-                <div className="S18">치아위험도</div>
-              </div>
-            </div>
-
-            <div className="rectangle-708"></div>
-
-            <div className="table-1">
-              <div className="text7">
-                <div className="_2600">2600</div>
-              </div>
-
-              <div className="caries-1">
-                <div className="_12">1</div>
-              </div>
-
-              <div className="periodontal-desease-1">
-                <div className="_33">3</div>
-              </div>
-
-              <div className="tooth-crack-1">
-                <div className="_33">3</div>
-              </div>
-
-              <div className="tooth-cervical-wear-1">
-                <div className="_12">1</div>
-              </div>
-
-              <div className="tooth-status-1">
-                <div className="_34">3</div>
-              </div>
-            </div>
-
-            <div className="rectangle-709"></div>
-
-            <div className="table-2">
-              <div className="text7">
-                <div className="_3600">3600</div>
-              </div>
-
-              <div className="caries-2">
-                <div className="_33">3</div>
-              </div>
-
-              <div className="periodontal-desease-2">
-                <div className="_12">1</div>
-              </div>
-
-              <div className="tooth-crack-2">
-                <div className="_33">3</div>
-              </div>
-
-              <div className="tooth-cervical-wear-2">
-                <div className="_12">1</div>
-              </div>
-
-              <div className="tooth-status-2">
-                <div className="_34">3</div>
-              </div>
-            </div>
-
-            <div className="rectangle-707"></div>
-          </div>
-
-          <div className="tooth-nuber-table">
-            <div className="frame-2664">
-              <div className="frame-2663">
-                <div className="adult-tooth">
-                  <div className="S19">영구치</div>
-
-                  <div className="line-134"></div>
-                </div>
-
-                <div className="childrdn-tooth">
-                  <div className="S19">유아치</div>
-
-                  <div className="line-135"></div>
-                </div>
-              </div>
-
-              <div className="frame-1289">
-                <div className="frame-1285">
-                  <div className="frame-1283">
-                    <div className="frame-12312">
-                      <div className="frame-696">
-                        <div className="upper-right">Upper Right</div>
-                      </div>
-
-                      <div className="rectangle-434"></div>
-
-                      <div className="frame-6942">
-                        <div className="tooth-number-1">
-                          <div className="frame-699">
-                            <div className="_18">18</div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="frame-700">
-                            <div className="_17">17</div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="frame-701">
-                            <div className="_16">16</div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="frame-702">
-                            <div className="_15">15</div>
-                          </div>
-
-                          <div className="rectangle-435"></div>
-
-                          <div className="frame-703">
-                            <div className="_14">14</div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="frame-704">
-                            <div className="_13">13</div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="frame-7052">
-                            <div className="_122">12</div>
-                          </div>
-
-                          <div className="rectangle-4342"></div>
-
-                          <div className="frame-706">
-                            <div className="_11">11</div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4352"></div>
-
-                        <div className="frame-1002">
-                          <div className="group-691"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-443"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4362"></div>
-
-                        <div className="frame-1003">
-                          <div className="group-691"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block2">
-                            <div className="frame-14112"></div>
-
-                            <div className="ellipse-65"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="group-695"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14113"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4372"></div>
-
-                        <div className="frame-1004">
-                          <div className="group-691"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
+                <div className="P_module-list2">
+                  <div className="P_frame-767">
+                    <div className="P_frame-7503">
+                      <div className="P__2021-12-01-15-30">
+                        2021-12-01 15:30
                       </div>
                     </div>
 
-                    <div className="frame-1239">
-                      <div className="frame-696">
-                        <div className="lower-left">Lower Left</div>
-                      </div>
-
-                      <div className="frame-697">
-                        <div className="tooth-number-2">
-                          <div className="frame-699">
-                            <div className="_21">21</div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="frame-700">
-                            <div className="_222">22</div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="frame-701">
-                            <div className="_23">23</div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="frame-702">
-                            <div className="_24">24</div>
-                          </div>
-
-                          <div className="rectangle-435"></div>
-
-                          <div className="frame-703">
-                            <div className="_25">25</div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="frame-704">
-                            <div className="_26">26</div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="frame-7052">
-                            <div className="_27">27</div>
-                          </div>
-
-                          <div className="rectangle-4342"></div>
-
-                          <div className="frame-706">
-                            <div className="_28">28</div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4352"></div>
-
-                        <div className="frame-1002">
-                          <div className="group-691"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-14114"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block4">
-                            <div className="frame-14115"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4362"></div>
-
-                        <div className="frame-1003">
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block4">
-                            <div className="frame-14115"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4372"></div>
-
-                        <div className="frame-1004">
-                          <div className="btn-block">
-                            <div className="frame-14114"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block4">
-                            <div className="frame-14115"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                    <div className="P__70">70%</div>
                   </div>
 
-                  <div className="frame-1287">
-                    <div className="frame-12322">
-                      <div className="frame-696">
-                        <div className="upper-right">Upper Right</div>
-                      </div>
+                  <div className="P__8">8</div>
 
-                      <div className="rectangle-434"></div>
+                  <div className="P__3">3</div>
 
-                      <div className="frame-6942">
-                        <div className="tooth-number-3">
-                          <div className="frame-699">
-                            <div className="_55">55</div>
-                          </div>
+                  <div className="P__32">3</div>
 
-                          <div className="rectangle-436"></div>
+                  <div className="P__22">2</div>
 
-                          <div className="frame-700">
-                            <div className="_54">54</div>
-                          </div>
+                  <div className="P__62">6</div>
 
-                          <div className="rectangle-439"></div>
+                  <div className="P__1">1</div>
 
-                          <div className="frame-701">
-                            <div className="_53">53</div>
-                          </div>
+                  <div className="P__1">1</div>
 
-                          <div className="rectangle-437"></div>
+                  <div className="P_S16">-</div>
 
-                          <div className="frame-702">
-                            <div className="_52">52</div>
-                          </div>
-
-                          <div className="rectangle-435"></div>
-
-                          <div className="frame-703">
-                            <div className="_51">51</div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4352"></div>
-
-                        <div className="frame-1002">
-                          <div className="group-691"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4362"></div>
-
-                        <div className="frame-1003">
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4372"></div>
-
-                        <div className="frame-1004">
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="frame-1236">
-                      <div className="frame-696">
-                        <div className="lower-left">Lower Left</div>
-                      </div>
-
-                      <div className="rectangle-434"></div>
-
-                      <div className="frame-6942">
-                        <div className="tooth-number-4">
-                          <div className="frame-699">
-                            <div className="_61">61</div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="frame-700">
-                            <div className="_622">62</div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="frame-701">
-                            <div className="_63">63</div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="frame-702">
-                            <div className="_64">64</div>
-                          </div>
-
-                          <div className="rectangle-435"></div>
-
-                          <div className="frame-703">
-                            <div className="_65">65</div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4352"></div>
-
-                        <div className="frame-1002">
-                          <div className="group-691"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4362"></div>
-
-                        <div className="frame-1003">
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4372"></div>
-
-                        <div className="frame-1004">
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                  <div className="P_frame-749">
+                    <div className="P_S17">-</div>
                   </div>
                 </div>
 
-                <div className="frame-12892">
-                  <div className="frame-1287">
-                    <div className="frame-12322">
-                      <div className="frame-696">
-                        <div className="upper-right">Upper Right</div>
-                      </div>
-
-                      <div className="rectangle-434"></div>
-
-                      <div className="frame-6942">
-                        <div className="tooth-number-5">
-                          <div className="frame-699">
-                            <div className="_48">48</div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="frame-700">
-                            <div className="_47">47</div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="frame-701">
-                            <div className="_46">46</div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="frame-702">
-                            <div className="_45">45</div>
-                          </div>
-
-                          <div className="rectangle-435"></div>
-
-                          <div className="frame-703">
-                            <div className="_44">44</div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="frame-704">
-                            <div className="_43">43</div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="frame-7052">
-                            <div className="_42">42</div>
-                          </div>
-
-                          <div className="rectangle-4342"></div>
-
-                          <div className="frame-706">
-                            <div className="_41">41</div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4352"></div>
-
-                        <div className="frame-1002">
-                          <div className="group-691"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-14114"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4362"></div>
-
-                        <div className="frame-1003">
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-14114"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4372"></div>
-
-                        <div className="frame-1004">
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-14114"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="frame-1235">
-                      <div className="frame-696">
-                        <div className="lower-left">Lower Left</div>
-                      </div>
-
-                      <div className="frame-697">
-                        <div className="tooth-number-6">
-                          <div className="frame-699">
-                            <div className="_31">31</div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="frame-700">
-                            <div className="_322">32</div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="frame-701">
-                            <div className="_332">33</div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="frame-702">
-                            <div className="_342">34</div>
-                          </div>
-
-                          <div className="rectangle-435"></div>
-
-                          <div className="frame-703">
-                            <div className="_35">35</div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="frame-704">
-                            <div className="_36">36</div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="frame-7052">
-                            <div className="_37">37</div>
-                          </div>
-
-                          <div className="rectangle-4342"></div>
-
-                          <div className="frame-706">
-                            <div className="_38">38</div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4352"></div>
-
-                        <div className="frame-1002">
-                          <div className="group-691"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4362"></div>
-
-                        <div className="frame-1003">
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4372"></div>
-
-                        <div className="frame-1004">
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-440"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-441"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-442"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div className="frame-1287">
-                    <div className="frame-12322">
-                      <div className="frame-696">
-                        <div className="upper-right">Upper Right</div>
-                      </div>
-
-                      <div className="rectangle-434"></div>
-
-                      <div className="frame-6942">
-                        <div className="tooth-number-7">
-                          <div className="frame-699">
-                            <div className="_45">45</div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="frame-700">
-                            <div className="_44">44</div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="frame-701">
-                            <div className="_43">43</div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="frame-702">
-                            <div className="_42">42</div>
-                          </div>
-
-                          <div className="rectangle-435"></div>
-
-                          <div className="frame-703">
-                            <div className="_41">41</div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4352"></div>
-
-                        <div className="frame-1002">
-                          <div className="group-691"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4362"></div>
-
-                        <div className="frame-1003">
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4372"></div>
-
-                        <div className="frame-1004">
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="frame-1236">
-                      <div className="frame-696">
-                        <div className="lower-left">Lower Left</div>
-                      </div>
-
-                      <div className="rectangle-434"></div>
-
-                      <div className="frame-6942">
-                        <div className="tooth-number-8">
-                          <div className="frame-699">
-                            <div className="_45">45</div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="frame-700">
-                            <div className="_44">44</div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="frame-701">
-                            <div className="_43">43</div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="frame-702">
-                            <div className="_42">42</div>
-                          </div>
-
-                          <div className="rectangle-435"></div>
-
-                          <div className="frame-703">
-                            <div className="_41">41</div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4352"></div>
-
-                        <div className="frame-1002">
-                          <div className="group-691"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4362"></div>
-
-                        <div className="frame-1003">
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block3">
-                            <div className="frame-14112"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-
-                        <div className="rectangle-4372"></div>
-
-                        <div className="frame-1004">
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-436"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-437"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-438"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-
-                          <div className="rectangle-439"></div>
-
-                          <div className="btn-block">
-                            <div className="frame-1411"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                <div className="P_rectangle-498"></div>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="examination-result">
-          <div className="rectangle-756"></div>
+        <div className="P_tooth-number-table">
+          <div className="P_tooth-status-table-1">
+            <div className="P_title2">
+              <div className="P_text">
+                <div className="P_S18">치아번호</div>
+              </div>
 
-          <div className="examination-rssult-01">
-            <div className="frame-2096">
-              <div className="frame-2110">
-                <div className="frame-1622">
-                  <div className="S20">생년월일</div>
+              <div className="P_text2">
+                <div className="P_S18">치주질환</div>
+              </div>
 
-                  <div className="_1984-09-052">1984-09-05</div>
+              <div className="P_text3">
+                <div className="P_S18">치경부마모</div>
+              </div>
+
+              <div className="P_text4">
+                <div className="P_S18">치아우식</div>
+              </div>
+
+              <div className="P_text5">
+                <div className="P_S18">치아파절</div>
+              </div>
+
+              <div className="P_text6">
+                <div className="P_S18">치아위험도</div>
+              </div>
+            </div>
+
+            <div className="P_rectangle-708"></div>
+
+            <div className="P_table-1">
+              <div className="P_text7">
+                <div className="P__2600">2600</div>
+              </div>
+
+              <div className="P_caries-1">
+                <div className="P__12">1</div>
+              </div>
+
+              <div className="P_periodontal-desease-1">
+                <div className="P__33">3</div>
+              </div>
+
+              <div className="P_tooth-crack-1">
+                <div className="P__33">3</div>
+              </div>
+
+              <div className="P_tooth-cervical-wear-1">
+                <div className="P__12">1</div>
+              </div>
+
+              <div className="P_tooth-status-1">
+                <div className="P__34">3</div>
+              </div>
+            </div>
+
+            <div className="P_rectangle-709"></div>
+
+            <div className="P_table-2">
+              <div className="P_text7">
+                <div className="P__3600">3600</div>
+              </div>
+
+              <div className="P_caries-2">
+                <div className="P__33">3</div>
+              </div>
+
+              <div className="P_periodontal-desease-2">
+                <div className="P__12">1</div>
+              </div>
+
+              <div className="P_tooth-crack-2">
+                <div className="P__33">3</div>
+              </div>
+
+              <div className="P_tooth-cervical-wear-2">
+                <div className="P__12">1</div>
+              </div>
+
+              <div className="P_tooth-status-2">
+                <div className="P__34">3</div>
+              </div>
+            </div>
+
+            <div className="P_rectangle-707"></div>
+          </div>
+
+          <div className="P_tooth-nuber-table">
+            <div className="P_frame-2664">
+              <div className="P_frame-2663">
+                <div className="P_adult-tooth">
+                  <div className="P_S19">영구치</div>
+
+                  <div className="P_line-134"></div>
+                </div>
+
+                <div className="P_childrdn-tooth">
+                  <div className="P_S19">유아치</div>
+
+                  <div className="P_line-135"></div>
+                </div>
+              </div>
+
+              <div className="P_frame-1289">
+                <div className="P_frame-1285">
+                  <div className="P_frame-1283">
+                    <div className="P_frame-12312">
+                      <div className="P_frame-696">
+                        <div className="P_upper-right">Upper Right</div>
+                      </div>
+
+                      <div className="P_rectangle-434"></div>
+
+                      <div className="P_frame-6942">
+                        <div className="P_tooth-number-1">
+                          <div className="P_frame-699">
+                            <div className="P__18">18</div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_frame-700">
+                            <div className="P__17">17</div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_frame-701">
+                            <div className="P__16">16</div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_frame-702">
+                            <div className="P__15">15</div>
+                          </div>
+
+                          <div className="P_rectangle-435"></div>
+
+                          <div className="P_frame-703">
+                            <div className="P__14">14</div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_frame-704">
+                            <div className="P__13">13</div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_frame-7052">
+                            <div className="P__122">12</div>
+                          </div>
+
+                          <div className="P_rectangle-4342"></div>
+
+                          <div className="P_frame-706">
+                            <div className="P__11">11</div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4352"></div>
+
+                        <div className="P_frame-1002">
+                          <div className="P_group-691"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-443"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4362"></div>
+
+                        <div className="P_frame-1003">
+                          <div className="P_group-691"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block2">
+                            <div className="P_frame-14112"></div>
+
+                            <div className="P_ellipse-65"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_group-695"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14113"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4372"></div>
+
+                        <div className="P_frame-1004">
+                          <div className="P_group-691"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="P_frame-1239">
+                      <div className="P_frame-696">
+                        <div className="P_lower-left">Lower Left</div>
+                      </div>
+
+                      <div className="P_frame-697">
+                        <div className="P_tooth-number-2">
+                          <div className="P_frame-699">
+                            <div className="P__21">21</div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_frame-700">
+                            <div className="P__222">22</div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_frame-701">
+                            <div className="P__23">23</div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_frame-702">
+                            <div className="P__24">24</div>
+                          </div>
+
+                          <div className="P_rectangle-435"></div>
+
+                          <div className="P_frame-703">
+                            <div className="P__25">25</div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_frame-704">
+                            <div className="P__26">26</div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_frame-7052">
+                            <div className="P__27">27</div>
+                          </div>
+
+                          <div className="P_rectangle-4342"></div>
+
+                          <div className="P_frame-706">
+                            <div className="P__28">28</div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4352"></div>
+
+                        <div className="P_frame-1002">
+                          <div className="P_group-691"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-14114"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block4">
+                            <div className="P_frame-14115"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4362"></div>
+
+                        <div className="P_frame-1003">
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block4">
+                            <div className="P_frame-14115"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4372"></div>
+
+                        <div className="P_frame-1004">
+                          <div className="P_btn-block">
+                            <div className="P_frame-14114"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block4">
+                            <div className="P_frame-14115"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="P_frame-1287">
+                    <div className="P_frame-12322">
+                      <div className="P_frame-696">
+                        <div className="P_upper-right">Upper Right</div>
+                      </div>
+
+                      <div className="P_rectangle-434"></div>
+
+                      <div className="P_frame-6942">
+                        <div className="P_tooth-number-3">
+                          <div className="P_frame-699">
+                            <div className="P__55">55</div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_frame-700">
+                            <div className="P__54">54</div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_frame-701">
+                            <div className="P__53">53</div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_frame-702">
+                            <div className="P__52">52</div>
+                          </div>
+
+                          <div className="P_rectangle-435"></div>
+
+                          <div className="P_frame-703">
+                            <div className="P__51">51</div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4352"></div>
+
+                        <div className="P_frame-1002">
+                          <div className="P_group-691"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4362"></div>
+
+                        <div className="P_frame-1003">
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4372"></div>
+
+                        <div className="P_frame-1004">
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="P_frame-1236">
+                      <div className="P_frame-696">
+                        <div className="P_lower-left">Lower Left</div>
+                      </div>
+
+                      <div className="P_rectangle-434"></div>
+
+                      <div className="P_frame-6942">
+                        <div className="P_tooth-number-4">
+                          <div className="P_frame-699">
+                            <div className="P__61">61</div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_frame-700">
+                            <div className="P__622">62</div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_frame-701">
+                            <div className="P__63">63</div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_frame-702">
+                            <div className="P__64">64</div>
+                          </div>
+
+                          <div className="P_rectangle-435"></div>
+
+                          <div className="P_frame-703">
+                            <div className="P__65">65</div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4352"></div>
+
+                        <div className="P_frame-1002">
+                          <div className="P_group-691"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4362"></div>
+
+                        <div className="P_frame-1003">
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4372"></div>
+
+                        <div className="P_frame-1004">
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="P_frame-12892">
+                  <div className="P_frame-1287">
+                    <div className="P_frame-12322">
+                      <div className="P_frame-696">
+                        <div className="P_upper-right">Upper Right</div>
+                      </div>
+
+                      <div className="P_rectangle-434"></div>
+
+                      <div className="P_frame-6942">
+                        <div className="P_tooth-number-5">
+                          <div className="P_frame-699">
+                            <div className="P__48">48</div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_frame-700">
+                            <div className="P__47">47</div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_frame-701">
+                            <div className="P__46">46</div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_frame-702">
+                            <div className="P__45">45</div>
+                          </div>
+
+                          <div className="P_rectangle-435"></div>
+
+                          <div className="P_frame-703">
+                            <div className="P__44">44</div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_frame-704">
+                            <div className="P__43">43</div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_frame-7052">
+                            <div className="P__42">42</div>
+                          </div>
+
+                          <div className="P_rectangle-4342"></div>
+
+                          <div className="P_frame-706">
+                            <div className="P__41">41</div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4352"></div>
+
+                        <div className="P_frame-1002">
+                          <div className="P_group-691"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-14114"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4362"></div>
+
+                        <div className="P_frame-1003">
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-14114"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4372"></div>
+
+                        <div className="P_frame-1004">
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-14114"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="P_frame-1235">
+                      <div className="P_frame-696">
+                        <div className="P_lower-left">Lower Left</div>
+                      </div>
+
+                      <div className="P_frame-697">
+                        <div className="P_tooth-number-6">
+                          <div className="P_frame-699">
+                            <div className="P__31">31</div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_frame-700">
+                            <div className="P__322">32</div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_frame-701">
+                            <div className="P__332">33</div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_frame-702">
+                            <div className="P__342">34</div>
+                          </div>
+
+                          <div className="P_rectangle-435"></div>
+
+                          <div className="P_frame-703">
+                            <div className="P__35">35</div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_frame-704">
+                            <div className="P__36">36</div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_frame-7052">
+                            <div className="P__37">37</div>
+                          </div>
+
+                          <div className="P_rectangle-4342"></div>
+
+                          <div className="P_frame-706">
+                            <div className="P__38">38</div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4352"></div>
+
+                        <div className="P_frame-1002">
+                          <div className="P_group-691"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4362"></div>
+
+                        <div className="P_frame-1003">
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4372"></div>
+
+                        <div className="P_frame-1004">
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-440"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-441"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-442"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="P_frame-1287">
+                    <div className="P_frame-12322">
+                      <div className="P_frame-696">
+                        <div className="P_upper-right">Upper Right</div>
+                      </div>
+
+                      <div className="P_rectangle-434"></div>
+
+                      <div className="P_frame-6942">
+                        <div className="P_tooth-number-7">
+                          <div className="P_frame-699">
+                            <div className="P__45">45</div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_frame-700">
+                            <div className="P__44">44</div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_frame-701">
+                            <div className="P__43">43</div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_frame-702">
+                            <div className="P__42">42</div>
+                          </div>
+
+                          <div className="P_rectangle-435"></div>
+
+                          <div className="P_frame-703">
+                            <div className="P__41">41</div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4352"></div>
+
+                        <div className="P_frame-1002">
+                          <div className="P_group-691"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4362"></div>
+
+                        <div className="P_frame-1003">
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4372"></div>
+
+                        <div className="P_frame-1004">
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="P_frame-1236">
+                      <div className="P_frame-696">
+                        <div className="P_lower-left">Lower Left</div>
+                      </div>
+
+                      <div className="P_rectangle-434"></div>
+
+                      <div className="P_frame-6942">
+                        <div className="P_tooth-number-8">
+                          <div className="P_frame-699">
+                            <div className="P__45">45</div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_frame-700">
+                            <div className="P__44">44</div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_frame-701">
+                            <div className="P__43">43</div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_frame-702">
+                            <div className="P__42">42</div>
+                          </div>
+
+                          <div className="P_rectangle-435"></div>
+
+                          <div className="P_frame-703">
+                            <div className="P__41">41</div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4352"></div>
+
+                        <div className="P_frame-1002">
+                          <div className="P_group-691"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4362"></div>
+
+                        <div className="P_frame-1003">
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block3">
+                            <div className="P_frame-14112"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+
+                        <div className="P_rectangle-4372"></div>
+
+                        <div className="P_frame-1004">
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-436"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-437"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-438"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+
+                          <div className="P_rectangle-439"></div>
+
+                          <div className="P_btn-block">
+                            <div className="P_frame-1411"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="P_examination-result">
+          <div className="P_rectangle-756"></div>
+
+          <div className="P_examination-rssult-01">
+            <div className="P_frame-2096">
+              <div className="P_frame-2110">
+                <div className="P_frame-1622">
+                  <div className="P_S20">생년월일</div>
+
+                  <div className="P__1984-09-052">1984-09-05</div>
                 </div>
 
                 <svg
-                  className="rectangle-772"
+                  className="P_rectangle-772"
                   width="1"
                   height="17"
                   viewBox="0 0 1 17"
@@ -2095,13 +2097,13 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   <path d="M0 0.5H1V16.5H0V0.5Z" fill="#B9B9B9" />
                 </svg>
 
-                <div className="frame-1619">
-                  <div className="S20">진료일</div>
+                <div className="P_frame-1619">
+                  <div className="P_S20">진료일</div>
 
-                  <div className="icon-calander">
-                    <div className="frame-calander-1">
+                  <div className="P_icon-calander">
+                    <div className="P_frame-calander-1">
                       <svg
-                        className="vector19"
+                        className="P_vector19"
                         width="16"
                         height="14"
                         viewBox="0 0 16 14"
@@ -2118,7 +2120,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="vector20"
+                        className="P_vector20"
                         width="15"
                         viewBox="0 0 15 0"
                         fill="none"
@@ -2134,7 +2136,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group4"
+                        className="P_group4"
                         width="8"
                         height="4"
                         viewBox="0 0 8 4"
@@ -2159,25 +2161,25 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </div>
                   </div>
 
-                  <div className="_2022-10-27">2022-10-27</div>
+                  <div className="P__2022-10-27">2022-10-27</div>
                 </div>
 
-                <div className="rectangle-771"></div>
+                <div className="P_rectangle-771"></div>
 
-                <div className="frame-1621">
-                  <div className="S20">병원</div>
+                <div className="P_frame-1621">
+                  <div className="P_S20">병원</div>
 
-                  <div className="S21">서울 강남 리브치과</div>
+                  <div className="P_S21">서울 강남 리브치과</div>
                 </div>
 
-                <div className="rectangle-773"></div>
+                <div className="P_rectangle-773"></div>
 
-                <div className="frame-1620">
-                  <div className="S20">담당</div>
+                <div className="P_frame-1620">
+                  <div className="P_S20">담당</div>
 
-                  <div className="icon-doctor">
+                  <div className="P_icon-doctor">
                     <svg
-                      className="frame-dorcot-1"
+                      className="P_frame-dorcot-1"
                       width="15"
                       height="18"
                       viewBox="0 0 15 18"
@@ -2213,29 +2215,29 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </svg>
                   </div>
 
-                  <div className="S21">김남혁 의사</div>
+                  <div className="P_S21">김남혁 의사</div>
                 </div>
               </div>
 
-              <div className="frame-2094">
-                <div className="frame-2093">
-                  <div className="S22">
+              <div className="P_frame-2094">
+                <div className="P_frame-2093">
+                  <div className="P_S22">
                     <span>
-                      <span className="_22-span2">오지명</span>
-                      <span className="_22-span3">님의 검진결과</span>
+                      <span className="P__22-span2">오지명</span>
+                      <span className="P__22-span3">님의 검진결과</span>
                     </span>
                   </div>
 
-                  <div className="frame-1600">
-                    <div className="frame-1602">
-                      <div className="pdf">
-                        <div className="pdf2">PDF로 저장</div>
+                  <div className="P_frame-1600">
+                    <div className="P_frame-1602">
+                      <div className="P_pdf">
+                        <div className="P_pdf2">PDF로 저장</div>
 
-                        <div className="icon-lr-arrow">
-                          <div className="ellipse-38"></div>
+                        <div className="P_icon-lr-arrow">
+                          <div className="P_ellipse-38"></div>
 
                           <svg
-                            className="icn5"
+                            className="P_icn5"
                             width="24"
                             height="25"
                             viewBox="0 0 24 25"
@@ -2253,14 +2255,14 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                         </div>
                       </div>
 
-                      <div className="result-page">
-                        <div className="S23">결과보내기</div>
+                      <div className="P_result-page">
+                        <div className="P_S23">결과보내기</div>
 
-                        <div className="icon-result">
-                          <div className="ellipse-38"></div>
+                        <div className="P_icon-result">
+                          <div className="P_ellipse-38"></div>
 
                           <svg
-                            className="icn-lr-arrow"
+                            className="P_icn-lr-arrow"
                             width="24"
                             height="25"
                             viewBox="0 0 24 25"
@@ -2281,27 +2283,27 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   </div>
                 </div>
 
-                <div className="rectangle-860"></div>
+                <div className="P_rectangle-860"></div>
               </div>
             </div>
           </div>
 
-          <div className="frame-2141">
-            <div className="frame-2091">
-              <div className="S24">종합분석</div>
+          <div className="P_frame-2141">
+            <div className="P_frame-2091">
+              <div className="P_S24">종합분석</div>
 
-              <div className="line-124"></div>
+              <div className="P_line-124"></div>
             </div>
 
-            <div className="frame-2140">
-              <div className="frame-2135">
-                <div className="rectangle-869"></div>
+            <div className="P_frame-2140">
+              <div className="P_frame-2135">
+                <div className="P_rectangle-869"></div>
 
-                <div className="S25">관리필요</div>
+                <div className="P_S25">관리필요</div>
 
-                <div className="group-963">
+                <div className="P_group-963">
                   <svg
-                    className="group-872"
+                    className="P_group-872"
                     width="48"
                     height="48"
                     viewBox="0 0 48 48"
@@ -2340,46 +2342,46 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                 </div>
               </div>
 
-              <div className="frame-2139">
-                <div className="frame-2131">
-                  <div className="S26">좋음</div>
+              <div className="P_frame-2139">
+                <div className="P_frame-2131">
+                  <div className="P_S26">좋음</div>
 
-                  <div className="S27">관리대상 환자</div>
+                  <div className="P_S27">관리대상 환자</div>
 
-                  <div className="S28">위험</div>
+                  <div className="P_S28">위험</div>
                 </div>
 
-                <div className="frame-2132">
-                  <div className="frame-2133">
-                    <div className="rectangle-735"></div>
+                <div className="P_frame-2132">
+                  <div className="P_frame-2133">
+                    <div className="P_rectangle-735"></div>
 
-                    <div className="rectangle-734"></div>
+                    <div className="P_rectangle-734"></div>
 
-                    <div className="ellipse-83"></div>
+                    <div className="P_ellipse-83"></div>
                   </div>
                 </div>
 
-                <div className="S29">나의 치아 상태</div>
+                <div className="P_S29">나의 치아 상태</div>
 
-                <div className="frame-2138"></div>
+                <div className="P_frame-2138"></div>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="final-result">
-          <div className="frame-2111">
-            <div className="frame-1693">
-              <div className="frame-1692">
-                <div className="subtext">
-                  <div className="frame-1649">
-                    <div className="_3-d">3D로 보기</div>
+        <div className="P_final-result">
+          <div className="P_frame-2111">
+            <div className="P_frame-1693">
+              <div className="P_frame-1692">
+                <div className="P_subtext">
+                  <div className="P_frame-1649">
+                    <div className="P__3-d">3D로 보기</div>
 
-                    <div className="icon">
-                      <div className="ellipse-38"></div>
+                    <div className="P_icon">
+                      <div className="P_ellipse-38"></div>
 
                       <svg
-                        className="icn6"
+                        className="P_icn6"
                         width="24"
                         height="25"
                         viewBox="0 0 24 25"
@@ -2397,54 +2399,54 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </div>
                   </div>
 
-                  <div className="S30">종합결과</div>
+                  <div className="P_S30">종합결과</div>
                 </div>
 
-                <div className="line-19"></div>
+                <div className="P_line-19"></div>
               </div>
             </div>
 
-            <div className="synthetic-result">
-              <div className="danger-tooth">
-                <div className="ellipse-832"></div>
+            <div className="P_synthetic-result">
+              <div className="P_danger-tooth">
+                <div className="P_ellipse-832"></div>
 
-                <div className="S31">위험치아</div>
+                <div className="P_S31">위험치아</div>
               </div>
 
-              <div className="line-30"></div>
+              <div className="P_line-30"></div>
 
-              <div className="missing-tooth">
-                <div className="ellipse-84"></div>
+              <div className="P_missing-tooth">
+                <div className="P_ellipse-84"></div>
 
-                <div className="S31">결손치</div>
+                <div className="P_S31">결손치</div>
               </div>
 
-              <div className="line-31"></div>
+              <div className="P_line-31"></div>
 
-              <div className="periodontal-desease">
-                <div className="S32">치주질환</div>
+              <div className="P_periodontal-desease">
+                <div className="P_S32">치주질환</div>
 
-                <div className="frame-1787">
-                  <div className="ellipse-91"></div>
+                <div className="P_frame-1787">
+                  <div className="P_ellipse-91"></div>
 
-                  <div className="S33">좋음</div>
+                  <div className="P_S33">좋음</div>
                 </div>
 
-                <div className="frame-1788">
-                  <div className="ellipse-92"></div>
+                <div className="P_frame-1788">
+                  <div className="P_ellipse-92"></div>
 
-                  <div className="S33">위험</div>
+                  <div className="P_S33">위험</div>
                 </div>
               </div>
             </div>
           </div>
 
-          <div className="tooth">
-            <div className="adult">
-              <div className="adult-1">
-                <div className="a-contents">
+          <div className="P_tooth">
+            <div className="P_adult">
+              <div className="P_adult-1">
+                <div className="P_a-contents">
                   <svg
-                    className="vector29"
+                    className="P_vector29"
                     width="170"
                     height="148"
                     viewBox="0 0 170 148"
@@ -2474,7 +2476,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   </svg>
 
                   <svg
-                    className="vector30"
+                    className="P_vector30"
                     width="165"
                     height="131"
                     viewBox="0 0 165 131"
@@ -2503,22 +2505,22 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </defs>
                   </svg>
 
-                  <div className="S34">상악</div>
+                  <div className="P_S34">상악</div>
 
-                  <div className="frame-1607">
-                    <div className="S35">영구치</div>
+                  <div className="P_frame-1607">
+                    <div className="P_S35">영구치</div>
                   </div>
 
-                  <div className="S36">오른쪽</div>
+                  <div className="P_S36">오른쪽</div>
 
-                  <div className="S37">왼쪽</div>
+                  <div className="P_S37">왼쪽</div>
 
-                  <div className="S38">하악</div>
+                  <div className="P_S38">하악</div>
                 </div>
 
-                <div className="atooth">
+                <div className="P_atooth">
                   <svg
-                    className="a-lower-tooth"
+                    className="P_a-lower-tooth"
                     width="274"
                     height="210"
                     viewBox="0 0 274 210"
@@ -2657,7 +2659,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   </svg>
 
                   <svg
-                    className="a-upper-tooth"
+                    className="P_a-upper-tooth"
                     width="276"
                     height="227"
                     viewBox="0 0 276 227"
@@ -2795,10 +2797,10 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     />
                   </svg>
 
-                  <div className="group-947">
-                    <div className="group-944">
+                  <div className="P_group-947">
+                    <div className="P_group-944">
                       <svg
-                        className="group-939"
+                        className="P_group-939"
                         width="27"
                         height="27"
                         viewBox="0 0 27 27"
@@ -2816,7 +2818,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-940"
+                        className="P_group-940"
                         width="27"
                         height="26"
                         viewBox="0 0 27 26"
@@ -2834,7 +2836,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-941"
+                        className="P_group-941"
                         width="25"
                         height="25"
                         viewBox="0 0 25 25"
@@ -2852,7 +2854,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-942"
+                        className="P_group-942"
                         width="22"
                         height="19"
                         viewBox="0 0 22 19"
@@ -2870,7 +2872,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-943"
+                        className="P_group-943"
                         width="23"
                         height="17"
                         viewBox="0 0 23 17"
@@ -2888,9 +2890,9 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
                     </div>
 
-                    <div className="group-945">
+                    <div className="P_group-945">
                       <svg
-                        className="group-9392"
+                        className="P_group-9392"
                         width="27"
                         height="27"
                         viewBox="0 0 27 27"
@@ -2908,7 +2910,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-9402"
+                        className="P_group-9402"
                         width="27"
                         height="27"
                         viewBox="0 0 27 27"
@@ -2926,7 +2928,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-9412"
+                        className="P_group-9412"
                         width="25"
                         height="25"
                         viewBox="0 0 25 25"
@@ -2944,7 +2946,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-9422"
+                        className="P_group-9422"
                         width="22"
                         height="20"
                         viewBox="0 0 22 20"
@@ -2962,7 +2964,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-9432"
+                        className="P_group-9432"
                         width="22"
                         height="18"
                         viewBox="0 0 22 18"
@@ -2980,9 +2982,9 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
                     </div>
 
-                    <div className="group-946">
+                    <div className="P_group-946">
                       <svg
-                        className="group-929"
+                        className="P_group-929"
                         width="22"
                         height="22"
                         viewBox="0 0 22 22"
@@ -3000,7 +3002,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-935"
+                        className="P_group-935"
                         width="26"
                         height="26"
                         viewBox="0 0 26 26"
@@ -3018,7 +3020,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-933"
+                        className="P_group-933"
                         width="25"
                         height="24"
                         viewBox="0 0 25 24"
@@ -3038,7 +3040,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-934"
+                        className="P_group-934"
                         width="25"
                         height="24"
                         viewBox="0 0 25 24"
@@ -3058,7 +3060,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-930"
+                        className="P_group-930"
                         width="19"
                         height="18"
                         viewBox="0 0 19 18"
@@ -3076,7 +3078,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-936"
+                        className="P_group-936"
                         width="25"
                         height="25"
                         viewBox="0 0 25 25"
@@ -3094,7 +3096,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-931"
+                        className="P_group-931"
                         width="12"
                         height="19"
                         viewBox="0 0 12 19"
@@ -3112,7 +3114,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-938"
+                        className="P_group-938"
                         width="22"
                         height="20"
                         viewBox="0 0 22 20"
@@ -3130,7 +3132,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-932"
+                        className="P_group-932"
                         width="14"
                         height="21"
                         viewBox="0 0 14 21"
@@ -3148,7 +3150,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                       </svg>
 
                       <svg
-                        className="group-937"
+                        className="P_group-937"
                         width="21"
                         height="22"
                         viewBox="0 0 21 22"
@@ -3168,91 +3170,91 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   </div>
                 </div>
 
-                <div className="a-number">
-                  <div className="a-lower-number">
-                    <div className="_382">38</div>
+                <div className="P_a-number">
+                  <div className="P_a-lower-number">
+                    <div className="P__382">38</div>
 
-                    <div className="_472">47</div>
+                    <div className="P__472">47</div>
 
-                    <div className="_462">46</div>
+                    <div className="P__462">46</div>
 
-                    <div className="_362">36</div>
+                    <div className="P__362">36</div>
 
-                    <div className="_352">35</div>
+                    <div className="P__352">35</div>
 
-                    <div className="_452">45</div>
+                    <div className="P__452">45</div>
 
-                    <div className="_343">34</div>
+                    <div className="P__343">34</div>
 
-                    <div className="_333">33</div>
+                    <div className="P__333">33</div>
 
-                    <div className="_323">32</div>
+                    <div className="P__323">32</div>
 
-                    <div className="_422">42</div>
+                    <div className="P__422">42</div>
 
-                    <div className="_412">41</div>
+                    <div className="P__412">41</div>
 
-                    <div className="_312">31</div>
+                    <div className="P__312">31</div>
 
-                    <div className="_432">43</div>
+                    <div className="P__432">43</div>
 
-                    <div className="ellipse-101"></div>
+                    <div className="P_ellipse-101"></div>
 
-                    <div className="ellipse-100"></div>
+                    <div className="P_ellipse-100"></div>
 
-                    <div className="_442">44</div>
+                    <div className="P__442">44</div>
 
-                    <div className="_372">37</div>
+                    <div className="P__372">37</div>
 
-                    <div className="_482">48</div>
+                    <div className="P__482">48</div>
                   </div>
 
-                  <div className="a-upper-number">
-                    <div className="_182">18</div>
+                  <div className="P_a-upper-number">
+                    <div className="P__182">18</div>
 
-                    <div className="_282">28</div>
+                    <div className="P__282">28</div>
 
-                    <div className="_162">16</div>
+                    <div className="P__162">16</div>
 
-                    <div className="_152">15</div>
+                    <div className="P__152">15</div>
 
-                    <div className="_142">14</div>
+                    <div className="P__142">14</div>
 
-                    <div className="_242">24</div>
+                    <div className="P__242">24</div>
 
-                    <div className="_232">23</div>
+                    <div className="P__232">23</div>
 
-                    <div className="_132">13</div>
+                    <div className="P__132">13</div>
 
-                    <div className="_123">12</div>
+                    <div className="P__123">12</div>
 
-                    <div className="_223">22</div>
+                    <div className="P__223">22</div>
 
-                    <div className="_212">21</div>
+                    <div className="P__212">21</div>
 
-                    <div className="_112">11</div>
+                    <div className="P__112">11</div>
 
-                    <div className="_252">25</div>
+                    <div className="P__252">25</div>
 
-                    <div className="_262">26</div>
+                    <div className="P__262">26</div>
 
-                    <div className="ellipse-99"></div>
+                    <div className="P_ellipse-99"></div>
 
-                    <div className="ellipse-102"></div>
+                    <div className="P_ellipse-102"></div>
 
-                    <div className="_172">17</div>
+                    <div className="P__172">17</div>
 
-                    <div className="_272">27</div>
+                    <div className="P__272">27</div>
                   </div>
                 </div>
               </div>
             </div>
 
-            <div className="children">
-              <div className="children-1">
-                <div className="c-contents">
+            <div className="P_children">
+              <div className="P_children-1">
+                <div className="P_c-contents">
                   <svg
-                    className="vector71"
+                    className="P_vector71"
                     width="102"
                     height="66"
                     viewBox="0 0 102 66"
@@ -3282,7 +3284,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   </svg>
 
                   <svg
-                    className="vector72"
+                    className="P_vector72"
                     width="102"
                     height="64"
                     viewBox="0 0 102 64"
@@ -3311,22 +3313,22 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </defs>
                   </svg>
 
-                  <div className="S39">상악</div>
+                  <div className="P_S39">상악</div>
 
-                  <div className="frame-16072">
-                    <div className="S35">유아치</div>
+                  <div className="P_frame-16072">
+                    <div className="P_S35">유아치</div>
                   </div>
 
-                  <div className="S40">오른쪽</div>
+                  <div className="P_S40">오른쪽</div>
 
-                  <div className="S41">왼쪽</div>
+                  <div className="P_S41">왼쪽</div>
 
-                  <div className="S42">하악</div>
+                  <div className="P_S42">하악</div>
                 </div>
 
-                <div className="c-tooth">
+                <div className="P_c-tooth">
                   <svg
-                    className="c-lower-tooth"
+                    className="P_c-lower-tooth"
                     width="198"
                     height="131"
                     viewBox="0 0 198 131"
@@ -3406,7 +3408,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   </svg>
 
                   <svg
-                    className="c-upper-tooth"
+                    className="P_c-upper-tooth"
                     width="198"
                     height="143"
                     viewBox="0 0 198 143"
@@ -3485,9 +3487,9 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     />
                   </svg>
 
-                  <div className="group-957">
+                  <div className="P_group-957">
                     <svg
-                      className="group-948"
+                      className="P_group-948"
                       width="17"
                       height="18"
                       viewBox="0 0 17 18"
@@ -3505,7 +3507,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </svg>
 
                     <svg
-                      className="group-955"
+                      className="P_group-955"
                       width="18"
                       height="19"
                       viewBox="0 0 18 19"
@@ -3523,7 +3525,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </svg>
 
                     <svg
-                      className="group-954"
+                      className="P_group-954"
                       width="20"
                       height="22"
                       viewBox="0 0 20 22"
@@ -3541,7 +3543,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </svg>
 
                     <svg
-                      className="group-949"
+                      className="P_group-949"
                       width="21"
                       height="21"
                       viewBox="0 0 21 21"
@@ -3559,7 +3561,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </svg>
 
                     <svg
-                      className="group-952"
+                      className="P_group-952"
                       width="19"
                       height="21"
                       viewBox="0 0 19 21"
@@ -3577,7 +3579,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </svg>
 
                     <svg
-                      className="group-953"
+                      className="P_group-953"
                       width="21"
                       height="20"
                       viewBox="0 0 21 20"
@@ -3595,7 +3597,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </svg>
 
                     <svg
-                      className="group-951"
+                      className="P_group-951"
                       width="19"
                       height="19"
                       viewBox="0 0 19 19"
@@ -3613,7 +3615,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     </svg>
 
                     <svg
-                      className="group-950"
+                      className="P_group-950"
                       width="20"
                       height="21"
                       viewBox="0 0 20 21"
@@ -3632,55 +3634,55 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   </div>
                 </div>
 
-                <div className="c-number">
-                  <div className="c-lower-number">
-                    <div className="_75">75</div>
+                <div className="P_c-number">
+                  <div className="P_c-lower-number">
+                    <div className="P__75">75</div>
 
-                    <div className="_74">74</div>
+                    <div className="P__74">74</div>
 
-                    <div className="_84">84</div>
+                    <div className="P__84">84</div>
 
-                    <div className="_83">83</div>
+                    <div className="P__83">83</div>
 
-                    <div className="_73">73</div>
+                    <div className="P__73">73</div>
 
-                    <div className="_82">82</div>
+                    <div className="P__82">82</div>
 
-                    <div className="_81">81</div>
+                    <div className="P__81">81</div>
 
-                    <div className="_71">71</div>
+                    <div className="P__71">71</div>
 
-                    <div className="ellipse-103"></div>
+                    <div className="P_ellipse-103"></div>
 
-                    <div className="ellipse-104"></div>
+                    <div className="P_ellipse-104"></div>
 
-                    <div className="_85">85</div>
+                    <div className="P__85">85</div>
 
-                    <div className="_72">72</div>
+                    <div className="P__72">72</div>
                   </div>
 
-                  <div className="c-upper-number">
-                    <div className="_552">55</div>
+                  <div className="P_c-upper-number">
+                    <div className="P__552">55</div>
 
-                    <div className="_652">65</div>
+                    <div className="P__652">65</div>
 
-                    <div className="_642">64</div>
+                    <div className="P__642">64</div>
 
-                    <div className="_542">54</div>
+                    <div className="P__542">54</div>
 
-                    <div className="_532">53</div>
+                    <div className="P__532">53</div>
 
-                    <div className="_632">63</div>
+                    <div className="P__632">63</div>
 
-                    <div className="_522">52</div>
+                    <div className="P__522">52</div>
 
-                    <div className="_512">51</div>
+                    <div className="P__512">51</div>
 
-                    <div className="_612">61</div>
+                    <div className="P__612">61</div>
 
-                    <div className="ellipse-105"></div>
+                    <div className="P_ellipse-105"></div>
 
-                    <div className="_623">62</div>
+                    <div className="P__623">62</div>
                   </div>
                 </div>
               </div>
@@ -3688,34 +3690,34 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
           </div>
         </div>
 
-        <div className="oral-hygine-status">
-          <div className="frame-2275">
-            <div className="frame-2106">
-              <div className="group-881">
-                <div className="S30">구강관리도</div>
+        <div className="P_oral-hygine-status">
+          <div className="P_frame-2275">
+            <div className="P_frame-2106">
+              <div className="P_group-881">
+                <div className="P_S30">구강관리도</div>
 
-                <div className="line-192"></div>
+                <div className="P_line-192"></div>
               </div>
 
-              <div className="frame-2126">
-                <div className="S43">관리필요</div>
+              <div className="P_frame-2126">
+                <div className="P_S43">관리필요</div>
 
-                <div className="S26">안전</div>
+                <div className="P_S26">안전</div>
 
-                <div className="S44">위험</div>
+                <div className="P_S44">위험</div>
               </div>
 
-              <div className="frame-2098">
-                <div className="rectangle-7352"></div>
+              <div className="P_frame-2098">
+                <div className="P_rectangle-7352"></div>
 
-                <div className="rectangle-798"></div>
+                <div className="P_rectangle-798"></div>
 
-                <div className="ellipse-93"></div>
+                <div className="P_ellipse-93"></div>
               </div>
 
-              <div className="frame-2084">
+              <div className="P_frame-2084">
                 <svg
-                  className="polygon-1"
+                  className="P_polygon-1"
                   width="13"
                   height="14"
                   viewBox="0 0 13 14"
@@ -3728,51 +3730,51 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   />
                 </svg>
 
-                <div className="frame-1709"></div>
+                <div className="P_frame-1709"></div>
               </div>
             </div>
 
-            <div className="group-965">
-              <div className="group-956">
-                <img className="rectangle-762" src="rectangle-762.png" />
+            <div className="P_group-965">
+              <div className="P_group-956">
+                <img className="P_rectangle-762" src="rectangle-762.png" />
 
-                <img className="rectangle-759" src="rectangle-759.png" />
+                <img className="P_rectangle-759" src="rectangle-759.png" />
 
-                <img className="rectangle-7712" src="rectangle-7712.png" />
+                <img className="P_rectangle-7712" src="rectangle-7712.png" />
 
-                <img className="rectangle-7722" src="rectangle-7722.png" />
+                <img className="P_rectangle-7722" src="rectangle-7722.png" />
 
-                <img className="rectangle-769" src="rectangle-769.png" />
+                <img className="P_rectangle-769" src="rectangle-769.png" />
 
-                <img className="rectangle-770" src="rectangle-770.png" />
+                <img className="P_rectangle-770" src="rectangle-770.png" />
               </div>
             </div>
           </div>
 
-          <div className="frame-2105">
-            <div className="navigator">
-              <div className="rectangle-858"></div>
+          <div className="P_frame-2105">
+            <div className="P_navigator">
+              <div className="P_rectangle-858"></div>
 
-              <div className="frame-2085">
-                <div className="ellipse-1002"></div>
+              <div className="P_frame-2085">
+                <div className="P_ellipse-1002"></div>
 
-                <div className="ellipse-97"></div>
+                <div className="P_ellipse-97"></div>
 
-                <div className="ellipse-992"></div>
+                <div className="P_ellipse-992"></div>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="riskby-tooth">
-          <div className="S45">치아 별 위험</div>
+        <div className="P_riskby-tooth">
+          <div className="P_S45">치아 별 위험</div>
 
-          <div className="riskby-tooth-contents">
-            <div className="riskby-tooyh-title">
-              <div className="_173">치아 #17</div>
+          <div className="P_riskby-tooth-contents">
+            <div className="P_riskby-tooyh-title">
+              <div className="P__173">치아 #17</div>
 
               <svg
-                className="icn-ul-arrow"
+                className="P_icn-ul-arrow"
                 width="32"
                 height="33"
                 viewBox="0 0 32 33"
@@ -3789,83 +3791,83 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
               </svg>
             </div>
 
-            <div className="riskby-tooth-contents-1">
-              <div className="riskby-tooth-table-2">
-                <div className="title3">
-                  <div className="tooth2">
-                    <div className="S18">치아</div>
+            <div className="P_riskby-tooth-contents-1">
+              <div className="P_riskby-tooth-table-2">
+                <div className="P_title3">
+                  <div className="P_tooth2">
+                    <div className="P_S18">치아</div>
                   </div>
 
-                  <div className="caries">
-                    <div className="S18">치아우식</div>
+                  <div className="P_caries">
+                    <div className="P_S18">치아우식</div>
                   </div>
 
-                  <div className="perioontal">
-                    <div className="S18">치주질환</div>
+                  <div className="P_perioontal">
+                    <div className="P_S18">치주질환</div>
                   </div>
 
-                  <div className="cracks">
-                    <div className="S18">치아파절</div>
+                  <div className="P_cracks">
+                    <div className="P_S18">치아파절</div>
                   </div>
 
-                  <div className="tooth-cervical-wear">
-                    <div className="S18">치경부마모</div>
+                  <div className="P_tooth-cervical-wear">
+                    <div className="P_S18">치경부마모</div>
                   </div>
 
-                  <div className="riskbytooth">
-                    <div className="S46">치아위험도</div>
+                  <div className="P_riskbytooth">
+                    <div className="P_S46">치아위험도</div>
                   </div>
                 </div>
 
-                <div className="rectangle-7072"></div>
+                <div className="P_rectangle-7072"></div>
 
-                <div className="contents2">
-                  <div className="tooth-1">
-                    <div className="_7-2">
+                <div className="P_contents2">
+                  <div className="P_tooth-1">
+                    <div className="P__7-2">
                       상악오른쪽 7번
                       <br />
                       (제2대구치)
                     </div>
                   </div>
 
-                  <div className="caries-12">
-                    <div className="_19">1</div>
+                  <div className="P_caries-12">
+                    <div className="P__19">1</div>
                   </div>
 
-                  <div className="periodontal-1">
-                    <div className="_39">3</div>
+                  <div className="P_periodontal-1">
+                    <div className="P__39">3</div>
                   </div>
 
-                  <div className="cracks-1">
-                    <div className="_19">1</div>
+                  <div className="P_cracks-1">
+                    <div className="P__19">1</div>
                   </div>
 
-                  <div className="tooth-cervical-wear-12">
-                    <div className="_29">2</div>
+                  <div className="P_tooth-cervical-wear-12">
+                    <div className="P__29">2</div>
                   </div>
 
-                  <div className="riskbytooth-1">
-                    <div className="_310">3</div>
+                  <div className="P_riskbytooth-1">
+                    <div className="P__310">3</div>
                   </div>
                 </div>
 
-                <div className="rectangle-783"></div>
+                <div className="P_rectangle-783"></div>
               </div>
 
-              <div className="pictures">
-                <img className="rectangle-785" src="rectangle-785.png" />
+              <div className="P_pictures">
+                <img className="P_rectangle-785" src="rectangle-785.png" />
 
-                <img className="rectangle-784" src="rectangle-784.png" />
+                <img className="P_rectangle-784" src="rectangle-784.png" />
               </div>
             </div>
 
-            <div className="line-193"></div>
+            <div className="P_line-193"></div>
 
-            <div className="risk-by-tooth-1">
-              <div className="_173">치아 #27</div>
+            <div className="P_risk-by-tooth-1">
+              <div className="P__173">치아 #27</div>
 
               <svg
-                className="icn-lu-arrow"
+                className="P_icn-lu-arrow"
                 width="32"
                 height="33"
                 viewBox="0 0 32 33"
@@ -3882,13 +3884,13 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
               </svg>
             </div>
 
-            <div className="line-21"></div>
+            <div className="P_line-21"></div>
 
-            <div className="riskby-tooth-2">
-              <div className="_173">치아 #18</div>
+            <div className="P_riskby-tooth-2">
+              <div className="P__173">치아 #18</div>
 
               <svg
-                className="icn-lu-arrow2"
+                className="P_icn-lu-arrow2"
                 width="32"
                 height="33"
                 viewBox="0 0 32 33"
@@ -3905,189 +3907,189 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
               </svg>
             </div>
 
-            <div className="line-20"></div>
+            <div className="P_line-20"></div>
           </div>
         </div>
 
-        <div className="residual-tooth-prediction">
-          <div className="prediction-title">
-            <div className="S47">예측 잔존치아 수</div>
+        <div className="P_residual-tooth-prediction">
+          <div className="P_prediction-title">
+            <div className="P_S47">예측 잔존치아 수</div>
 
-            <div className="line-22"></div>
+            <div className="P_line-22"></div>
           </div>
 
-          <div className="pridiction-graph">
-            <div className="p-graph">
-              <div className="p-graph-background">
-                <div className="pg-graph">
-                  <div className="group-22">
-                    <div className="_30">30</div>
+          <div className="P_pridiction-graph">
+            <div className="P_p-graph">
+              <div className="P_p-graph-background">
+                <div className="P_pg-graph">
+                  <div className="P_group-22">
+                    <div className="P__30">30</div>
                   </div>
 
-                  <div className="group-20">
-                    <div className="rectangle-19"></div>
+                  <div className="P_group-20">
+                    <div className="P_rectangle-19"></div>
 
-                    <div className="_253">25</div>
+                    <div className="P__253">25</div>
                   </div>
 
-                  <div className="group-19">
-                    <div className="rectangle-192"></div>
+                  <div className="P_group-19">
+                    <div className="P_rectangle-192"></div>
 
-                    <div className="_20">20</div>
+                    <div className="P__20">20</div>
                   </div>
 
-                  <div className="group-17">
-                    <div className="rectangle-193"></div>
+                  <div className="P_group-17">
+                    <div className="P_rectangle-193"></div>
 
-                    <div className="_153">15</div>
+                    <div className="P__153">15</div>
                   </div>
 
-                  <div className="group-15">
-                    <div className="rectangle-194"></div>
+                  <div className="P_group-15">
+                    <div className="P_rectangle-194"></div>
 
-                    <div className="_10">10</div>
+                    <div className="P__10">10</div>
                   </div>
 
-                  <div className="group-18">
-                    <div className="rectangle-195"></div>
+                  <div className="P_group-18">
+                    <div className="P_rectangle-195"></div>
 
-                    <div className="_5">5</div>
+                    <div className="P__5">5</div>
                   </div>
 
-                  <div className="rectangle-700"></div>
+                  <div className="P_rectangle-700"></div>
                 </div>
 
-                <div className="p-low-contents">
-                  <div className="frame-1523">
-                    <div className="_0">0</div>
+                <div className="P_p-low-contents">
+                  <div className="P_frame-1523">
+                    <div className="P__0">0</div>
                   </div>
 
-                  <div className="frame-1521">
-                    <div className="_243">24</div>
+                  <div className="P_frame-1521">
+                    <div className="P__243">24</div>
 
-                    <div className="_344">34</div>
+                    <div className="P__344">34</div>
 
-                    <div className="_443">44</div>
+                    <div className="P__443">44</div>
 
-                    <div className="_543">54</div>
+                    <div className="P__543">54</div>
 
-                    <div className="_643">64</div>
+                    <div className="P__643">64</div>
 
-                    <div className="_742">74</div>
+                    <div className="P__742">74</div>
 
-                    <div className="_842">84</div>
+                    <div className="P__842">84</div>
                   </div>
                 </div>
 
-                <div className="p-low-title">
-                  <div className="S48">나이</div>
+                <div className="P_p-low-title">
+                  <div className="P_S48">나이</div>
                 </div>
               </div>
 
-              <div className="p-graph-1">
-                <div className="p-stick">
-                  <div className="frame-1638">
-                    <div className="frame-1637">
-                      <div className="_283">28</div>
+              <div className="P_p-graph-1">
+                <div className="P_p-stick">
+                  <div className="P_frame-1638">
+                    <div className="P_frame-1637">
+                      <div className="P__283">28</div>
 
-                      <div className="rectangle-21"></div>
+                      <div className="P_rectangle-21"></div>
                     </div>
 
-                    <div className="frame-1615">
-                      <div className="_273">27</div>
+                    <div className="P_frame-1615">
+                      <div className="P__273">27</div>
 
-                      <div className="rectangle-788"></div>
-                    </div>
-                  </div>
-
-                  <div className="frame-1639">
-                    <div className="frame-1636">
-                      <div className="_283">28</div>
-
-                      <div className="rectangle-21"></div>
-                    </div>
-
-                    <div className="frame-1615">
-                      <div className="_273">27</div>
-
-                      <div className="rectangle-788"></div>
+                      <div className="P_rectangle-788"></div>
                     </div>
                   </div>
 
-                  <div className="frame-1631">
-                    <div className="frame-1614">
-                      <div className="_274">27</div>
+                  <div className="P_frame-1639">
+                    <div className="P_frame-1636">
+                      <div className="P__283">28</div>
 
-                      <div className="rectangle-212"></div>
+                      <div className="P_rectangle-21"></div>
                     </div>
 
-                    <div className="frame-1630">
-                      <div className="_263">26</div>
+                    <div className="P_frame-1615">
+                      <div className="P__273">27</div>
 
-                      <div className="rectangle-7882"></div>
-                    </div>
-                  </div>
-
-                  <div className="frame-1632">
-                    <div className="frame-16212">
-                      <div className="_264">26</div>
-
-                      <div className="rectangle-213"></div>
-                    </div>
-
-                    <div className="frame-16222">
-                      <div className="_254">25</div>
-
-                      <div className="rectangle-7883"></div>
+                      <div className="P_rectangle-788"></div>
                     </div>
                   </div>
 
-                  <div className="frame-1633">
-                    <div className="frame-1618">
-                      <div className="_244">24</div>
+                  <div className="P_frame-1631">
+                    <div className="P_frame-1614">
+                      <div className="P__274">27</div>
 
-                      <div className="rectangle-214"></div>
+                      <div className="P_rectangle-212"></div>
                     </div>
 
-                    <div className="frame-1623">
-                      <div className="_213">21</div>
+                    <div className="P_frame-1630">
+                      <div className="P__263">26</div>
 
-                      <div className="rectangle-7884"></div>
-                    </div>
-                  </div>
-
-                  <div className="frame-1634">
-                    <div className="frame-1624">
-                      <div className="_202">20</div>
-
-                      <div className="rectangle-789"></div>
-                    </div>
-
-                    <div className="frame-1625">
-                      <div className="_183">18</div>
-
-                      <div className="rectangle-790"></div>
+                      <div className="P_rectangle-7882"></div>
                     </div>
                   </div>
 
-                  <div className="frame-1635">
-                    <div className="frame-1626">
-                      <div className="_174">17</div>
+                  <div className="P_frame-1632">
+                    <div className="P_frame-16212">
+                      <div className="P__264">26</div>
 
-                      <div className="rectangle-791"></div>
+                      <div className="P_rectangle-213"></div>
                     </div>
 
-                    <div className="frame-1627">
-                      <div className="_163">16</div>
+                    <div className="P_frame-16222">
+                      <div className="P__254">25</div>
 
-                      <div className="rectangle-792"></div>
+                      <div className="P_rectangle-7883"></div>
+                    </div>
+                  </div>
+
+                  <div className="P_frame-1633">
+                    <div className="P_frame-1618">
+                      <div className="P__244">24</div>
+
+                      <div className="P_rectangle-214"></div>
+                    </div>
+
+                    <div className="P_frame-1623">
+                      <div className="P__213">21</div>
+
+                      <div className="P_rectangle-7884"></div>
+                    </div>
+                  </div>
+
+                  <div className="P_frame-1634">
+                    <div className="P_frame-1624">
+                      <div className="P__202">20</div>
+
+                      <div className="P_rectangle-789"></div>
+                    </div>
+
+                    <div className="P_frame-1625">
+                      <div className="P__183">18</div>
+
+                      <div className="P_rectangle-790"></div>
+                    </div>
+                  </div>
+
+                  <div className="P_frame-1635">
+                    <div className="P_frame-1626">
+                      <div className="P__174">17</div>
+
+                      <div className="P_rectangle-791"></div>
+                    </div>
+
+                    <div className="P_frame-1627">
+                      <div className="P__163">16</div>
+
+                      <div className="P_rectangle-792"></div>
                     </div>
                   </div>
                 </div>
 
-                <div className="p-now">
+                <div className="P_p-now">
                   <svg
-                    className="vector89"
+                    className="P_vector89"
                     width="66"
                     height="44"
                     viewBox="0 0 66 44"
@@ -4100,48 +4102,48 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     />
                   </svg>
 
-                  <div className="S49">현재</div>
+                  <div className="P_S49">현재</div>
                 </div>
               </div>
             </div>
 
-            <div className="plist">
-              <div className="frame-1414">
-                <div className="ellipse-382"></div>
+            <div className="P_plist">
+              <div className="P_frame-1414">
+                <div className="P_ellipse-382"></div>
 
-                <div className="S50">평균 잔존치아</div>
+                <div className="P_S50">평균 잔존치아</div>
               </div>
 
-              <div className="frame-1416">
-                <div className="ellipse-383"></div>
+              <div className="P_frame-1416">
+                <div className="P_ellipse-383"></div>
 
-                <div className="S50">나의 잔존치아</div>
+                <div className="P_S50">나의 잔존치아</div>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="img-v-02">
-          <div className="frame-2207">
-            <div className="line-22"></div>
+        <div className="P_img-v-02">
+          <div className="P_frame-2207">
+            <div className="P_line-22"></div>
           </div>
 
-          <div className="frame-2211">
-            <div className="frame-2210">
-              <img className="rectangle-793" src="rectangle-793.png" />
+          <div className="P_frame-2211">
+            <div className="P_frame-2210">
+              <img className="P_rectangle-793" src="rectangle-793.png" />
 
-              <div className="video-bar">
-                <div className="rectangle-812"></div>
+              <div className="P_video-bar">
+                <div className="P_rectangle-812"></div>
               </div>
 
-              <div className="rectangle-7982"></div>
+              <div className="P_rectangle-7982"></div>
 
-              <div className="rectangle-797"></div>
+              <div className="P_rectangle-797"></div>
 
-              <div className="frame-2204">
-                <div className="frame-2202">
+              <div className="P_frame-2204">
+                <div className="P_frame-2202">
                   <svg
-                    className="frame-2200"
+                    className="P_frame-2200"
                     width="13"
                     height="15"
                     viewBox="0 0 13 15"
@@ -4161,14 +4163,14 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     />
                   </svg>
 
-                  <div className="frame-2201">
-                    <div className="rectangle-806"></div>
+                  <div className="P_frame-2201">
+                    <div className="P_rectangle-806"></div>
 
-                    <div className="rectangle-807"></div>
+                    <div className="P_rectangle-807"></div>
                   </div>
 
                   <svg
-                    className="frame-sound"
+                    className="P_frame-sound"
                     width="14"
                     height="14"
                     viewBox="0 0 14 14"
@@ -4202,9 +4204,9 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   </svg>
                 </div>
 
-                <div className="frame-2203">
+                <div className="P_frame-2203">
                   <svg
-                    className="frame-full"
+                    className="P_frame-full"
                     width="14"
                     height="15"
                     viewBox="0 0 14 15"
@@ -4243,10 +4245,10 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                 </div>
               </div>
 
-              <div className="ellipse-106"></div>
+              <div className="P_ellipse-106"></div>
 
               <svg
-                className="polygon-10"
+                className="P_polygon-10"
                 width="46"
                 height="46"
                 viewBox="0 0 46 46"
@@ -4260,21 +4262,21 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
               </svg>
             </div>
 
-            <div className="frame-2230">
-              <div className="S51">
+            <div className="P_frame-2230">
+              <div className="P_S51">
                 <span>
-                  <span className="_51-span2">
+                  <span className="P__51-span2">
                     구강건강을 지키는
                     <br />
                   </span>
-                  <span className="_51-span3">생</span>
-                  <span className="_51-span4">활습</span>
-                  <span className="_51-span5">관</span>
+                  <span className="P__51-span3">생</span>
+                  <span className="P__51-span4">활습</span>
+                  <span className="P__51-span5">관</span>
                 </span>
               </div>
 
               <svg
-                className="btn-oral-care"
+                className="P_btn-oral-care"
                 width="91"
                 height="47"
                 viewBox="0 0 91 47"
@@ -4312,27 +4314,29 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                 />
               </svg>
 
-              <div className="line-23"></div>
+              <div className="P_line-23"></div>
 
-              <div className="oral-care-v-02">
-                <div className="step-01">
+              <div className="P_oral-care-v-02">
+                <div className="P_step-01">
                   <span>
-                    <span className="step-01-span">Step </span>
-                    <span className="step-01-span2">01</span>
+                    <span className="P_step-01-span">Step </span>
+                    <span className="P_step-01-span2">01</span>
                   </span>
                 </div>
 
-                <div className="_02">02</div>
+                <div className="P__02">02</div>
 
-                <div className="_03">03</div>
+                <div className="P__03">03</div>
               </div>
             </div>
           </div>
 
-          <div className="tooth-contents">
-            <div className="_311">양치질은 식후 3분 이내, 위아래 방향으로</div>
+          <div className="P_tooth-contents">
+            <div className="P__311">
+              양치질은 식후 3분 이내, 위아래 방향으로
+            </div>
 
-            <div className="_313">
+            <div className="P__313">
               식후 3분 이내에 양치질 권장, 잠자기 전 잊지 말아야 합니다.
               <br />
               칫솔질은 위아래로 방향으로 움직이는 것이 효과적이고 치아 뿐 아니라
@@ -4341,20 +4345,20 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
           </div>
         </div>
 
-        <div className="bottom">
-          <div className="module-floating">
-            <div className="btn-floating-plus">
-              <div className="ellipse-11"></div>
+        <div className="P_bottom">
+          <div className="P_module-floating">
+            <div className="P_btn-floating-plus">
+              <div className="P_ellipse-11"></div>
 
-              <div className="line-2"></div>
+              <div className="P_line-2"></div>
 
-              <div className="line-3"></div>
+              <div className="P_line-3"></div>
 
-              <div className="group-21">
-                <div className="ellipse-112"></div>
+              <div className="P_group-21">
+                <div className="P_ellipse-112"></div>
 
                 <svg
-                  className="group-736"
+                  className="P_group-736"
                   width="24"
                   height="25"
                   viewBox="0 0 24 25"

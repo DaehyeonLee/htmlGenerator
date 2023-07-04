@@ -393,11 +393,11 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
 
             <div className="frame-2964">
               <div className="frame-2880">
-                <div className="m-rectangle-735"></div>
+                <div className="rectangle-735"></div>
 
-                <div className="m-rectangle-734"></div>
+                <div className="rectangle-734"></div>
 
-                <div className="m-ellipse-83"></div>
+                <div className="ellipse-83"></div>
               </div>
 
               <div className="frame-2963">
@@ -416,47 +416,47 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
           <div className="frame-2753">
             <div className="H12">종합결과</div>
 
-            <div className="m-line-124"></div>
+            <div className="line-124"></div>
           </div>
 
           <div className="tooth-btn">
-            <div className="m-adult">
+            {/* <div className="adult">
               <div className="H13">영구치</div>
-            </div>
+            </div> */}
 
-            <div className="m-children">
+            {/* <div className="children">
               <div className="H14">유아치</div>
-            </div>
+            </div> */}
           </div>
 
           <div className="frame-2973">
             <div className="frame-2970">
-              <div className="m-ellipse-832"></div>
+              <div className="ellipse-832"></div>
 
               <div className="H15">위험치아</div>
             </div>
 
-            <div className="m-line-30"></div>
+            <div className="line-30"></div>
 
             <div className="frame-2971">
-              <div className="m-ellipse-84"></div>
+              <div className="ellipse-84"></div>
 
               <div className="H15">결손치</div>
             </div>
 
-            <div className="m-line-31"></div>
+            <div className="line-31"></div>
 
             <div className="H15">치주질환</div>
 
             <div className="frame-2972">
-              <div className="m-frame-1787">
-                <div className="m-ellipse-91"></div>
+              <div className="frame-1787">
+                <div className="ellipse-91"></div>
 
                 <div className="H16">좋음</div>
               </div>
 
-              <div className="m-frame-1788">
-                <div className="m-ellipse-92"></div>
+              <div className="frame-1788">
+                <div className="ellipse-92"></div>
 
                 <div className="H16">위험</div>
               </div>
@@ -464,8 +464,8 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
           </div>
         </div>
         <img src="./ToothTable.png" />
-        {/* <div className="tooth-table">
-          <div className="adult-table">
+        <div className="tooth-table">
+          {/* <div className="adult-table">
             <div className="adult-table-contents">
               <svg
                 className="vector28"
@@ -1269,8 +1269,8 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
                 <div className="_27">27</div>
               </div>
             </div>
-          </div>
-          <div className="adult-table">
+          </div> */}
+          {/* <div className="adult-table">
             <div className="adult-table-contents">
               <svg
                 className="vector"
@@ -2074,8 +2074,8 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
                 <div className="_27">27</div>
               </div>
             </div>
-          </div>
-        </div> */}
+          </div> */}
+        </div>
       </div>
 
       <div className="frame-2900">
@@ -2083,17 +2083,17 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
           <div className="frame-2753">
             <div className="H12">구강관리도</div>
 
-            <div className="m-line-124"></div>
+            <div className="line-124"></div>
           </div>
 
           <div className="frame-2907">
-          <div className="frame-2906">관리가 필요한 상태 입니다.<br></br><span className="bold-em">4개월 내</span> 치과방문을 추천합니다.</div>
+            <div className="frame-2906"></div>
 
             <div className="frame-2977">
               <div className="frame-2884">
                 <div className="H22">오지명님은</div>
 
-                <div className="m_2">현재 2단계</div>
+                <div className="_2">현재 2단계</div>
               </div>
 
               <div className="frame-2976">
@@ -2120,30 +2120,30 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
         <div className="frame-2861">
           <div className="frame-988">
             <div className="frame-2860">
-              <img className="m_rectangle-762" src="rectangle-762.png" />
+              <img className="rectangle-762" src="rectangle-762.png" />
 
-              <img className="m_rectangle-759" src="rectangle-759.png" />
+              <img className="rectangle-759" src="rectangle-759.png" />
 
-              <img className="m_rectangle-771" src="rectangle-771.png" />
+              <img className="rectangle-771" src="rectangle-771.png" />
 
-              <img className="m_rectangle-772" src="rectangle-772.png" />
+              <img className="rectangle-772" src="rectangle-772.png" />
 
-              <img className="m_rectangle-769" src="rectangle-769.png" />
+              <img className="rectangle-769" src="rectangle-769.png" />
 
-              <img className="m_rectangle-770" src="rectangle-770.png" />
+              <img className="rectangle-770" src="rectangle-770.png" />
             </div>
           </div>
 
           <div className="frame-2978">
-            <div className="m_navigator">
-              <div className="m_rectangle-858"></div>
+            <div className="navigator">
+              <div className="rectangle-858"></div>
 
-              <div className="m_frame-2085">
-                <div className="m_ellipse-1002"></div>
+              <div className="frame-2085">
+                <div className="ellipse-1002"></div>
 
-                <div className="m_ellipse-97"></div>
+                <div className="ellipse-97"></div>
 
-                <div className="m_ellipse-992"></div>
+                <div className="ellipse-992"></div>
               </div>
             </div>
           </div>
@@ -2157,7 +2157,7 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
 
         <div className="riskby-tooth-mobile-contents">
           <div className="riskby-tooth-mobile-title">
-            <div className="m_272">치아 #17</div>
+            <div className="_272">치아 #17</div>
 
             <svg
               className="icn-rtmt"
@@ -2180,14 +2180,14 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
           <div className="mobile-contents">
             <div className="frame-2985">
               <div className="frame-2061">
-                <div className="m_7-2">상악오른쪽 7번 (제2대구치)</div>
+                <div className="_7-2">상악오른쪽 7번 (제2대구치)</div>
               </div>
 
               <div className="frame-2984">
                 <div className="frame-2983">
                   <div className="frame-2980">
                     <div className="mcaries">
-                      <div className="m_1">
+                      <div className="_1">
                         <span>
                           <span className="_1-span">
                             치아우식
@@ -2203,7 +2203,7 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
 
                   <div className="frame-2981">
                     <div className="periodontal">
-                      <div className="m_1">
+                      <div className="_1">
                         <span>
                           <span className="_1-span3">
                             치주질환
@@ -2220,8 +2220,8 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
 
                 <div className="frame-2982">
                   <div className="frame-2980">
-                    <div className="m_cracks">
-                      <div className="m_1">
+                    <div className="cracks">
+                      <div className="_1">
                         <span>
                           <span className="_1-span5">
                             치아파절
@@ -2236,8 +2236,8 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
                   </div>
 
                   <div className="frame-2981">
-                    <div className="m_tooth-cervical-wear">
-                      <div className="m_1">
+                    <div className="tooth-cervical-wear">
+                      <div className="_1">
                         <span>
                           <span className="_1-span7">
                             치아부 마모
@@ -2253,7 +2253,7 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
                 <div className="rectangle-937"></div>
 
                 <div className="frame-20612">
-                  <div className="m_3">
+                  <div className="_3">
                     <span>
                       <span className="_3-span5">
                         치아 위험도
@@ -2267,16 +2267,17 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
             </div>
 
             <div className="img">
-            <img className="m-rectangle-785" src="../../rectangle-785.png" />
-              <img className="m-rectangle-784" src="../../rectangle-784.png" />
+              <img className="rectangle-785" src="rectangle-785.png" />
+
+              <img className="rectangle-855" src="rectangle-855.png" />
             </div>
           </div>
 
           <div className="frame-2063">
-            <div className="m-line-19"></div>
+            <div className="line-19"></div>
 
             <div className="riskbytoothmobiletitle-1">
-              <div className="m_272">치아 #27</div>
+              <div className="_272">치아 #27</div>
 
               <svg
                 className="icnrtmt-1"
@@ -2296,10 +2297,10 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
               </svg>
             </div>
 
-            <div className="m-line-20"></div>
+            <div className="line-20"></div>
 
             <div className="riskbytoothmobiletitle-2">
-              <div className="m_272">치아 #18</div>
+              <div className="_272">치아 #18</div>
 
               <svg
                 className="icnrtmt-2"
@@ -2319,7 +2320,7 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
               </svg>
             </div>
 
-            <div className="m-line-21"></div>
+            <div className="line-21"></div>
           </div>
         </div>
       </div>
@@ -2328,7 +2329,7 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
         <div className="frame-2753">
           <div className="H12">예측 잔존치아 수</div>
 
-          <div className="m-line-124"></div>
+          <div className="line-124"></div>
         </div>
 
         <div className="frame-2889">
@@ -2357,159 +2358,159 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
               <div className="frame-2869">
                 <div className="frame-2868">
                   <div className="frame-2862">
-                    <div className="m-rectangle-19"></div>
+                    <div className="rectangle-19"></div>
 
-                    <div className="m_30">30</div>
+                    <div className="_30">30</div>
                   </div>
 
                   <div className="frame-2863">
-                    <div className="m-rectangle-192"></div>
+                    <div className="rectangle-192"></div>
 
-                    <div className="m_252">25</div>
+                    <div className="_252">25</div>
                   </div>
 
                   <div className="frame-2864">
-                    <div className="m-rectangle-192"></div>
+                    <div className="rectangle-192"></div>
 
-                    <div className="m_20">20</div>
+                    <div className="_20">20</div>
                   </div>
 
                   <div className="frame-2865">
-                    <div className="m-rectangle-192"></div>
+                    <div className="rectangle-192"></div>
 
-                    <div className="m_152">15</div>
+                    <div className="_152">15</div>
                   </div>
 
                   <div className="frame-2866">
-                    <div className="m-rectangle-192"></div>
+                    <div className="rectangle-192"></div>
 
-                    <div className="m_10">10</div>
+                    <div className="_10">10</div>
                   </div>
 
                   <div className="frame-2867">
-                    <div className="m-rectangle-192"></div>
+                    <div className="rectangle-192"></div>
 
-                    <div className="m_5">5</div>
+                    <div className="_5">5</div>
                   </div>
 
-                  <div className="m-rectangle-700"></div>
+                  <div className="rectangle-700"></div>
                 </div>
 
                 <div className="frame-2681">
-                  <div className="m_0">0</div>
+                  <div className="_0">0</div>
 
-                  <div className="m_242">24</div>
+                  <div className="_242">24</div>
 
-                  <div className="m_342">34</div>
+                  <div className="_342">34</div>
 
-                  <div className="m_442">44</div>
+                  <div className="_442">44</div>
 
-                  <div className="m_54">54</div>
+                  <div className="_54">54</div>
 
-                  <div className="m_64">64</div>
+                  <div className="_64">64</div>
 
-                  <div className="m_74">74</div>
+                  <div className="_74">74</div>
 
-                  <div className="m_84">84</div>
+                  <div className="_84">84</div>
                 </div>
               </div>
 
               <div className="frame-2793">
                 <div className="frame-2785">
                   <div className="frame-2771">
-                    <div className="m_282">28</div>
+                    <div className="_282">28</div>
 
-                    <div className="m-rectangle-21"></div>
+                    <div className="rectangle-21"></div>
                   </div>
 
                   <div className="frame-2772">
-                    <div className="m_273">27</div>
+                    <div className="_273">27</div>
 
-                    <div className="m-rectangle-788"></div>
+                    <div className="rectangle-788"></div>
                   </div>
                 </div>
 
                 <div className="frame-2786">
                   <div className="frame-2773">
-                    <div className="m_282">28</div>
+                    <div className="_282">28</div>
 
-                    <div className="m-rectangle-915"></div>
+                    <div className="rectangle-915"></div>
                   </div>
 
                   <div className="frame-2774">
-                    <div className="m_273">27</div>
+                    <div className="_273">27</div>
 
-                    <div className="m-rectangle-916"></div>
+                    <div className="rectangle-916"></div>
                   </div>
                 </div>
 
                 <div className="frame-2787">
                   <div className="frame-2775">
-                    <div className="m_274">27</div>
+                    <div className="_274">27</div>
 
-                    <div className="m-rectangle-212"></div>
+                    <div className="rectangle-212"></div>
                   </div>
 
                   <div className="frame-2776">
-                    <div className="m_262">26</div>
+                    <div className="_262">26</div>
 
-                    <div className="m-rectangle-7882"></div>
+                    <div className="rectangle-7882"></div>
                   </div>
                 </div>
 
                 <div className="frame-2788">
                   <div className="frame-2777">
-                    <div className="m_263">26</div>
+                    <div className="_263">26</div>
 
-                    <div className="m-rectangle-213"></div>
+                    <div className="rectangle-213"></div>
                   </div>
 
                   <div className="frame-2778">
-                    <div className="m_253">25</div>
+                    <div className="_253">25</div>
 
-                    <div className="m-rectangle-7883"></div>
+                    <div className="rectangle-7883"></div>
                   </div>
                 </div>
 
                 <div className="frame-2789">
                   <div className="frame-2779">
-                    <div className="m_243">24</div>
+                    <div className="_243">24</div>
 
-                    <div className="m-rectangle-214"></div>
+                    <div className="rectangle-214"></div>
                   </div>
 
                   <div className="frame-2780">
-                    <div className="m_212">21</div>
+                    <div className="_212">21</div>
 
-                    <div className="m-rectangle-7884"></div>
+                    <div className="rectangle-7884"></div>
                   </div>
                 </div>
 
                 <div className="frame-2790">
                   <div className="frame-2781">
-                    <div className="m_202">20</div>
+                    <div className="_202">20</div>
 
-                    <div className="m-rectangle-789"></div>
+                    <div className="rectangle-789"></div>
                   </div>
 
                   <div className="frame-2782">
-                    <div className="m_182">18</div>
+                    <div className="_182">18</div>
 
-                    <div className="m-rectangle-790"></div>
+                    <div className="rectangle-790"></div>
                   </div>
                 </div>
 
                 <div className="frame-2791">
                   <div className="frame-2783">
-                    <div className="m_172">17</div>
+                    <div className="_172">17</div>
 
-                    <div className="m-rectangle-791"></div>
+                    <div className="rectangle-791"></div>
                   </div>
 
                   <div className="frame-2784">
-                    <div className="m_162">16</div>
+                    <div className="_162">16</div>
 
-                    <div className="m-rectangle-792"></div>
+                    <div className="rectangle-792"></div>
                   </div>
                 </div>
               </div>
@@ -2524,13 +2525,13 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
 
           <div className="frame-2989">
             <div className="frame-2987">
-              <div className="m-ellipse-38"></div>
+              <div className="ellipse-38"></div>
 
               <div className="H27">평균 잔존치아</div>
             </div>
 
             <div className="frame-2988">
-              <div className="m-ellipse-382"></div>
+              <div className="ellipse-382"></div>
 
               <div className="H27">나의 잔존치아</div>
             </div>
@@ -2543,7 +2544,7 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
           <div className="frame-2753">
             <div className="H12">구강 건강 관리</div>
 
-            <div className="m-line-124"></div>
+            <div className="line-124"></div>
           </div>
 
           <div className="H28">
@@ -2560,7 +2561,7 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
         <div className="frame-2923">
           <div className="frame-2922">
             <div className="frame-2920">
-              <img className="m-rectangle-860" src="rectangle-793.png" />
+              <img className="rectangle-860" src="rectangle-860.png" />
 
               <div className="videodind-mobile"></div>
 
@@ -2588,17 +2589,17 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
 
                 <div className="frame-2917">
                   <div className="frame-2910">
-                    <div className="m-rectangle-798"></div>
+                    <div className="rectangle-798"></div>
 
-                    <div className="m-rectangle-797"></div>
+                    <div className="rectangle-797"></div>
                   </div>
 
                   <div className="frame-2916">
                     <div className="frame-2915">
                       <div className="frame-2911">
-                        <div className="m-rectangle-806"></div>
+                        <div className="rectangle-806"></div>
 
-                        <div className="m-rectangle-807"></div>
+                        <div className="rectangle-807"></div>
                       </div>
 
                       <svg
@@ -2679,20 +2680,20 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
               <div className="group-988">
                 <div className="frame-2874">
                   <div className="oral-health-care-v-02-mobile">
-                    <div className="m-step-01">
+                    <div className="step-01">
                       <span>
-                        <span className="m-step-01-span">Step </span>
-                        <span className="m-step-01-span2">01</span>
+                        <span className="step-01-span">Step </span>
+                        <span className="step-01-span2">01</span>
                       </span>
                     </div>
 
-                    <div className="m_02">02</div>
+                    <div className="_02">02</div>
 
-                    <div className="m_03">03</div>
+                    <div className="_03">03</div>
                   </div>
                 </div>
 
-                <div className="m-line-23"></div>
+                <div className="line-23"></div>
               </div>
 
               <svg
@@ -2737,9 +2738,9 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
           </div>
 
           <div className="frame-2901">
-            <div className="m_39">양치질은 식후 3분 이내, 위아래 방향으로</div>
+            <div className="_39">양치질은 식후 3분 이내, 위아래 방향으로</div>
 
-            <div className="m_310">
+            <div className="_310">
               식후 3분 이내에 양치질 권장, 잠자기 전 잊지 말아야 합니다.
               칫솔질은 위아래로 방향으로 움직이는 것이 효과적이고 치아 뿐 아니라
               잇몸 부위를 마사지 하듯이 같이 닦아주는 것이 좋습니다.

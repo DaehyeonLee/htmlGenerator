@@ -1,4 +1,5 @@
 /* Code generated with AutoHTML Plugin for Figma */
+import { Link } from "react-router-dom";
 import "../css/Sub0504Mo.css";
 
 export interface ISub0504MoProps {}
@@ -9,9 +10,11 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
       <div className="sub-mobile">
         <div className="frame-2882">
           <div className="i-phone-14-pro-max-3">
-            <div className="frame-2581">
-              <img src="./etc-logo.png" />
-              {/* <div className="etc-logo">
+            <Link to="/" style={{ textDecoration: "none" }}>
+              {" "}
+              <div className="frame-2581">
+                <img src="./etc-logo.png" />
+                {/* <div className="etc-logo">
                 <div className="group-686">
                   <svg
                     className="group"
@@ -141,7 +144,8 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
                   </svg>
                 </div>
               </div> */}
-            </div>
+              </div>
+            </Link>
 
             <div className="mobile-title">
               <div className="H1">
@@ -2087,7 +2091,10 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
           </div>
 
           <div className="frame-2907">
-          <div className="frame-2906">관리가 필요한 상태 입니다.<br></br><span className="bold-em">4개월 내</span> 치과방문을 추천합니다.</div>
+            <div className="frame-2906">
+              관리가 필요한 상태 입니다.<br></br>
+              <span className="bold-em">4개월 내</span> 치과방문을 추천합니다.
+            </div>
 
             <div className="frame-2977">
               <div className="frame-2884">
@@ -2267,7 +2274,7 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
             </div>
 
             <div className="img">
-            <img className="m-rectangle-785" src="../../rectangle-785.png" />
+              <img className="m-rectangle-785" src="../../rectangle-785.png" />
               <img className="m-rectangle-784" src="../../rectangle-784.png" />
             </div>
           </div>

@@ -1469,7 +1469,7 @@
   text-align: left;
   font: var(--subtitle-subtlitle-1-medium, 500 24px/32px "Poppins", sans-serif);
   position: relative;
-  width: 83px;
+  width: 90px;
   height: 33px;
   display: flex;
   align-items: center;
@@ -2019,7 +2019,7 @@
   border-style: solid;
   border-color: var(--grayscale-500, #8c8c8c);
   border-width: 1px;
-  padding: 12px 60px 12px 60px;
+  padding: 12px 50px 12px 50px;
   display: flex;
   flex-direction: row;
   gap: 10px;

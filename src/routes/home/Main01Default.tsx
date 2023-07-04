@@ -1,6 +1,7 @@
 import "../css/Main01Default.css";
 import ApexCharts from "apexcharts";
 import Menu from "./Menu";
+import { Link } from "react-router-dom";
 
 export interface IMain01DefaultProps {}
 
@@ -159,7 +160,7 @@ export const Main01Default = ({
                   <div className="M_ab-admin2">안녕하세요! AB Admin님</div>
                 </div>
 
-                <div className="M_component-13-search-box-3">
+                {/* <div className="M_component-13-search-box-3">
                   <div className="M_btn-input-category">
                     <div className="M_button-sub-2-dapth">
                       <div className="M_frame-909">
@@ -213,7 +214,7 @@ export const Main01Default = ({
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
 
               <div className="M_frame-1341">
@@ -915,233 +916,234 @@ export const Main01Default = ({
             </div>
           </div>
         </div>
+        <Link to="/patientlist" style={{ textDecoration: "none" }}>
+          <div className="M_recent-check-in-patient">
+            <div className="M_frame-1158">
+              <div className="M_frame-7052">
+                <div className="M_frame-750">
+                  <div className="M_2">최근 등록(진료) 환자</div>
 
-        <div className="M_recent-check-in-patient">
-          <div className="M_frame-1158">
-            <div className="M_frame-7052">
-              <div className="M_frame-750">
-                <div className="M_2">최근 등록(진료) 환자</div>
-
-                <svg
-                  className="M_vector-27"
-                  width="6"
-                  height="14"
-                  viewBox="0 0 6 14"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M2.86103e-07 0.500001L6 7L1.4226e-06 13.5"
-                    stroke="#333333"
-                    strokeWidth="2"
-                  />
-                </svg>
+                  <svg
+                    className="M_vector-27"
+                    width="6"
+                    height="14"
+                    viewBox="0 0 6 14"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M2.86103e-07 0.500001L6 7L1.4226e-06 13.5"
+                      stroke="#333333"
+                      strokeWidth="2"
+                    />
+                  </svg>
+                </div>
               </div>
+            </div>
+
+            <div className="M_frame-11712">
+              <div className="M_module-list">
+                <div className="M_frame-7502">
+                  <div className="M_frame-713">
+                    <div className="M_frame-7503">
+                      <div className="M_no">NO</div>
+                    </div>
+                  </div>
+
+                  <div className="M_frame-7504">
+                    <div className="M_11">환자 정보</div>
+                  </div>
+                </div>
+
+                <div className="M_12">연락처</div>
+
+                <div className="M_13">등록일</div>
+
+                <div className="M_13">최근 검사일</div>
+
+                <div className="M_14">다음 예약</div>
+
+                <div className="M_15">종합 위험도</div>
+
+                <div className="M_15">관리도</div>
+
+                <div className="M_16">추정 향후치료비</div>
+
+                <div className="M_17">담당의</div>
+              </div>
+
+              <div className="M_module-list2">
+                <div className="M_frame-7502">
+                  <div className="M_frame-7132">
+                    <div className="M_frame-7505">
+                      <div className="M__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="M_frame-7504">
+                    <div className="M_18">오지명(남)</div>
+
+                    <div className="M__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="M__010-1234-5678">010-1234-5678</div>
+
+                <div className="M__2022-08-04">2022-08-04</div>
+
+                <div className="M__2022-08-04">2022-08-04</div>
+
+                <div className="M__2022-10-04">2022-10-04</div>
+
+                <div className="M_19">-</div>
+
+                <div className="M_19">-</div>
+
+                <div className="M__4-500-000">4,500,000원</div>
+
+                <div className="M_20">김춘삼</div>
+              </div>
+
+              <div className="M_rectangle-487"></div>
+
+              <div className="M_module-list2">
+                <div className="M_frame-7502">
+                  <div className="M_frame-7132">
+                    <div className="M_frame-7505">
+                      <div className="M__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="M_frame-7504">
+                    <div className="M_18">오지명(남)</div>
+
+                    <div className="M__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="M__010-1234-5678">010-1234-5678</div>
+
+                <div className="M__2022-08-04">2022-08-04</div>
+
+                <div className="M__2022-08-04">2022-08-04</div>
+
+                <div className="M__2022-10-04">2022-10-04</div>
+
+                <div className="M_19">-</div>
+
+                <div className="M_19">-</div>
+
+                <div className="M__4-500-000">4,500,000원</div>
+
+                <div className="M_20">김춘삼</div>
+              </div>
+
+              <div className="M_rectangle-488"></div>
+
+              <div className="M_module-list2">
+                <div className="M_frame-7502">
+                  <div className="M_frame-7132">
+                    <div className="M_frame-7505">
+                      <div className="M__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="M_frame-7504">
+                    <div className="M_18">오지명(남)</div>
+
+                    <div className="M__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="M__010-1234-5678">010-1234-5678</div>
+
+                <div className="M__2022-08-04">2022-08-04</div>
+
+                <div className="M__2022-08-04">2022-08-04</div>
+
+                <div className="M__2022-10-04">2022-10-04</div>
+
+                <div className="M_19">-</div>
+
+                <div className="M_19">-</div>
+
+                <div className="M__4-500-000">4,500,000원</div>
+
+                <div className="M_20">김춘삼</div>
+              </div>
+
+              <div className="M_rectangle-490"></div>
+
+              <div className="M_module-list2">
+                <div className="M_frame-7502">
+                  <div className="M_frame-7132">
+                    <div className="M_frame-7505">
+                      <div className="M__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="M_frame-7504">
+                    <div className="M_18">오지명(남)</div>
+
+                    <div className="M__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="M__010-1234-5678">010-1234-5678</div>
+
+                <div className="M__2022-08-04">2022-08-04</div>
+
+                <div className="M__2022-08-04">2022-08-04</div>
+
+                <div className="M__2022-10-04">2022-10-04</div>
+
+                <div className="M_19">-</div>
+
+                <div className="M_19">-</div>
+
+                <div className="M__4-500-000">4,500,000원</div>
+
+                <div className="M_20">김춘삼</div>
+              </div>
+
+              <div className="M_rectangle-491"></div>
+
+              <div className="M_module-list2">
+                <div className="M_frame-7502">
+                  <div className="M_frame-7132">
+                    <div className="M_frame-7505">
+                      <div className="M__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="M_frame-7504">
+                    <div className="M_18">오지명(남)</div>
+
+                    <div className="M__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="M__010-1234-5678">010-1234-5678</div>
+
+                <div className="M__2022-08-04">2022-08-04</div>
+
+                <div className="M__2022-08-04">2022-08-04</div>
+
+                <div className="M__2022-10-04">2022-10-04</div>
+
+                <div className="M_19">-</div>
+
+                <div className="M_19">-</div>
+
+                <div className="M__4-500-000">4,500,000원</div>
+
+                <div className="M_20">김춘삼</div>
+              </div>
+
+              <div className="M_rectangle-492"></div>
             </div>
           </div>
-
-          <div className="M_frame-11712">
-            <div className="M_module-list">
-              <div className="M_frame-7502">
-                <div className="M_frame-713">
-                  <div className="M_frame-7503">
-                    <div className="M_no">NO</div>
-                  </div>
-                </div>
-
-                <div className="M_frame-7504">
-                  <div className="M_11">환자 정보</div>
-                </div>
-              </div>
-
-              <div className="M_12">연락처</div>
-
-              <div className="M_13">등록일</div>
-
-              <div className="M_13">최근 검사일</div>
-
-              <div className="M_14">다음 예약</div>
-
-              <div className="M_15">종합 위험도</div>
-
-              <div className="M_15">관리도</div>
-
-              <div className="M_16">추정 향후치료비</div>
-
-              <div className="M_17">담당의</div>
-            </div>
-
-            <div className="M_module-list2">
-              <div className="M_frame-7502">
-                <div className="M_frame-7132">
-                  <div className="M_frame-7505">
-                    <div className="M__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="M_frame-7504">
-                  <div className="M_18">오지명(남)</div>
-
-                  <div className="M__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="M__010-1234-5678">010-1234-5678</div>
-
-              <div className="M__2022-08-04">2022-08-04</div>
-
-              <div className="M__2022-08-04">2022-08-04</div>
-
-              <div className="M__2022-10-04">2022-10-04</div>
-
-              <div className="M_19">-</div>
-
-              <div className="M_19">-</div>
-
-              <div className="M__4-500-000">4,500,000원</div>
-
-              <div className="M_20">김춘삼</div>
-            </div>
-
-            <div className="M_rectangle-487"></div>
-
-            <div className="M_module-list2">
-              <div className="M_frame-7502">
-                <div className="M_frame-7132">
-                  <div className="M_frame-7505">
-                    <div className="M__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="M_frame-7504">
-                  <div className="M_18">오지명(남)</div>
-
-                  <div className="M__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="M__010-1234-5678">010-1234-5678</div>
-
-              <div className="M__2022-08-04">2022-08-04</div>
-
-              <div className="M__2022-08-04">2022-08-04</div>
-
-              <div className="M__2022-10-04">2022-10-04</div>
-
-              <div className="M_19">-</div>
-
-              <div className="M_19">-</div>
-
-              <div className="M__4-500-000">4,500,000원</div>
-
-              <div className="M_20">김춘삼</div>
-            </div>
-
-            <div className="M_rectangle-488"></div>
-
-            <div className="M_module-list2">
-              <div className="M_frame-7502">
-                <div className="M_frame-7132">
-                  <div className="M_frame-7505">
-                    <div className="M__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="M_frame-7504">
-                  <div className="M_18">오지명(남)</div>
-
-                  <div className="M__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="M__010-1234-5678">010-1234-5678</div>
-
-              <div className="M__2022-08-04">2022-08-04</div>
-
-              <div className="M__2022-08-04">2022-08-04</div>
-
-              <div className="M__2022-10-04">2022-10-04</div>
-
-              <div className="M_19">-</div>
-
-              <div className="M_19">-</div>
-
-              <div className="M__4-500-000">4,500,000원</div>
-
-              <div className="M_20">김춘삼</div>
-            </div>
-
-            <div className="M_rectangle-490"></div>
-
-            <div className="M_module-list2">
-              <div className="M_frame-7502">
-                <div className="M_frame-7132">
-                  <div className="M_frame-7505">
-                    <div className="M__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="M_frame-7504">
-                  <div className="M_18">오지명(남)</div>
-
-                  <div className="M__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="M__010-1234-5678">010-1234-5678</div>
-
-              <div className="M__2022-08-04">2022-08-04</div>
-
-              <div className="M__2022-08-04">2022-08-04</div>
-
-              <div className="M__2022-10-04">2022-10-04</div>
-
-              <div className="M_19">-</div>
-
-              <div className="M_19">-</div>
-
-              <div className="M__4-500-000">4,500,000원</div>
-
-              <div className="M_20">김춘삼</div>
-            </div>
-
-            <div className="M_rectangle-491"></div>
-
-            <div className="M_module-list2">
-              <div className="M_frame-7502">
-                <div className="M_frame-7132">
-                  <div className="M_frame-7505">
-                    <div className="M__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="M_frame-7504">
-                  <div className="M_18">오지명(남)</div>
-
-                  <div className="M__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="M__010-1234-5678">010-1234-5678</div>
-
-              <div className="M__2022-08-04">2022-08-04</div>
-
-              <div className="M__2022-08-04">2022-08-04</div>
-
-              <div className="M__2022-10-04">2022-10-04</div>
-
-              <div className="M_19">-</div>
-
-              <div className="M_19">-</div>
-
-              <div className="M__4-500-000">4,500,000원</div>
-
-              <div className="M_20">김춘삼</div>
-            </div>
-
-            <div className="M_rectangle-492"></div>
-          </div>
-        </div>
+        </Link>
 
         <div className="M_bottom">
           <div className="M_module-floating">

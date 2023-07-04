@@ -1,4 +1,5 @@
 /* Code generated with AutoHTML Plugin for Figma */
+import { Link } from "react-router-dom";
 import "../css/Sub0101List.css";
 import Menu from "./Menu";
 
@@ -147,7 +148,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
 
             <div className="rectangle-568_new"></div>
 
-            <div className="component-13-search-box-3_new">
+            {/* <div className="component-13-search-box-3_new">
               <div className="btn-input-category_new">
                 <div className="button-sub-2-dapth_new">
                   <div className="frame-909_new">
@@ -202,7 +203,7 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
 
           <div className="patient-list-table_new">
@@ -310,101 +311,102 @@ export const Sub0101List = ({ ...props }: ISub0101ListProps): JSX.Element => {
 
                     <div className="L13_new">담당의</div>
                   </div>
+                  <Link to="/patientdetail" style={{ textDecoration: "none" }}>
+                    <div className="component-15_new">
+                      <div className="frame-7502_new">
+                        <div className="frame-7132_new">
+                          <div className="frame-7505_new">
+                            <div className="_84236_new">84236</div>
+                          </div>
+                        </div>
 
-                  <div className="component-15_new">
-                    <div className="frame-7502_new">
-                      <div className="frame-7132_new">
-                        <div className="frame-7505_new">
-                          <div className="_84236_new">84236</div>
+                        <div className="frame-7504_new">
+                          <div className="L14_new">오지명(남)</div>
+
+                          <div className="_1984-09-05_new">1984-09-05</div>
                         </div>
                       </div>
 
-                      <div className="frame-7504_new">
-                        <div className="L14_new">오지명(남)</div>
+                      <div className="_010-1234-5678_new">010-1234-5678</div>
 
-                        <div className="_1984-09-05_new">1984-09-05</div>
-                      </div>
-                    </div>
+                      <div className="_2022-08-04_new">2022-08-04</div>
 
-                    <div className="_010-1234-5678_new">010-1234-5678</div>
+                      <div className="_2022-08-042_new">2022-08-04</div>
 
-                    <div className="_2022-08-04_new">2022-08-04</div>
+                      <div className="frame-760_new">
+                        <div className="icn2_new">
+                          <div className="frame-calander_new">
+                            <svg
+                              className="vector3_new"
+                              width="16"
+                              height="14"
+                              viewBox="0 0 16 14"
+                              fill="none"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <path
+                                d="M15.75 11.6289V2.62891C15.75 1.52434 14.8546 0.628906 13.75 0.628906L2.75 0.628906C1.64543 0.628906 0.750001 1.52434 0.750001 2.62891V11.6289C0.750001 12.7335 1.64543 13.6289 2.75 13.6289H13.75C14.8546 13.6289 15.75 12.7335 15.75 11.6289Z"
+                                stroke="#333333"
+                                strokeWidth="1.5"
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                              />
+                            </svg>
 
-                    <div className="_2022-08-042_new">2022-08-04</div>
+                            <svg
+                              className="vector4_new"
+                              width="15"
+                              viewBox="0 0 15 0"
+                              fill="none"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <path
+                                d="M15 0H0"
+                                stroke="#333333"
+                                strokeWidth="1.5"
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                              />
+                            </svg>
 
-                    <div className="frame-760_new">
-                      <div className="icn2_new">
-                        <div className="frame-calander_new">
-                          <svg
-                            className="vector3_new"
-                            width="16"
-                            height="14"
-                            viewBox="0 0 16 14"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                          >
-                            <path
-                              d="M15.75 11.6289V2.62891C15.75 1.52434 14.8546 0.628906 13.75 0.628906L2.75 0.628906C1.64543 0.628906 0.750001 1.52434 0.750001 2.62891V11.6289C0.750001 12.7335 1.64543 13.6289 2.75 13.6289H13.75C14.8546 13.6289 15.75 12.7335 15.75 11.6289Z"
-                              stroke="#333333"
-                              strokeWidth="1.5"
-                              strokeLinecap="round"
-                              strokeLinejoin="round"
-                            />
-                          </svg>
-
-                          <svg
-                            className="vector4_new"
-                            width="15"
-                            viewBox="0 0 15 0"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                          >
-                            <path
-                              d="M15 0H0"
-                              stroke="#333333"
-                              strokeWidth="1.5"
-                              strokeLinecap="round"
-                              strokeLinejoin="round"
-                            />
-                          </svg>
-
-                          <svg
-                            className="group_new"
-                            width="8"
-                            height="4"
-                            viewBox="0 0 8 4"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                          >
-                            <path
-                              d="M0.899902 0.75V3.75"
-                              stroke="#333333"
-                              strokeWidth="1.5"
-                              strokeLinecap="round"
-                              strokeLinejoin="round"
-                            />
-                            <path
-                              d="M7.6001 0.75V3.75"
-                              stroke="#333333"
-                              strokeWidth="1.5"
-                              strokeLinecap="round"
-                              strokeLinejoin="round"
-                            />
-                          </svg>
+                            <svg
+                              className="group_new"
+                              width="8"
+                              height="4"
+                              viewBox="0 0 8 4"
+                              fill="none"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <path
+                                d="M0.899902 0.75V3.75"
+                                stroke="#333333"
+                                strokeWidth="1.5"
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                              />
+                              <path
+                                d="M7.6001 0.75V3.75"
+                                stroke="#333333"
+                                strokeWidth="1.5"
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                              />
+                            </svg>
+                          </div>
                         </div>
+
+                        <div className="_2022-10-04_new">2022-10-04</div>
                       </div>
 
-                      <div className="_2022-10-04_new">2022-10-04</div>
+                      <div className="L15_new">6</div>
+
+                      <div className="L15_new">2</div>
+
+                      <div className="_4-500-000_new">4,500,000원</div>
+
+                      <div className="L16_new">김춘삼</div>
                     </div>
-
-                    <div className="L15_new">6</div>
-
-                    <div className="L15_new">2</div>
-
-                    <div className="_4-500-000_new">4,500,000원</div>
-
-                    <div className="L16_new">김춘삼</div>
-                  </div>
+                  </Link>
 
                   <div className="rectangle-487_new"></div>
 

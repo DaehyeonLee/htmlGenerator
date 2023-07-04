@@ -25,7 +25,7 @@ const Router = () => {
         <Route path="/resultdetail">
           <ResultDetail />
         </Route>
-        <Route path="/">
+        <Route exact={true} path="/">
           <Home />
         </Route>
       </Switch>

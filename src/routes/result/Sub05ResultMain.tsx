@@ -1,5 +1,6 @@
+import { Link } from "react-router-dom";
 import "../css/Sub05ResultMain.css";
-import Menu from '../home/Menu';
+import Menu from "../home/Menu";
 
 export interface ISub05ResultMainProps {}
 
@@ -8,7 +9,7 @@ export const Sub05ResultMain = ({
 }: ISub05ResultMainProps): JSX.Element => {
   return (
     <div className="R_sub-05-result-main">
-      <Menu/>
+      <Menu />
 
       <div className="R_result-contents">
         <div className="R_com-header">
@@ -143,7 +144,7 @@ export const Sub05ResultMain = ({
 
           <div className="R_rectangle-568"></div>
 
-          <div className="R_component-13-search-box-3">
+          {/* <div className="R_component-13-search-box-3">
             <div className="R_btn-input-category">
               <div className="R_button-sub-2-dapth">
                 <div className="R_frame-909">
@@ -198,482 +199,483 @@ export const Sub05ResultMain = ({
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
+        <Link to="/resultdetail" style={{ textDecoration: "none" }}>
+          <div className="R_result-table">
+            <div className="R_frame-1342">
+              <div className="R_group-750">
+                <div className="R_frame-750">
+                  <div className="R_R3">최근 검사일</div>
 
-        <div className="R_result-table">
-          <div className="R_frame-1342">
-            <div className="R_group-750">
-              <div className="R_frame-750">
-                <div className="R_R3">최근 검사일</div>
+                  <div className="R_rectangle-569"></div>
 
-                <div className="R_rectangle-569"></div>
+                  <div className="R_R4">환자명</div>
 
-                <div className="R_R4">환자명</div>
+                  <div className="R_rectangle-570"></div>
 
-                <div className="R_rectangle-570"></div>
+                  <div className="R_R4">예약일 빠른 순</div>
 
-                <div className="R_R4">예약일 빠른 순</div>
+                  <div className="R_rectangle-571"></div>
 
-                <div className="R_rectangle-571"></div>
-
-                <div className="R_R4">등록일 순</div>
+                  <div className="R_R4">등록일 순</div>
+                </div>
               </div>
+            </div>
+
+            <div className="R_missing-risk-list">
+              <div className="R_module-list">
+                <div className="R_frame-7502">
+                  <div className="R_frame-713">
+                    <div className="R_frame-7503">
+                      <div className="R_no">NO</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R5">환자 정보</div>
+                  </div>
+                </div>
+
+                <div className="R_R6">연락처</div>
+
+                <div className="R_R7">등록일</div>
+
+                <div className="R_R8">검사일</div>
+
+                <div className="R_R9">예약</div>
+
+                <div className="R_R10">종합 위험도</div>
+
+                <div className="R_R10">관리도</div>
+
+                <div className="R_R11">추정 향후치료비</div>
+
+                <div className="R_R12">담당의</div>
+              </div>
+
+              <div className="R_module-list2">
+                <div className="R_frame-7502">
+                  <div className="R_frame-7132">
+                    <div className="R_frame-7505">
+                      <div className="R__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R13">오지명(남)</div>
+
+                    <div className="R__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="R__010-7468">
+                  <span>
+                    <span className="R__010-7468-span">010-7468-</span>
+                    <span className="R__010-7468-span2">
+                      ****
+                      <br />
+                    </span>
+                  </span>
+                </div>
+
+                <div className="R__2022-08-22">2022-08-22</div>
+
+                <div className="R__2022-08-04">2022-08-04</div>
+
+                <div className="R__2022-10-04">2022-10-04</div>
+
+                <div className="R_R14">6</div>
+
+                <div className="R_R14">2</div>
+
+                <div className="R__4-500-000">4,500,000원</div>
+
+                <div className="R_R15">김춘삼</div>
+              </div>
+
+              <div className="R_rectangle-496"></div>
+
+              <div className="R_module-list2">
+                <div className="R_frame-7502">
+                  <div className="R_frame-7132">
+                    <div className="R_frame-7505">
+                      <div className="R__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R13">오지명(남)</div>
+
+                    <div className="R__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="R__010-7468">
+                  <span>
+                    <span className="R__010-7468-span3">010-7468-</span>
+                    <span className="R__010-7468-span4">
+                      ****
+                      <br />
+                    </span>
+                  </span>
+                </div>
+
+                <div className="R__2022-08-22">2022-08-22</div>
+
+                <div className="R__2022-08-04">2022-08-04</div>
+
+                <div className="R__2022-10-04">2022-10-04</div>
+
+                <div className="R_R14">6</div>
+
+                <div className="R_R14">2</div>
+
+                <div className="R__4-500-000">4,500,000원</div>
+
+                <div className="R_R15">김춘삼</div>
+              </div>
+
+              <div className="R_rectangle-488"></div>
+
+              <div className="R_module-list2">
+                <div className="R_frame-7502">
+                  <div className="R_frame-7132">
+                    <div className="R_frame-7505">
+                      <div className="R__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R13">오지명(남)</div>
+
+                    <div className="R__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="R__010-7468">
+                  <span>
+                    <span className="R__010-7468-span5">010-7468-</span>
+                    <span className="R__010-7468-span6">
+                      ****
+                      <br />
+                    </span>
+                  </span>
+                </div>
+
+                <div className="R__2022-08-22">2022-08-22</div>
+
+                <div className="R__2022-08-04">2022-08-04</div>
+
+                <div className="R__2022-10-04">2022-10-04</div>
+
+                <div className="R_R14">6</div>
+
+                <div className="R_R14">2</div>
+
+                <div className="R__4-500-000">4,500,000원</div>
+
+                <div className="R_R15">김춘삼</div>
+              </div>
+
+              <div className="R_rectangle-489"></div>
+
+              <div className="R_module-list2">
+                <div className="R_frame-7502">
+                  <div className="R_frame-7132">
+                    <div className="R_frame-7505">
+                      <div className="R__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R13">오지명(남)</div>
+
+                    <div className="R__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="R__010-7468">
+                  <span>
+                    <span className="R__010-7468-span7">010-7468-</span>
+                    <span className="R__010-7468-span8">
+                      ****
+                      <br />
+                    </span>
+                  </span>
+                </div>
+
+                <div className="R__2022-08-22">2022-08-22</div>
+
+                <div className="R__2022-08-04">2022-08-04</div>
+
+                <div className="R__2022-10-04">2022-10-04</div>
+
+                <div className="R_R14">6</div>
+
+                <div className="R_R14">2</div>
+
+                <div className="R__4-500-000">4,500,000원</div>
+
+                <div className="R_R15">김춘삼</div>
+              </div>
+
+              <div className="R_rectangle-490"></div>
+
+              <div className="R_module-list2">
+                <div className="R_frame-7502">
+                  <div className="R_frame-7132">
+                    <div className="R_frame-7505">
+                      <div className="R__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R13">오지명(남)</div>
+
+                    <div className="R__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="R__010-7468">
+                  <span>
+                    <span className="R__010-7468-span9">010-7468-</span>
+                    <span className="R__010-7468-span10">
+                      ****
+                      <br />
+                    </span>
+                  </span>
+                </div>
+
+                <div className="R__2022-08-22">2022-08-22</div>
+
+                <div className="R__2022-08-04">2022-08-04</div>
+
+                <div className="R__2022-10-04">2022-10-04</div>
+
+                <div className="R_R14">6</div>
+
+                <div className="R_R14">2</div>
+
+                <div className="R__4-500-000">4,500,000원</div>
+
+                <div className="R_R15">김춘삼</div>
+              </div>
+
+              <div className="R_rectangle-491"></div>
+
+              <div className="R_module-list2">
+                <div className="R_frame-7502">
+                  <div className="R_frame-7132">
+                    <div className="R_frame-7505">
+                      <div className="R__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R13">오지명(남)</div>
+
+                    <div className="R__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="R__010-7468">
+                  <span>
+                    <span className="R__010-7468-span11">010-7468-</span>
+                    <span className="R__010-7468-span12">
+                      ****
+                      <br />
+                    </span>
+                  </span>
+                </div>
+
+                <div className="R__2022-08-22">2022-08-22</div>
+
+                <div className="R__2022-08-04">2022-08-04</div>
+
+                <div className="R__2022-10-04">2022-10-04</div>
+
+                <div className="R_R14">6</div>
+
+                <div className="R_R14">2</div>
+
+                <div className="R__4-500-000">4,500,000원</div>
+
+                <div className="R_R15">김춘삼</div>
+              </div>
+
+              <div className="R_rectangle-492"></div>
+
+              <div className="R_module-list2">
+                <div className="R_frame-7502">
+                  <div className="R_frame-7132">
+                    <div className="R_frame-7505">
+                      <div className="R__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R13">오지명(남)</div>
+
+                    <div className="R__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="R__010-7468">
+                  <span>
+                    <span className="R__010-7468-span13">010-7468-</span>
+                    <span className="R__010-7468-span14">
+                      ****
+                      <br />
+                    </span>
+                  </span>
+                </div>
+
+                <div className="R__2022-08-22">2022-08-22</div>
+
+                <div className="R__2022-08-04">2022-08-04</div>
+
+                <div className="R__2022-10-04">2022-10-04</div>
+
+                <div className="R_R14">6</div>
+
+                <div className="R_R14">2</div>
+
+                <div className="R__4-500-000">4,500,000원</div>
+
+                <div className="R_R15">김춘삼</div>
+              </div>
+
+              <div className="R_rectangle-493"></div>
+
+              <div className="R_module-list2">
+                <div className="R_frame-7502">
+                  <div className="R_frame-7132">
+                    <div className="R_frame-7505">
+                      <div className="R__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R13">오지명(남)</div>
+
+                    <div className="R__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="R__010-7468">
+                  <span>
+                    <span className="R__010-7468-span15">010-7468-</span>
+                    <span className="R__010-7468-span16">
+                      ****
+                      <br />
+                    </span>
+                  </span>
+                </div>
+
+                <div className="R__2022-08-22">2022-08-22</div>
+
+                <div className="R__2022-08-04">2022-08-04</div>
+
+                <div className="R__2022-10-04">2022-10-04</div>
+
+                <div className="R_R14">6</div>
+
+                <div className="R_R14">2</div>
+
+                <div className="R__4-500-000">4,500,000원</div>
+
+                <div className="R_R15">김춘삼</div>
+              </div>
+
+              <div className="R_rectangle-494"></div>
+
+              <div className="R_module-list2">
+                <div className="R_frame-7502">
+                  <div className="R_frame-7132">
+                    <div className="R_frame-7505">
+                      <div className="R__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R13">오지명(남)</div>
+
+                    <div className="R__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="R__010-7468">
+                  <span>
+                    <span className="R__010-7468-span17">010-7468-</span>
+                    <span className="R__010-7468-span18">
+                      ****
+                      <br />
+                    </span>
+                  </span>
+                </div>
+
+                <div className="R__2022-08-22">2022-08-22</div>
+
+                <div className="R__2022-08-04">2022-08-04</div>
+
+                <div className="R__2022-10-04">2022-10-04</div>
+
+                <div className="R_R14">6</div>
+
+                <div className="R_R14">2</div>
+
+                <div className="R__4-500-000">4,500,000원</div>
+
+                <div className="R_R15">김춘삼</div>
+              </div>
+
+              <div className="R_rectangle-495"></div>
+
+              <div className="R_module-list2">
+                <div className="R_frame-7502">
+                  <div className="R_frame-7132">
+                    <div className="R_frame-7505">
+                      <div className="R__84236">84236</div>
+                    </div>
+                  </div>
+
+                  <div className="R_frame-7504">
+                    <div className="R_R13">오지명(남)</div>
+
+                    <div className="R__1984-09-05">1984-09-05</div>
+                  </div>
+                </div>
+
+                <div className="R__010-7468">
+                  <span>
+                    <span className="R__010-7468-span19">010-7468-</span>
+                    <span className="R__010-7468-span20">
+                      ****
+                      <br />
+                    </span>
+                  </span>
+                </div>
+
+                <div className="R__2022-08-22">2022-08-22</div>
+
+                <div className="R__2022-08-04">2022-08-04</div>
+
+                <div className="R__2022-10-04">2022-10-04</div>
+
+                <div className="R_R14">6</div>
+
+                <div className="R_R14">2</div>
+
+                <div className="R__4-500-000">4,500,000원</div>
+
+                <div className="R_R15">김춘삼</div>
+              </div>
+
+              <div className="R_rectangle-487"></div>
             </div>
           </div>
-
-          <div className="R_missing-risk-list">
-            <div className="R_module-list">
-              <div className="R_frame-7502">
-                <div className="R_frame-713">
-                  <div className="R_frame-7503">
-                    <div className="R_no">NO</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R5">환자 정보</div>
-                </div>
-              </div>
-
-              <div className="R_R6">연락처</div>
-
-              <div className="R_R7">등록일</div>
-
-              <div className="R_R8">검사일</div>
-
-              <div className="R_R9">예약</div>
-
-              <div className="R_R10">종합 위험도</div>
-
-              <div className="R_R10">관리도</div>
-
-              <div className="R_R11">추정 향후치료비</div>
-
-              <div className="R_R12">담당의</div>
-            </div>
-
-            <div className="R_module-list2">
-              <div className="R_frame-7502">
-                <div className="R_frame-7132">
-                  <div className="R_frame-7505">
-                    <div className="R__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R13">오지명(남)</div>
-
-                  <div className="R__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="R__010-7468">
-                <span>
-                  <span className="R__010-7468-span">010-7468-</span>
-                  <span className="R__010-7468-span2">
-                    ****
-                    <br />
-                  </span>
-                </span>
-              </div>
-
-              <div className="R__2022-08-22">2022-08-22</div>
-
-              <div className="R__2022-08-04">2022-08-04</div>
-
-              <div className="R__2022-10-04">2022-10-04</div>
-
-              <div className="R_R14">6</div>
-
-              <div className="R_R14">2</div>
-
-              <div className="R__4-500-000">4,500,000원</div>
-
-              <div className="R_R15">김춘삼</div>
-            </div>
-
-            <div className="R_rectangle-496"></div>
-
-            <div className="R_module-list2">
-              <div className="R_frame-7502">
-                <div className="R_frame-7132">
-                  <div className="R_frame-7505">
-                    <div className="R__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R13">오지명(남)</div>
-
-                  <div className="R__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="R__010-7468">
-                <span>
-                  <span className="R__010-7468-span3">010-7468-</span>
-                  <span className="R__010-7468-span4">
-                    ****
-                    <br />
-                  </span>
-                </span>
-              </div>
-
-              <div className="R__2022-08-22">2022-08-22</div>
-
-              <div className="R__2022-08-04">2022-08-04</div>
-
-              <div className="R__2022-10-04">2022-10-04</div>
-
-              <div className="R_R14">6</div>
-
-              <div className="R_R14">2</div>
-
-              <div className="R__4-500-000">4,500,000원</div>
-
-              <div className="R_R15">김춘삼</div>
-            </div>
-
-            <div className="R_rectangle-488"></div>
-
-            <div className="R_module-list2">
-              <div className="R_frame-7502">
-                <div className="R_frame-7132">
-                  <div className="R_frame-7505">
-                    <div className="R__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R13">오지명(남)</div>
-
-                  <div className="R__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="R__010-7468">
-                <span>
-                  <span className="R__010-7468-span5">010-7468-</span>
-                  <span className="R__010-7468-span6">
-                    ****
-                    <br />
-                  </span>
-                </span>
-              </div>
-
-              <div className="R__2022-08-22">2022-08-22</div>
-
-              <div className="R__2022-08-04">2022-08-04</div>
-
-              <div className="R__2022-10-04">2022-10-04</div>
-
-              <div className="R_R14">6</div>
-
-              <div className="R_R14">2</div>
-
-              <div className="R__4-500-000">4,500,000원</div>
-
-              <div className="R_R15">김춘삼</div>
-            </div>
-
-            <div className="R_rectangle-489"></div>
-
-            <div className="R_module-list2">
-              <div className="R_frame-7502">
-                <div className="R_frame-7132">
-                  <div className="R_frame-7505">
-                    <div className="R__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R13">오지명(남)</div>
-
-                  <div className="R__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="R__010-7468">
-                <span>
-                  <span className="R__010-7468-span7">010-7468-</span>
-                  <span className="R__010-7468-span8">
-                    ****
-                    <br />
-                  </span>
-                </span>
-              </div>
-
-              <div className="R__2022-08-22">2022-08-22</div>
-
-              <div className="R__2022-08-04">2022-08-04</div>
-
-              <div className="R__2022-10-04">2022-10-04</div>
-
-              <div className="R_R14">6</div>
-
-              <div className="R_R14">2</div>
-
-              <div className="R__4-500-000">4,500,000원</div>
-
-              <div className="R_R15">김춘삼</div>
-            </div>
-
-            <div className="R_rectangle-490"></div>
-
-            <div className="R_module-list2">
-              <div className="R_frame-7502">
-                <div className="R_frame-7132">
-                  <div className="R_frame-7505">
-                    <div className="R__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R13">오지명(남)</div>
-
-                  <div className="R__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="R__010-7468">
-                <span>
-                  <span className="R__010-7468-span9">010-7468-</span>
-                  <span className="R__010-7468-span10">
-                    ****
-                    <br />
-                  </span>
-                </span>
-              </div>
-
-              <div className="R__2022-08-22">2022-08-22</div>
-
-              <div className="R__2022-08-04">2022-08-04</div>
-
-              <div className="R__2022-10-04">2022-10-04</div>
-
-              <div className="R_R14">6</div>
-
-              <div className="R_R14">2</div>
-
-              <div className="R__4-500-000">4,500,000원</div>
-
-              <div className="R_R15">김춘삼</div>
-            </div>
-
-            <div className="R_rectangle-491"></div>
-
-            <div className="R_module-list2">
-              <div className="R_frame-7502">
-                <div className="R_frame-7132">
-                  <div className="R_frame-7505">
-                    <div className="R__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R13">오지명(남)</div>
-
-                  <div className="R__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="R__010-7468">
-                <span>
-                  <span className="R__010-7468-span11">010-7468-</span>
-                  <span className="R__010-7468-span12">
-                    ****
-                    <br />
-                  </span>
-                </span>
-              </div>
-
-              <div className="R__2022-08-22">2022-08-22</div>
-
-              <div className="R__2022-08-04">2022-08-04</div>
-
-              <div className="R__2022-10-04">2022-10-04</div>
-
-              <div className="R_R14">6</div>
-
-              <div className="R_R14">2</div>
-
-              <div className="R__4-500-000">4,500,000원</div>
-
-              <div className="R_R15">김춘삼</div>
-            </div>
-
-            <div className="R_rectangle-492"></div>
-
-            <div className="R_module-list2">
-              <div className="R_frame-7502">
-                <div className="R_frame-7132">
-                  <div className="R_frame-7505">
-                    <div className="R__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R13">오지명(남)</div>
-
-                  <div className="R__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="R__010-7468">
-                <span>
-                  <span className="R__010-7468-span13">010-7468-</span>
-                  <span className="R__010-7468-span14">
-                    ****
-                    <br />
-                  </span>
-                </span>
-              </div>
-
-              <div className="R__2022-08-22">2022-08-22</div>
-
-              <div className="R__2022-08-04">2022-08-04</div>
-
-              <div className="R__2022-10-04">2022-10-04</div>
-
-              <div className="R_R14">6</div>
-
-              <div className="R_R14">2</div>
-
-              <div className="R__4-500-000">4,500,000원</div>
-
-              <div className="R_R15">김춘삼</div>
-            </div>
-
-            <div className="R_rectangle-493"></div>
-
-            <div className="R_module-list2">
-              <div className="R_frame-7502">
-                <div className="R_frame-7132">
-                  <div className="R_frame-7505">
-                    <div className="R__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R13">오지명(남)</div>
-
-                  <div className="R__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="R__010-7468">
-                <span>
-                  <span className="R__010-7468-span15">010-7468-</span>
-                  <span className="R__010-7468-span16">
-                    ****
-                    <br />
-                  </span>
-                </span>
-              </div>
-
-              <div className="R__2022-08-22">2022-08-22</div>
-
-              <div className="R__2022-08-04">2022-08-04</div>
-
-              <div className="R__2022-10-04">2022-10-04</div>
-
-              <div className="R_R14">6</div>
-
-              <div className="R_R14">2</div>
-
-              <div className="R__4-500-000">4,500,000원</div>
-
-              <div className="R_R15">김춘삼</div>
-            </div>
-
-            <div className="R_rectangle-494"></div>
-
-            <div className="R_module-list2">
-              <div className="R_frame-7502">
-                <div className="R_frame-7132">
-                  <div className="R_frame-7505">
-                    <div className="R__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R13">오지명(남)</div>
-
-                  <div className="R__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="R__010-7468">
-                <span>
-                  <span className="R__010-7468-span17">010-7468-</span>
-                  <span className="R__010-7468-span18">
-                    ****
-                    <br />
-                  </span>
-                </span>
-              </div>
-
-              <div className="R__2022-08-22">2022-08-22</div>
-
-              <div className="R__2022-08-04">2022-08-04</div>
-
-              <div className="R__2022-10-04">2022-10-04</div>
-
-              <div className="R_R14">6</div>
-
-              <div className="R_R14">2</div>
-
-              <div className="R__4-500-000">4,500,000원</div>
-
-              <div className="R_R15">김춘삼</div>
-            </div>
-
-            <div className="R_rectangle-495"></div>
-
-            <div className="R_module-list2">
-              <div className="R_frame-7502">
-                <div className="R_frame-7132">
-                  <div className="R_frame-7505">
-                    <div className="R__84236">84236</div>
-                  </div>
-                </div>
-
-                <div className="R_frame-7504">
-                  <div className="R_R13">오지명(남)</div>
-
-                  <div className="R__1984-09-05">1984-09-05</div>
-                </div>
-              </div>
-
-              <div className="R__010-7468">
-                <span>
-                  <span className="R__010-7468-span19">010-7468-</span>
-                  <span className="R__010-7468-span20">
-                    ****
-                    <br />
-                  </span>
-                </span>
-              </div>
-
-              <div className="R__2022-08-22">2022-08-22</div>
-
-              <div className="R__2022-08-04">2022-08-04</div>
-
-              <div className="R__2022-10-04">2022-10-04</div>
-
-              <div className="R_R14">6</div>
-
-              <div className="R_R14">2</div>
-
-              <div className="R__4-500-000">4,500,000원</div>
-
-              <div className="R_R15">김춘삼</div>
-            </div>
-
-            <div className="R_rectangle-487"></div>
-          </div>
-        </div>
+        </Link>
 
         <div className="R_bottom">
           <div className="R_module-floating">

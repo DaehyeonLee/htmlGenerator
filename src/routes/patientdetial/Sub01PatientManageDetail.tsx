@@ -1,6 +1,7 @@
 /* Code generated with AutoHTML Plugin for Figma */
+import { Link } from "react-router-dom";
 import "../css/Sub01PatientManageDetail.css";
-import Menu from '../home/Menu';
+import Menu from "../home/Menu";
 
 export interface ISub01PatientManageDetailProps {}
 
@@ -9,7 +10,7 @@ export const Sub01PatientManageDetail = ({
 }: ISub01PatientManageDetailProps): JSX.Element => {
   return (
     <div className="D_sub-01-patient-manage-detail">
-      <Menu/>
+      <Menu />
 
       <div className="D_patient-detail-contents">
         <div className="D_com-header">
@@ -849,403 +850,427 @@ export const Sub01PatientManageDetail = ({
         </div>
 
         <div className="D_frame-1910">
-          <div className="D_frame-1202">
-            <div className="D_frame-1201">
-              <div className="D_D10">검사결과</div>
+          <Link to="/result" style={{ textDecoration: "none" }}>
+            {" "}
+            <div className="D_frame-1202">
+              <div className="D_frame-1201">
+                <div className="D_D10">검사결과</div>
 
-              <div className="D_frame-1194">
-                <div className="D_button-sub-2-dapth2">
-                  <div className="D_frame-9092">
-                    <div className="D_D11">검사결과 등록</div>
+                <div className="D_frame-1194">
+                  <div className="D_button-sub-2-dapth2">
+                    <div className="D_frame-9092">
+                      <div className="D_D11">검사결과 등록</div>
+                    </div>
+                  </div>
+
+                  <div className="D_group-753">
+                    <div className="D_ellipse-37"></div>
+
+                    <svg
+                      className="D_icn-plus"
+                      width="24"
+                      height="25"
+                      viewBox="0 0 24 25"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M12 7.5L12 17.5"
+                        stroke="white"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                      />
+                      <path
+                        d="M7 12.5L17 12.5"
+                        stroke="white"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+
+              <div className="D_frame-1175">
+                <div className="D_module-list">
+                  <div className="D_frame-750">
+                    <div className="D_frame-7502">
+                      <div className="D_D12">검사일시</div>
+                    </div>
+                  </div>
+
+                  <div className="D_D13">구강 위험도</div>
+
+                  <div className="D_D13">결손기능 치아 수</div>
+
+                  <div className="D_D14">관리도</div>
+
+                  <div className="D_D15">필수 관리 치아</div>
+
+                  <div className="D_D16">최대 치아 위험도</div>
+
+                  <div className="D_D17">질병 종합위험도</div>
+
+                  <div className="D_D14">치아 우식</div>
+
+                  <div className="D_D14">치아 파절</div>
+
+                  <div className="D_D14">치주 질환</div>
+
+                  <div className="D_frame-749">
+                    <div className="D_D18">치경부 마모</div>
                   </div>
                 </div>
 
-                <div className="D_group-753">
-                  <div className="D_ellipse-37"></div>
+                <div className="D_module-list2">
+                  <div className="D_frame-767">
+                    <div className="D_frame-7503">
+                      <div className="D__2021-12-01-15-30">
+                        2021-12-01 15:30
+                      </div>
+                    </div>
 
-                  <svg
-                    className="D_icn-plus"
-                    width="24"
-                    height="25"
-                    viewBox="0 0 24 25"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M12 7.5L12 17.5"
-                      stroke="white"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                    />
-                    <path
-                      d="M7 12.5L17 12.5"
-                      stroke="white"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                    />
-                  </svg>
+                    <div className="D__70">70%</div>
+                  </div>
+
+                  <div className="D__8">8</div>
+
+                  <div className="D__3">3</div>
+
+                  <div className="D__39">3</div>
+
+                  <div className="D__29">2</div>
+
+                  <div className="D__66">6</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D_D19">-</div>
+
+                  <div className="D_frame-749">
+                    <div className="D_D20">-</div>
+                  </div>
                 </div>
+
+                <div className="D_rectangle-498"></div>
+
+                <div className="D_module-list2">
+                  <div className="D_frame-767">
+                    <div className="D_frame-7504">
+                      <div className="D__2021-12-01-15-30">
+                        2021-12-01 15:30
+                      </div>
+                    </div>
+
+                    <div className="D__70">70%</div>
+                  </div>
+
+                  <div className="D__8">8</div>
+
+                  <div className="D__3">3</div>
+
+                  <div className="D__39">3</div>
+
+                  <div className="D__29">2</div>
+
+                  <div className="D__66">6</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D_D19">-</div>
+
+                  <div className="D_frame-749">
+                    <div className="D_D20">-</div>
+                  </div>
+                </div>
+
+                <div className="D_rectangle-495"></div>
+
+                <div className="D_module-list2">
+                  <div className="D_frame-767">
+                    <div className="D_frame-7505">
+                      <div className="D__2021-12-01-15-30">
+                        2021-12-01 15:30
+                      </div>
+                    </div>
+
+                    <div className="D__702">70%</div>
+                  </div>
+
+                  <div className="D__82">8</div>
+
+                  <div className="D__310">3</div>
+
+                  <div className="D__311">3</div>
+
+                  <div className="D__210">2</div>
+
+                  <div className="D__67">-</div>
+
+                  <div className="D__19">-</div>
+
+                  <div className="D__19">-</div>
+
+                  <div className="D_D21">-</div>
+
+                  <div className="D_frame-7492">
+                    <div className="D_D22">-</div>
+                  </div>
+                </div>
+
+                <div className="D_rectangle-491"></div>
+
+                <div className="D_module-list2">
+                  <div className="D_frame-767">
+                    <div className="D_frame-7504">
+                      <div className="D__2021-12-01-15-30">
+                        2021-12-01 15:30
+                      </div>
+                    </div>
+
+                    <div className="D__70">70%</div>
+                  </div>
+
+                  <div className="D__8">8</div>
+
+                  <div className="D__3">3</div>
+
+                  <div className="D__39">3</div>
+
+                  <div className="D__29">2</div>
+
+                  <div className="D__66">6</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D_D19">-</div>
+
+                  <div className="D_frame-749">
+                    <div className="D_D20">-</div>
+                  </div>
+                </div>
+
+                <div className="D_rectangle-488"></div>
+
+                <div className="D_module-list2">
+                  <div className="D_frame-767">
+                    <div className="D_frame-7504">
+                      <div className="D__2021-12-01-15-30">
+                        2021-12-01 15:30
+                      </div>
+                    </div>
+
+                    <div className="D__70">70%</div>
+                  </div>
+
+                  <div className="D__8">8</div>
+
+                  <div className="D__3">3</div>
+
+                  <div className="D__39">3</div>
+
+                  <div className="D__29">2</div>
+
+                  <div className="D__66">6</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D_D19">-</div>
+
+                  <div className="D_frame-749">
+                    <div className="D_D20">-</div>
+                  </div>
+                </div>
+
+                <div className="D_rectangle-492"></div>
+
+                <div className="D_moudule">
+                  <div className="D_frame-767">
+                    <div className="D_frame-7504">
+                      <div className="D__2021-12-01-15-30">
+                        2021-12-01 15:30
+                      </div>
+                    </div>
+
+                    <div className="D__70">70%</div>
+                  </div>
+
+                  <div className="D__8">8</div>
+
+                  <div className="D__3">3</div>
+
+                  <div className="D__39">3</div>
+
+                  <div className="D__29">2</div>
+
+                  <div className="D__66">6</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D_D19">-</div>
+
+                  <div className="D_frame-749">
+                    <div className="D_D20">-</div>
+                  </div>
+                </div>
+
+                <div className="D_rectangle-490"></div>
+
+                <div className="D_moudule">
+                  <div className="D_frame-767">
+                    <div className="D_frame-7504">
+                      <div className="D__2021-12-01-15-30">
+                        2021-12-01 15:30
+                      </div>
+                    </div>
+
+                    <div className="D__70">70%</div>
+                  </div>
+
+                  <div className="D__8">8</div>
+
+                  <div className="D__3">3</div>
+
+                  <div className="D__39">3</div>
+
+                  <div className="D__29">2</div>
+
+                  <div className="D__66">6</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D_D19">-</div>
+
+                  <div className="D_frame-749">
+                    <div className="D_D20">-</div>
+                  </div>
+                </div>
+
+                <div className="D_rectangle-496"></div>
+
+                <div className="D_moudule">
+                  <div className="D_frame-767">
+                    <div className="D_frame-7504">
+                      <div className="D__2021-12-01-15-30">
+                        2021-12-01 15:30
+                      </div>
+                    </div>
+
+                    <div className="D__70">70%</div>
+                  </div>
+
+                  <div className="D__8">8</div>
+
+                  <div className="D__3">3</div>
+
+                  <div className="D__39">3</div>
+
+                  <div className="D__29">2</div>
+
+                  <div className="D__66">6</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D_D19">-</div>
+
+                  <div className="D_frame-749">
+                    <div className="D_D20">-</div>
+                  </div>
+                </div>
+
+                <div className="D_rectangle-487"></div>
+
+                <div className="D_moudule">
+                  <div className="D_frame-767">
+                    <div className="D_frame-7504">
+                      <div className="D__2021-12-01-15-30">
+                        2021-12-01 15:30
+                      </div>
+                    </div>
+
+                    <div className="D__70">70%</div>
+                  </div>
+
+                  <div className="D__8">8</div>
+
+                  <div className="D__3">3</div>
+
+                  <div className="D__39">3</div>
+
+                  <div className="D__29">2</div>
+
+                  <div className="D__66">6</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D_D19">-</div>
+
+                  <div className="D_frame-749">
+                    <div className="D_D20">-</div>
+                  </div>
+                </div>
+
+                <div className="D_rectangle-497"></div>
+
+                <div className="D_moudule">
+                  <div className="D_frame-767">
+                    <div className="D_frame-7504">
+                      <div className="D__2021-12-01-15-30">
+                        2021-12-01 15:30
+                      </div>
+                    </div>
+
+                    <div className="D__70">70%</div>
+                  </div>
+
+                  <div className="D__8">8</div>
+
+                  <div className="D__3">3</div>
+
+                  <div className="D__39">3</div>
+
+                  <div className="D__29">2</div>
+
+                  <div className="D__66">6</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D__1">1</div>
+
+                  <div className="D_D19">-</div>
+
+                  <div className="D_frame-749">
+                    <div className="D_D20">-</div>
+                  </div>
+                </div>
+
+                <div className="D_rectangle-494"></div>
               </div>
             </div>
-
-            <div className="D_frame-1175">
-              <div className="D_module-list">
-                <div className="D_frame-750">
-                  <div className="D_frame-7502">
-                    <div className="D_D12">검사일시</div>
-                  </div>
-                </div>
-
-                <div className="D_D13">구강 위험도</div>
-
-                <div className="D_D13">결손기능 치아 수</div>
-
-                <div className="D_D14">관리도</div>
-
-                <div className="D_D15">필수 관리 치아</div>
-
-                <div className="D_D16">최대 치아 위험도</div>
-
-                <div className="D_D17">질병 종합위험도</div>
-
-                <div className="D_D14">치아 우식</div>
-
-                <div className="D_D14">치아 파절</div>
-
-                <div className="D_D14">치주 질환</div>
-
-                <div className="D_frame-749">
-                  <div className="D_D18">치경부 마모</div>
-                </div>
+          </Link>
+          <Link to="/patientlist" style={{ textDecoration: "none" }}>
+            <div className="D_module-bottom">
+              <div className="D_btn-linebox-medium">
+                <div className="D_D23">환자목록</div>
               </div>
-
-              <div className="D_module-list2">
-                <div className="D_frame-767">
-                  <div className="D_frame-7503">
-                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
-                  </div>
-
-                  <div className="D__70">70%</div>
-                </div>
-
-                <div className="D__8">8</div>
-
-                <div className="D__3">3</div>
-
-                <div className="D__39">3</div>
-
-                <div className="D__29">2</div>
-
-                <div className="D__66">6</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D_D19">-</div>
-
-                <div className="D_frame-749">
-                  <div className="D_D20">-</div>
-                </div>
-              </div>
-
-              <div className="D_rectangle-498"></div>
-
-              <div className="D_module-list2">
-                <div className="D_frame-767">
-                  <div className="D_frame-7504">
-                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
-                  </div>
-
-                  <div className="D__70">70%</div>
-                </div>
-
-                <div className="D__8">8</div>
-
-                <div className="D__3">3</div>
-
-                <div className="D__39">3</div>
-
-                <div className="D__29">2</div>
-
-                <div className="D__66">6</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D_D19">-</div>
-
-                <div className="D_frame-749">
-                  <div className="D_D20">-</div>
-                </div>
-              </div>
-
-              <div className="D_rectangle-495"></div>
-
-              <div className="D_module-list2">
-                <div className="D_frame-767">
-                  <div className="D_frame-7505">
-                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
-                  </div>
-
-                  <div className="D__702">70%</div>
-                </div>
-
-                <div className="D__82">8</div>
-
-                <div className="D__310">3</div>
-
-                <div className="D__311">3</div>
-
-                <div className="D__210">2</div>
-
-                <div className="D__67">-</div>
-
-                <div className="D__19">-</div>
-
-                <div className="D__19">-</div>
-
-                <div className="D_D21">-</div>
-
-                <div className="D_frame-7492">
-                  <div className="D_D22">-</div>
-                </div>
-              </div>
-
-              <div className="D_rectangle-491"></div>
-
-              <div className="D_module-list2">
-                <div className="D_frame-767">
-                  <div className="D_frame-7504">
-                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
-                  </div>
-
-                  <div className="D__70">70%</div>
-                </div>
-
-                <div className="D__8">8</div>
-
-                <div className="D__3">3</div>
-
-                <div className="D__39">3</div>
-
-                <div className="D__29">2</div>
-
-                <div className="D__66">6</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D_D19">-</div>
-
-                <div className="D_frame-749">
-                  <div className="D_D20">-</div>
-                </div>
-              </div>
-
-              <div className="D_rectangle-488"></div>
-
-              <div className="D_module-list2">
-                <div className="D_frame-767">
-                  <div className="D_frame-7504">
-                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
-                  </div>
-
-                  <div className="D__70">70%</div>
-                </div>
-
-                <div className="D__8">8</div>
-
-                <div className="D__3">3</div>
-
-                <div className="D__39">3</div>
-
-                <div className="D__29">2</div>
-
-                <div className="D__66">6</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D_D19">-</div>
-
-                <div className="D_frame-749">
-                  <div className="D_D20">-</div>
-                </div>
-              </div>
-
-              <div className="D_rectangle-492"></div>
-
-              <div className="D_moudule">
-                <div className="D_frame-767">
-                  <div className="D_frame-7504">
-                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
-                  </div>
-
-                  <div className="D__70">70%</div>
-                </div>
-
-                <div className="D__8">8</div>
-
-                <div className="D__3">3</div>
-
-                <div className="D__39">3</div>
-
-                <div className="D__29">2</div>
-
-                <div className="D__66">6</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D_D19">-</div>
-
-                <div className="D_frame-749">
-                  <div className="D_D20">-</div>
-                </div>
-              </div>
-
-              <div className="D_rectangle-490"></div>
-
-              <div className="D_moudule">
-                <div className="D_frame-767">
-                  <div className="D_frame-7504">
-                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
-                  </div>
-
-                  <div className="D__70">70%</div>
-                </div>
-
-                <div className="D__8">8</div>
-
-                <div className="D__3">3</div>
-
-                <div className="D__39">3</div>
-
-                <div className="D__29">2</div>
-
-                <div className="D__66">6</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D_D19">-</div>
-
-                <div className="D_frame-749">
-                  <div className="D_D20">-</div>
-                </div>
-              </div>
-
-              <div className="D_rectangle-496"></div>
-
-              <div className="D_moudule">
-                <div className="D_frame-767">
-                  <div className="D_frame-7504">
-                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
-                  </div>
-
-                  <div className="D__70">70%</div>
-                </div>
-
-                <div className="D__8">8</div>
-
-                <div className="D__3">3</div>
-
-                <div className="D__39">3</div>
-
-                <div className="D__29">2</div>
-
-                <div className="D__66">6</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D_D19">-</div>
-
-                <div className="D_frame-749">
-                  <div className="D_D20">-</div>
-                </div>
-              </div>
-
-              <div className="D_rectangle-487"></div>
-
-              <div className="D_moudule">
-                <div className="D_frame-767">
-                  <div className="D_frame-7504">
-                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
-                  </div>
-
-                  <div className="D__70">70%</div>
-                </div>
-
-                <div className="D__8">8</div>
-
-                <div className="D__3">3</div>
-
-                <div className="D__39">3</div>
-
-                <div className="D__29">2</div>
-
-                <div className="D__66">6</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D_D19">-</div>
-
-                <div className="D_frame-749">
-                  <div className="D_D20">-</div>
-                </div>
-              </div>
-
-              <div className="D_rectangle-497"></div>
-
-              <div className="D_moudule">
-                <div className="D_frame-767">
-                  <div className="D_frame-7504">
-                    <div className="D__2021-12-01-15-30">2021-12-01 15:30</div>
-                  </div>
-
-                  <div className="D__70">70%</div>
-                </div>
-
-                <div className="D__8">8</div>
-
-                <div className="D__3">3</div>
-
-                <div className="D__39">3</div>
-
-                <div className="D__29">2</div>
-
-                <div className="D__66">6</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D__1">1</div>
-
-                <div className="D_D19">-</div>
-
-                <div className="D_frame-749">
-                  <div className="D_D20">-</div>
-                </div>
-              </div>
-
-              <div className="D_rectangle-494"></div>
             </div>
-          </div>
-
-          <div className="D_module-bottom">
-            <div className="D_btn-linebox-medium">
-              <div className="D_D23">환자목록</div>
-            </div>
-          </div>
+          </Link>
         </div>
 
         <div className="D_bottom">

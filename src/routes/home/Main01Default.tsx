@@ -1,5 +1,6 @@
 import "../css/Main01Default.css";
 import ApexCharts from "apexcharts";
+import Menu from "./Menu";
 
 export interface IMain01DefaultProps {}
 
@@ -8,7 +9,7 @@ export const Main01Default = ({
 }: IMain01DefaultProps): JSX.Element => {
   return (
     <div className="M_main-01-default">
-      <div className="M_module-menu-status">
+      {/* <div className="M_module-menu-status">
         <div className="M_module-menu-hover">
           <div className="M_sidebar">
             <h1>ddddddddd</h1>
@@ -16,7 +17,9 @@ export const Main01Default = ({
         </div>
 
         <div className="M_frame-705"></div>
-      </div>
+      </div> */}
+
+      <Menu></Menu>
 
       <div className="M_contents">
         <div className="M_com-header">

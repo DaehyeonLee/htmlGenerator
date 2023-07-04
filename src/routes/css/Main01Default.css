@@ -1,3 +1,89 @@
+.menu_item {
+  position: absolute;
+  top : 120px;
+  height: 60px;
+  width: 250px;
+  padding-left: 35px;
+  background-color: white;
+  border: none;
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+}
+.menu_item:hover {
+  background-color: #F2FBFE;
+}
+.menu_itme_1 {
+  position: absolute;
+  top : 120px;
+}
+.menu_itme_2 {
+  position: absolute;
+  top : 180px;
+}
+.menu_itme_3 {
+  position: absolute;
+  top : 240px;
+}
+.menu_itme_4 {
+  position: absolute;
+  top : 300px;
+}
+.menu_itme_5 {
+  position: absolute;
+  top : 360px;
+}
+.menu_itme_6 {
+  position: absolute;
+  top : 420px;
+}
+.sizedBoxW10 {
+  width: 10px;
+}
+.sizedBoxW20 {
+  width: 20px;
+}
+.menuText {
+  color: var(--grayscale-600, #333333);
+  font: var(--subtitle-subtlitle-4-medium, 500 14px/22px "Poppins", sans-serif);
+}
+.moudle-menu-status_home{
+  /* display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px; */
+
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  width: 250px;
+}
+
+.group-686_home {
+  padding: 30px;
+}
+
+.module-menu-hover2_home{
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 2393px;
+  position: relative;
+}
+
 .M_main-01-default,
 .M_main-01-default * {
   box-sizing: border-box;

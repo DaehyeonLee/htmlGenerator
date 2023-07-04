@@ -1,4 +1,5 @@
 import "../css/Sub05ResultMain.css";
+import Menu from '../home/Menu';
 
 export interface ISub05ResultMainProps {}
 
@@ -7,15 +8,7 @@ export const Sub05ResultMain = ({
 }: ISub05ResultMainProps): JSX.Element => {
   return (
     <div className="R_sub-05-result-main">
-      <div className="R_module-menu-status-1">
-        <div className="R_module-menu-hover">
-          <div className="R_frame-7"></div>
-
-          <div className="R_frame-705"></div>
-        </div>
-
-        <div className="R_frame-705"></div>
-      </div>
+      <Menu/>
 
       <div className="R_result-contents">
         <div className="R_com-header">

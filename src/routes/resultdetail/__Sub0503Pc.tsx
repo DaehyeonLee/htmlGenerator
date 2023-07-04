@@ -1,3 +1,4 @@
+/* Code generated with AutoHTML Plugin for Figma */
 import "../css/Sub0503Pc.css";
 
 export interface ISub0503PcProps {}
@@ -2082,67 +2083,6 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                 <div className="P_frame-1622">
                   <div className="P_S20">생년월일</div>
 
-                  <div className="P_icon-calander">
-                    <div className="P_frame-calander-1">
-                      <svg
-                        className="P_vector22"
-                        width="16"
-                        height="14"
-                        viewBox="0 0 16 14"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <g clip-path="url(#clip0_730_80638)">
-                          <path
-                            d="M4.23047 18.5812V13.7812C4.23047 11.5712 6.02047 9.78125 8.23047 9.78125H15.2305C17.4405 9.78125 19.2305 11.5712 19.2305 13.7812V18.5812"
-                            stroke="black"
-                            stroke-width="1.5"
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                          />
-                          <path
-                            d="M2.75 20.8281H20.7"
-                            stroke="black"
-                            stroke-width="1.5"
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                          />
-                          <path
-                            d="M19.0701 16.2305C18.2501 16.2305 17.4401 14.2305 16.6201 14.2305C15.8001 14.2305 14.9901 16.2305 14.1701 16.2305C13.3501 16.2305 12.5401 14.2305 11.7201 14.2305C10.9001 14.2305 10.0901 16.2305 9.27012 16.2305C8.45012 16.2305 7.64012 14.2305 6.82012 14.2305C6.00012 14.2305 5.19012 16.2305 4.37012 16.2305"
-                            stroke="black"
-                            stroke-width="1.3"
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                          />
-                          <path
-                            d="M11.7305 6.87891V9.77891"
-                            stroke="black"
-                            stroke-width="1.5"
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                          />
-                          <path
-                            d="M11.7305 4.25V4.62"
-                            stroke="black"
-                            stroke-width="1.5"
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                          />
-                        </g>
-                        <defs>
-                          <clipPath id="clip0_730_80638">
-                            <rect
-                              width="19.45"
-                              height="18.08"
-                              fill="white"
-                              transform="translate(2 3.5)"
-                            />
-                          </clipPath>
-                        </defs>
-                      </svg>
-                    </div>
-                  </div>
-
                   <div className="P__1984-09-052">1984-09-05</div>
                 </div>
 
@@ -2228,53 +2168,6 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
 
                 <div className="P_frame-1621">
                   <div className="P_S20">병원</div>
-
-                  <div className="P_icon-calander">
-                    <div className="P_frame-calander-1">
-                      <svg
-                        className="P_vector21"
-                        width="16"
-                        height="14"
-                        viewBox="0 0 16 14"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <g clip-path="url(#clip0_730_80649)">
-                          <path
-                            d="M12.1298 13.7089C13.8088 13.7089 15.1698 12.3479 15.1698 10.6689C15.1698 8.98996 13.8088 7.62891 12.1298 7.62891C10.4509 7.62891 9.08984 8.98996 9.08984 10.6689C9.08984 12.3479 10.4509 13.7089 12.1298 13.7089Z"
-                            stroke="black"
-                            stroke-width="1.5"
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                          />
-                          <path
-                            d="M12.1609 21.0417C12.1609 21.0417 18.0209 16.8417 18.5509 10.6817C18.8609 7.15172 15.6709 4.26172 12.1309 4.26172"
-                            stroke="black"
-                            stroke-width="1.5"
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                          />
-                          <path
-                            d="M12.1597 21.04C12.1597 21.04 6.29965 16.84 5.76965 10.67C5.46965 7.14 8.64965 4.25 12.1897 4.25"
-                            stroke="black"
-                            stroke-width="1.5"
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                          />
-                        </g>
-                        <defs>
-                          <clipPath id="clip0_730_80649">
-                            <rect
-                              width="14.33"
-                              height="18.29"
-                              fill="white"
-                              transform="translate(5 3.5)"
-                            />
-                          </clipPath>
-                        </defs>
-                      </svg>
-                    </div>
-                  </div>
 
                   <div className="P_S21">서울 강남 리브치과</div>
                 </div>
@@ -2470,156 +2363,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
 
                 <div className="P_S29">나의 치아 상태</div>
 
-                <div className="P_frame-2138">
-                  <svg
-                    width="1108"
-                    height="33"
-                    viewBox="0 0 1108 33"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M16 26.5C21.5228 26.5 26 22.0228 26 16.5C26 10.9772 21.5228 6.5 16 6.5C10.4771 6.5 6 10.9772 6 16.5C6 22.0228 10.4771 26.5 16 26.5Z"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M20.1004 19.0703C19.4504 20.2303 17.8504 21.0403 15.9904 21.0403C14.1304 21.0403 12.5704 20.2403 11.9004 19.1103"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M10.0498 14.3897C10.3398 13.5297 11.0598 12.9297 11.8998 12.9297C12.7398 12.9297 13.4398 13.5197 13.7398 14.3597"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M18.4297 14.3897C18.7197 13.5297 19.4397 12.9297 20.2797 12.9297C21.1197 12.9297 21.8197 13.5197 22.1197 14.3597"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M823 26.5C828.523 26.5 833 22.0228 833 16.5C833 10.9772 828.523 6.5 823 6.5C817.477 6.5 813 10.9772 813 16.5C813 22.0228 817.477 26.5 823 26.5Z"
-                      stroke="#203F78"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M825.971 14.6208V13.8008"
-                      stroke="#203F78"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M820.029 14.6208V13.8008"
-                      stroke="#203F78"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M818.9 20.7708C819.55 19.6108 821.15 18.8008 823.01 18.8008C824.87 18.8008 826.43 19.6008 827.1 20.7308"
-                      stroke="#203F78"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M285 26.5C290.523 26.5 295 22.0228 295 16.5C295 10.9772 290.523 6.5 285 6.5C279.477 6.5 275 10.9772 275 16.5C275 22.0228 279.477 26.5 285 26.5Z"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M287.971 14.6208V13.8008"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M282.039 14.6208V13.8008"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M289.11 19.0703C288.46 20.2303 286.86 21.0403 285 21.0403C283.14 21.0403 281.58 20.2403 280.91 19.1103"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M554 26.5C559.523 26.5 564 22.0228 564 16.5C564 10.9772 559.523 6.5 554 6.5C548.477 6.5 544 10.9772 544 16.5C544 22.0228 548.477 26.5 554 26.5Z"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M556.971 14.6208V13.8008"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M551.029 14.6208V13.8008"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M549.9 20.1992H558.1"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M1092 26.5C1097.52 26.5 1102 22.0228 1102 16.5C1102 10.9772 1097.52 6.5 1092 6.5C1086.48 6.5 1082 10.9772 1082 16.5C1082 22.0228 1086.48 26.5 1092 26.5Z"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M1094.62 14.4283L1095.31 13.9883"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M1089.38 14.4283L1088.69 13.9883"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M1087.9 20.7708C1088.55 19.6108 1090.15 18.8008 1092.01 18.8008C1093.87 18.8008 1095.43 19.6008 1096.1 20.7308"
-                      stroke="#B9B9B9"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                  </svg>
-                </div>
+                <div className="P_frame-2138"></div>
               </div>
             </div>
           </div>
@@ -3953,11 +3697,6 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                 <div className="P_S30">구강관리도</div>
 
                 <div className="P_line-192"></div>
-                <div className="P_frame-2906">
-                  관리가 필요한 상태 입니다.
-                  <span className="P_bold-em"> 4개월 내</span> 치과방문을
-                  추천합니다.
-                </div>
               </div>
 
               <div className="P_frame-2126">
@@ -3991,13 +3730,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                   />
                 </svg>
 
-                <div className="P_frame-1709">
-                  <div className="P_frame-2884">
-                    <div className="P_H22">오지명님은</div>
-
-                    <div className="P_m_2">현재 2단계</div>
-                  </div>
-                </div>
+                <div className="P_frame-1709"></div>
               </div>
             </div>
 
@@ -4007,9 +3740,9 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
 
                 <img className="P_rectangle-759" src="rectangle-759.png" />
 
-                <img className="P_rectangle-7712" src="rectangle-771.png" />
+                <img className="P_rectangle-7712" src="rectangle-7712.png" />
 
-                <img className="P_rectangle-7722" src="rectangle-772.png" />
+                <img className="P_rectangle-7722" src="rectangle-7722.png" />
 
                 <img className="P_rectangle-769" src="rectangle-769.png" />
 
@@ -4090,7 +3823,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
 
                 <div className="P_contents2">
                   <div className="P_tooth-1">
-                    <div className="P_7-2">
+                    <div className="P__7-2">
                       상악오른쪽 7번
                       <br />
                       (제2대구치)

@@ -21,21 +21,21 @@
   position: absolute;
   top: 180px;
 }
-.menu_itme_3 {
+/* .menu_itme_3 {
+  position: absolute;
+  top: 240px;
+} */
+.menu_itme_4 {
   position: absolute;
   top: 240px;
 }
-.menu_itme_4 {
-  position: absolute;
-  top: 300px;
-}
-.menu_itme_5 {
+/* .menu_itme_5 {
   position: absolute;
   top: 360px;
-}
+} */
 .menu_itme_6 {
   position: absolute;
-  top: 420px;
+  top: 300px;
 }
 .sizedBoxW10 {
   width: 10px;
@@ -65,7 +65,7 @@
   align-self: stretch;
   flex-shrink: 0;
   position: relative;
-  width: 250px;
+  /* width: 250px; */
 }
 
 .group-686_home {

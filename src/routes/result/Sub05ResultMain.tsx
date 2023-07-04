@@ -680,7 +680,7 @@ export const Sub05ResultMain = ({
         <div className="R_bottom">
           <div className="R_module-floating">
             <div className="R_btn-floating-plus">
-              <div className="R_ellipse-11"></div>
+              {/* <div className="R_ellipse-11"></div>
 
               <div className="R_line-2"></div>
 
@@ -715,12 +715,12 @@ export const Sub05ResultMain = ({
                     strokeWidth="3"
                     strokeLinecap="round"
                   />
-                </svg>
-              </div>
+                </svg> */}
             </div>
           </div>
         </div>
       </div>
     </div>
+    // </div>
   );
 };

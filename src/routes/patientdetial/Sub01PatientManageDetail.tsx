@@ -856,7 +856,7 @@ export const Sub01PatientManageDetail = ({
               <div className="D_frame-1201">
                 <div className="D_D10">검사결과</div>
 
-                <div className="D_frame-1194">
+                {/* <div className="D_frame-1194">
                   <div className="D_button-sub-2-dapth2">
                     <div className="D_frame-9092">
                       <div className="D_D11">검사결과 등록</div>
@@ -888,7 +888,7 @@ export const Sub01PatientManageDetail = ({
                       />
                     </svg>
                   </div>
-                </div>
+                </div> */}
               </div>
 
               <div className="D_frame-1175">
@@ -1276,16 +1276,16 @@ export const Sub01PatientManageDetail = ({
         <div className="D_bottom">
           <div className="D_module-floating">
             <div className="D_btn-floating-plus">
-              <div className="D_ellipse-11"></div>
+              {/* <div className="D_ellipse-11"></div>
 
               <div className="D_line-2"></div>
 
               <div className="D_line-3"></div>
 
               <div className="D_group-21">
-                <div className="D_ellipse-112"></div>
+                <div className="D_ellipse-112"></div> */}
 
-                <svg
+              {/* <svg
                   className="D_group-736"
                   width="24"
                   height="24"
@@ -1311,12 +1311,12 @@ export const Sub01PatientManageDetail = ({
                     strokeWidth="3"
                     strokeLinecap="round"
                   />
-                </svg>
-              </div>
+                </svg> */}
             </div>
           </div>
         </div>
       </div>
     </div>
+    // </div>
   );
 };

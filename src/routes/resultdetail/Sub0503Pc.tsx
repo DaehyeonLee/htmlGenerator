@@ -1,12 +1,12 @@
 import "../css/Sub0503Pc.css";
-import Menu from '../home/Menu';
+import Menu from "../home/Menu";
 
 export interface ISub0503PcProps {}
 
 export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
   return (
     <div className="P_sub-05-03-pc">
-      <Menu/>
+      <Menu />
 
       <div className="P_contents">
         <div className="P_com-header">
@@ -4610,7 +4610,7 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
         <div className="P_bottom">
           <div className="P_module-floating">
             <div className="P_btn-floating-plus">
-              <div className="P_ellipse-11"></div>
+              {/* <div className="P_ellipse-11"></div>
 
               <div className="P_line-2"></div>
 
@@ -4645,13 +4645,13 @@ export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
                     strokeWidth="3"
                     strokeLinecap="round"
                   />
-                </svg>
-              </div>
+                </svg> */}
             </div>
           </div>
         </div>
       </div>
     </div>
+    // </div>
   );
 };
 export default Sub0503Pc;

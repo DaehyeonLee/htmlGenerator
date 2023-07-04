@@ -417,9 +417,8 @@ export const Main01Default = ({
           <div className="M_frame-1173">
             <div className="M_frame-1145">
               <div className="M_group-741">
-                <div className="M_rectangle-533"></div>
-
-                <svg
+                {/* <div className="M_rectangle-533"></div> */}
+                {/* <svg
                   className="M_icon"
                   width="32"
                   height="32"
@@ -434,7 +433,7 @@ export const Main01Default = ({
                     strokeLinecap="round"
                     strokeLinejoin="round"
                   />
-                </svg>
+                </svg> */}
               </div>
             </div>
           </div>
@@ -1148,16 +1147,16 @@ export const Main01Default = ({
         <div className="M_bottom">
           <div className="M_module-floating">
             <div className="M_btn-floating-plus">
-              <div className="M_ellipse-11"></div>
+              {/* <div className="M_ellipse-11"></div> */}
 
-              <div className="M_line-2"></div>
+              {/* <div className="M_line-2"></div> */}
 
-              <div className="M_line-3"></div>
+              {/* <div className="M_line-3"></div> */}
 
-              <div className="M_group-21">
-                <div className="M_ellipse-112"></div>
+              {/* <div className="M_group-21">
+                {/* <div className="M_ellipse-112"></div> */}
 
-                <svg
+              {/* <svg
                   className="M_group-736"
                   width="24"
                   height="24"
@@ -1183,8 +1182,8 @@ export const Main01Default = ({
                     strokeWidth="3"
                     strokeLinecap="round"
                   />
-                </svg>
-              </div>
+                </svg> 
+              </div> */}
             </div>
           </div>
         </div>

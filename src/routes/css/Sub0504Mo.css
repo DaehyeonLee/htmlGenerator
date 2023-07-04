@@ -127,7 +127,7 @@
 }
 .span2 {
   color: var(--grayscale-600, #333333);
-  font: 700 24px/34px "Pretendard", sans-serif;
+  font: 700 23px/34px "Pretendard", sans-serif;
 }
 .frame-2950 {
   display: flex;

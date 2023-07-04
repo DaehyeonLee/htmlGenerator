@@ -206,17 +206,17 @@ export const Sub0504Mo = ({ ...props }: ISub0504MoProps): JSX.Element => {
               <div className="H5">구강관리도</div>
             </div>
 
-            <div className="frame-2954">
+            {/* <div className="frame-2954">
               <div className="H5">치아별 위험</div>
-            </div>
+            </div> */}
 
-            <div className="frame-2955">
+            {/* <div className="frame-2955">
               <div className="H5">예측 잔존치아 수</div>
             </div>
 
             <div className="frame-2956">
               <div className="H5">구강 건강 관리</div>
-            </div>
+            </div> */}
           </div>
 
           <div className="frame-2960">

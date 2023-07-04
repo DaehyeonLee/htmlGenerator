@@ -27,13 +27,13 @@ const Menu = () => {
           <div className="menuText">환자 관리</div>
         </Link>
       </button>
-      <button className="menu_item menu_itme_3" name="results">
+      {/* <button className="menu_item menu_itme_3" name="results">
         <img src="/menuicon3.png" />
         <div className="sizedBoxW20"></div>
         <Link to="/patientdetail" style={{ textDecoration: "none" }}>
           <div className="menuText">환자 상세</div>
         </Link>
-      </button>
+      </button> */}
       <button className="menu_item menu_itme_4" name="schedule">
         <img src="/menuicon4.png" />
         <div className="sizedBoxW20"></div>
@@ -41,13 +41,13 @@ const Menu = () => {
           <div className="menuText">결과 보기</div>
         </Link>
       </button>
-      <button className="menu_item menu_itme_5" name="performance">
+      {/* <button className="menu_item menu_itme_5" name="performance">
         <img src="/menuicon5.png" />
         <div className="sizedBoxW20"></div>
         <Link to="/resultdetail" style={{ textDecoration: "none" }}>
           <div className="menuText">결과 상세</div>
         </Link>
-      </button>
+      </button> */}
       <button className="menu_item menu_itme_6" name="analytics">
         <img src="/menuicon6.png" />
         <div className="sizedBoxW20"></div>

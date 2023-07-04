@@ -1,17 +1,12 @@
 import "../css/Sub0503Pc.css";
+import Menu from '../home/Menu';
 
 export interface ISub0503PcProps {}
 
 export const Sub0503Pc = ({ ...props }: ISub0503PcProps): JSX.Element => {
   return (
     <div className="P_sub-05-03-pc">
-      <div className="P_module-menu">
-        <div className="P_module-menu-hover">
-          <div className="P_frame-7"></div>
-        </div>
-
-        <div className="P_frame-705"></div>
-      </div>
+      <Menu/>
 
       <div className="P_contents">
         <div className="P_com-header">

@@ -1,5 +1,6 @@
 /* Code generated with AutoHTML Plugin for Figma */
 import "../css/Sub01PatientManageDetail.css";
+import Menu from '../home/Menu';
 
 export interface ISub01PatientManageDetailProps {}
 
@@ -8,13 +9,7 @@ export const Sub01PatientManageDetail = ({
 }: ISub01PatientManageDetailProps): JSX.Element => {
   return (
     <div className="D_sub-01-patient-manage-detail">
-      <div className="D_module-menu-status">
-        <div className="D_module-menu-hover">
-          <div className="D_frame-7"></div>
-        </div>
-
-        <div className="D_frame-705"></div>
-      </div>
+      <Menu/>
 
       <div className="D_patient-detail-contents">
         <div className="D_com-header">
